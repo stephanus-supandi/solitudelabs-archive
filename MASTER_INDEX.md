@@ -1,6 +1,6 @@
 # SolitudeLabs — Master Index
 
-Chronological index of published articles represented in this archive.
+Chronological index of published articles and supporting research dossiers represented in this archive.
 
 ## 2026-11-06
 
@@ -14,8 +14,13 @@ Chronological index of published articles represented in this archive.
 2. [Mencari Samsung Service Center di Bekasi: Dari Ingatan Giant Sampai Mega Bekasi Hypermall](investigations/2026-11-06-samsung-service-center-bekasi.md)  
    A location-history inquiry into a Samsung service-center listing at Mega Bekasi Hypermall, including conflicting unit numbers and the unverified memory linking the location to Giant.
 
+## Cross-article research
+
+- [Bekasi Spatial Memory and Urban Change — Research Dossier](research/2026-11-06-bekasi-spatial-memory-dossier.md)  
+  A comparative working note connecting the two investigations through observed space, remembered space, and documented space. Includes methodological cautions, unverified hypotheses, a proposed umbrella article, and open verification tasks. This is a research dossier, not a third published article.
+
 ## Archive rules
 
 - See [METHODOLOGY.md](METHODOLOGY.md) for evidence labels and source handling.
 - See [data/articles.json](data/articles.json) for structured article metadata.
-- Original publication pages remain canonical; archive summaries do not replace them.
+- Original publication pages remain canonical; archive summaries and research dossiers do not replace them.
