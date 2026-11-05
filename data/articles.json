@@ -3,7 +3,12 @@
     "id": "2026-11-06-nakula-raya-patung-kuda",
     "title": "Dari Jalan Nakula Raya Sampai Patung Kuda: Menelusuri Gang, Jalan, Taman, dan Kuliner Taman Galaxy Bekasi",
     "published": "2026-11-06",
-    "category": ["BLOON Investigation", "Urban Archaeology", "Local History", "Society"],
+    "category": [
+      "BLOON Investigation",
+      "Urban Archaeology",
+      "Local History",
+      "Society"
+    ],
     "location": "Jakasetia, Bekasi Selatan, Kota Bekasi, Jawa Barat, Indonesia",
     "wordpress": "https://solitudelabs.wordpress.com/2026/11/06/dari-jalan-nakula-raya-sampai-patung-kuda-menelusuri-gang-jalan-taman-dan-kuliner-taman-galaxy-bekasi/",
     "blogger": "https://solitudelabs.blogspot.com/2026/11/dari-jalan-nakula-raya-sampai-patung.html",
@@ -20,7 +25,12 @@
     "id": "2026-11-06-samsung-service-center-bekasi",
     "title": "Mencari Samsung Service Center di Bekasi: Dari Ingatan Giant Sampai Mega Bekasi Hypermall",
     "published": "2026-11-06",
-    "category": ["BLOON Investigation", "Urban Archaeology", "Technology", "Local Business"],
+    "category": [
+      "BLOON Investigation",
+      "Urban Archaeology",
+      "Technology",
+      "Local Business"
+    ],
     "location": "Mega Bekasi Hypermall, Jalan Jenderal Ahmad Yani No. 1, Bekasi, Jawa Barat, Indonesia",
     "wordpress": "https://solitudelabs.wordpress.com/2026/11/06/mencari-samsung-service-center-di-bekasi-dari-ingatan-giant-sampai-mega-bekasi-hypermall/",
     "blogger": "https://solitudelabs.blogspot.com/2026/11/mencari-samsung-service-center-di.html",
@@ -32,5 +42,32 @@
       "The remembered connection between the location and Giant remains unverified."
     ],
     "method_note": "Directory information and historical memory are not proof of current operation or a confirmed tenant history."
+  },
+  {
+    "id": "2026-11-06-bekasi-spatial-memory-dossier",
+    "title": "Bekasi Spatial Memory and Urban Change — Research Dossier",
+    "prepared": "2026-11-06",
+    "type": "working research dossier",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Urban Archaeology",
+      "Local History",
+      "Research Methods"
+    ],
+    "location": "Bekasi, Jawa Barat, Indonesia",
+    "sources": [
+      "https://solitudelabs.wordpress.com/2026/11/06/dari-jalan-nakula-raya-sampai-patung-kuda-menelusuri-gang-jalan-taman-dan-kuliner-taman-galaxy-bekasi/",
+      "https://solitudelabs.wordpress.com/2026/11/06/mencari-samsung-service-center-di-bekasi-dari-ingatan-giant-sampai-mega-bekasi-hypermall/"
+    ],
+    "archive_record": "research/2026-11-06-bekasi-spatial-memory-dossier.md",
+    "summary": "Comparative working note connecting the Nakula Raya neighborhood survey and remembered Samsung Service Center search through observed, remembered, and documented space.",
+    "open_questions": [
+      "The remembered Samsung Service Center / Giant association remains unverified.",
+      "The historical relationship, if any, between the spelling Akula and Nakula is not established.",
+      "The exact identity and continuity of the Patung Kuda landmark require dated visual and geospatial verification.",
+      "A single continuous transect connecting all mentioned places requires coordinates, temporal alignment, and evidence."
+    ],
+    "method_note": "Memory is a lead, not proof. Preserve uncertainty and distinguish observation, recollection, source reporting, inference, and unknowns."
   }
 ]
