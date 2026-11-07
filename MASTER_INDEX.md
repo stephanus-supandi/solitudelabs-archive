@@ -9,6 +9,9 @@ Chronological index of published articles and supporting research dossiers repre
 1. [BSK ke Kemang Pratama: Ingatan SMP, Google Maps, dan AI yang Terlalu Yakin](investigations/2026-11-08-bsk-kemang-pratama-ingatan-smp-google-maps-ai.md)  
    A BLOON investigation separating personal recollection, geographic plausibility, documented neighborhood history, and AI-generated reconstruction. Includes a supplementary methodological note on how human memory, maps, witnesses, and AI can correct one another without becoming unquestionable authorities.
 
+2. [Laundry yang Hilang di Jl. Bintang Raya](investigations/2026-11-08-laundry-yang-hilang-di-jl-bintang-raya.md)  
+   A micro-investigation into a remembered laundry business in Jaka Setia, Bekasi Selatan. Separates the existence of the street from the unverified existence and identity of the historical business; includes a post-publication audit cautioning against AI claims about multiple same-named streets and speculative reasons for closure.
+
 ## 2026-11-07
 
 ### Cultural research · Folklore · Literature · Cinema
