@@ -2,6 +2,13 @@
 
 Chronological index of published articles and supporting research dossiers represented in this archive.
 
+## 2026-11-08
+
+### Urban archaeology · Spatial memory · AI literacy
+
+1. [BSK ke Kemang Pratama: Ingatan SMP, Google Maps, dan AI yang Terlalu Yakin](investigations/2026-11-08-bsk-kemang-pratama-ingatan-smp-google-maps-ai.md)  
+   A BLOON investigation separating personal recollection, geographic plausibility, documented neighborhood history, and AI-generated reconstruction. Includes a supplementary methodological note on how human memory, maps, witnesses, and AI can correct one another without becoming unquestionable authorities.
+
 ## 2026-11-07
 
 ### Cultural research · Folklore · Literature · Cinema
