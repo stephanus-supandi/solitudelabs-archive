@@ -69,5 +69,54 @@
       "A single continuous transect connecting all mentioned places requires coordinates, temporal alignment, and evidence."
     ],
     "method_note": "Memory is a lead, not proof. Preserve uncertainty and distinguish observation, recollection, source reporting, inference, and unknowns."
+  },
+  {
+    "id": "2026-11-07-bam-bam-pamungkas-ensiklopedia-bloon",
+    "title": "BAM BAM PAMUNGKAS — ENSIKLOPEDIA BLOON INTERNASIONAL!",
+    "published": "2026-11-07",
+    "category": [
+      "BLOON Investigation",
+      "Editorial Manifesto",
+      "Research Methods",
+      "Culture"
+    ],
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/07/bam-bam-pamungkas-ensiklopedia-bloon-internasional/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/bam-bam-pamungkas-ensiklopedia-bloon.html",
+    "archive_record": "investigations/2026-11-07-bam-bam-pamungkas-ensiklopedia-bloon.md",
+    "summary": "Manifesto for Ensiklopedia BLOON as an independent editorial project documenting facts, memories, hypotheses, uncertainty, and research status transparently.",
+    "open_questions": [
+      "The remembered Circle K outlet near the present-day BNI area in Taman Galaxy, circa 1996–2000, remains personal memory and is not independently verified.",
+      "The Blogger page content was not independently verified during this archive operation."
+    ],
+    "method_note": "Do not infer that the title refers to footballer Bambang Pamungkas, a nickname, or a Flintstones character without independent evidence."
+  },
+  {
+    "id": "2026-11-07-leak-bali-mitologi-dan-sinema",
+    "title": "LEAK BALI — ANTARA KUTUKAN, ILMU PENGLEAKAN, CALON ARANG, DAN MITOLOGI PULAU DEWATA",
+    "published": "2026-11-07",
+    "category": [
+      "BLOON Investigation",
+      "Cultural Research",
+      "Balinese Folklore",
+      "Literature",
+      "Cinema"
+    ],
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/07/leak-bali-antara-kutukan-ilmu-pengleakan-calon-arang-dan-mitologi-pulau-dewata/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/leak-bali-antara-kutukan-ilmu.html",
+    "archive_record": "investigations/2026-11-07-leak-bali-mitologi-dan-sinema.md",
+    "summary": "Cultural research article examining Leak through Balinese belief and folklore, lontar-related discussion, Calon Arang literature, performance traditions, and the influence of Mystics in Bali (1981).",
+    "sources": [
+      "https://doi.org/10.55959/MSU0320-8095-13-70-1-7",
+      "https://disbudpar.bulelengkab.go.id/informasi/detail/artikel/37-pangiwa-atau-ilmu-hitam-pada-lontar",
+      "https://doi.org/10.31091/bbwp.v5i1.640",
+      "https://doi.org/10.30883/jba.v22i1.848"
+    ],
+    "open_questions": [
+      "The precise scope and meaning of Leak and pengleakan vary by source and context and should not be flattened into one definition.",
+      "The relationship between cinematic imagery and specific contemporary community beliefs requires further source-specific research.",
+      "The WordPress page contained a stray <PRIVATE_PERSON>? placeholder in its film section; correction is pending author action.",
+      "The Blogger page content was not independently verified during the publication check."
+    ],
+    "method_note": "Distinguish folklore, belief, literary interpretation, performance, popular representation, and empirical claims. Supernatural transformation claims are not empirically verified."
   }
 ]
