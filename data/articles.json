@@ -118,5 +118,28 @@
       "The Blogger page content was not independently verified during the publication check."
     ],
     "method_note": "Distinguish folklore, belief, literary interpretation, performance, popular representation, and empirical claims. Supernatural transformation claims are not empirically verified."
+  },
+  {
+    "id": "2026-11-07-kalkulator-goblok-validasi-numerik",
+    "title": "KALKULATOR GOBLOK — 2 + 2 = 4, TETAPI SIAPA YANG MENJAMIN ANGKA 2 ITU BENAR?",
+    "published": "2026-11-07",
+    "category": [
+      "BLOON Investigation",
+      "Research Methods",
+      "Numerical Literacy",
+      "Financial Research",
+      "Banking"
+    ],
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/07/kalkulator-goblok-2-2-4-tetapi-siapa-yang-menjamin-angka-2-itu-benar/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/kalkulator-goblok-2-2-4-tetapi-siapa.html",
+    "archive_record": "investigations/2026-11-07-kalkulator-goblok-validasi-numerik.md",
+    "supporting_research": "research/2026-11-07-kalkulator-goblok-editorial-audit.md",
+    "summary": "A numerical-literacy and financial-research article using rounded Bank Ina financial figures to distinguish mathematical correctness, empirical inputs, data provenance, rounding, and interpretation. BLOON BANK CALCULATOR is presented as a proposal, not a completed or tested application.",
+    "open_questions": [
+      "The Blogger publication was reported by an AI summary as displaying only a Skip to main content fragment; the actual page content needs direct verification.",
+      "Full-precision audited financial statement values should be extracted before claiming exact balance-sheet reconciliation.",
+      "The BLOON BANK CALCULATOR remains a proposed project; no implementation or test result is claimed."
+    ],
+    "method_note": "Mathematical correctness does not validate empirical inputs. Separate formal arithmetic, measurement, data provenance, implementation, and interpretation. CALCULATED is not equivalent to VERIFIED."
   }
 ]
