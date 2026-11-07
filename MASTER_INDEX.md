@@ -17,6 +17,12 @@ Chronological index of published articles and supporting research dossiers repre
 5. [Leak Bali Editorial Audit](research/2026-11-07-leak-bali-editorial-audit.md)  
    Post-publication audit preserving methodological cautions, a suggested cultural-context footnote, and QA findings. This is a research note, not a separate published article.
 
+6. [Kalkulator Goblok — 2 + 2 = 4, Tetapi Siapa yang Menjamin Angka 2 Itu Benar?](investigations/2026-11-07-kalkulator-goblok-validasi-numerik.md)  
+   A numerical-literacy and financial-research article using the Bank Ina case to distinguish mathematical correctness, rounded financial inputs, data provenance, and interpretation. The BLOON BANK CALCULATOR is presented as a proposal, not a completed or tested application.
+
+7. [Kalkulator Goblok Editorial Audit](research/2026-11-07-kalkulator-goblok-editorial-audit.md)  
+   A methodological audit clarifying the distinction between formal mathematical truth and empirical validation, with a four-layer validation model and notes on rounding, Decimal, and pytest. This is a research note, not a separate published article.
+
 ## 2026-11-06
 
 ### Urban archaeology · Local history · Society
