@@ -2,6 +2,21 @@
 
 Chronological index of published articles and supporting research dossiers represented in this archive.
 
+## 2026-11-07
+
+### Cultural research · Folklore · Literature · Cinema
+
+3. [Leak Bali — Antara Kutukan, Ilmu Pengleakan, Calon Arang, dan Mitologi Pulau Dewata](investigations/2026-11-07-leak-bali-mitologi-dan-sinema.md)  
+   A cultural research article examining Leak through Balinese belief and folklore, lontar-related discussion, Calon Arang literature, performance traditions, and the influence of *Mystics in Bali* (1981). Includes source trail, evidence boundaries, and a publication QA note.
+
+### Editorial · Research methodology
+
+4. [Bam Bam Pamungkas — Ensiklopedia BLOON Internasional](investigations/2026-11-07-bam-bam-pamungkas-ensiklopedia-bloon.md)  
+   A manifesto for Ensiklopedia BLOON as an independent editorial project, with evidence-status labels and rules for distinguishing facts, memories, hypotheses, and unknowns.
+
+5. [Leak Bali Editorial Audit](research/2026-11-07-leak-bali-editorial-audit.md)  
+   Post-publication audit preserving methodological cautions, a suggested cultural-context footnote, and QA findings. This is a research note, not a separate published article.
+
 ## 2026-11-06
 
 ### Urban archaeology · Local history · Society
