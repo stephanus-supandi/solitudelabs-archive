@@ -165,5 +165,30 @@
       "The historical presence and condition of Taman Rusa before 2000 have not been established by the cited later reports."
     ],
     "method_note": "Separate observation, memory, inference, and verification. Geographic plausibility and proof that a place existed do not establish a person's presence there. Human witnesses, maps, documents, and AI are evidence sources with different scopes and limitations."
+  },
+  {
+    "id": "2026-11-08-laundry-yang-hilang-di-jl-bintang-raya",
+    "title": "Laundry yang Hilang di Jl. Bintang Raya",
+    "published": "2026-11-08",
+    "category": [
+      "BLOON Investigation",
+      "Urban Archaeology",
+      "Spatial Memory",
+      "Local Business",
+      "Research Methods"
+    ],
+    "location": "Jaka Setia / Taman Galaxy, Bekasi Selatan, Kota Bekasi, Jawa Barat, Indonesia",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/08/laundry-yang-hilang-di-jl-bintang-raya/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/laundry-yang-hilang-di-jl-bintang-raya.html",
+    "archive_record": "investigations/2026-11-08-laundry-yang-hilang-di-jl-bintang-raya.md",
+    "summary": "A micro-investigation into a remembered laundry business possibly located on Jl. Bintang Raya. It distinguishes geographic confirmation of a street from the still-unverified historical business, identity, operating period, and any relationship to current laundry listings nearby. Includes a post-publication audit of overconfident AI claims.",
+    "open_questions": [
+      "Which Jl. Bintang Raya and which exact segment does the user's memory refer to?",
+      "Did a laundry business actually operate at that remembered location, and during what period?",
+      "What was the business name, owner, and exact address?",
+      "Was the business closed, relocated, renamed, or replaced? No cause or continuity has been established.",
+      "The claim that there are three separate Jl. Bintang Raya locations in Bekasi is not fully verified in this archive record."
+    ],
+    "method_note": "A current street listing does not prove a historical tenant. Nearby current laundry listings do not prove relocation or continuity. Plausible business-closure explanations remain hypotheses until supported by evidence."
   }
 ]
