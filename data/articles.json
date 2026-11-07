@@ -141,5 +141,29 @@
       "The BLOON BANK CALCULATOR remains a proposed project; no implementation or test result is claimed."
     ],
     "method_note": "Mathematical correctness does not validate empirical inputs. Separate formal arithmetic, measurement, data provenance, implementation, and interpretation. CALCULATED is not equivalent to VERIFIED."
+  },
+  {
+    "id": "2026-11-08-bsk-kemang-pratama-ingatan-smp-google-maps-ai",
+    "title": "BSK ke Kemang Pratama: Ingatan SMP, Google Maps, dan AI yang Terlalu Yakin",
+    "published": "2026-11-08",
+    "category": [
+      "BLOON Investigation",
+      "Urban Archaeology",
+      "Spatial Memory",
+      "AI Literacy",
+      "Research Methods"
+    ],
+    "location": "Bumi Satria Kencana, Kayuringin Jaya, Bekasi Selatan; Kemang Pratama, Rawalumbu, Kota Bekasi, Jawa Barat, Indonesia",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/08/bsk-ke-kemang-pratama-ingatan-smp-google-maps-dan-ai-yang-terlalu-yakin/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/bsk-ke-kemang-pratama-ingatan-smp.html",
+    "archive_record": "investigations/2026-11-08-bsk-kemang-pratama-ingatan-smp-google-maps-ai.md",
+    "summary": "An investigation separating personal recollection of a pre-2000 visit, geographic plausibility between BSK and Kemang Pratama, documented neighborhood history, and AI-generated reconstruction. Includes a methodological note on mutual correction among human memory, maps, witnesses, and AI.",
+    "open_questions": [
+      "The remembered visit to Kemang Pratama before 2000 remains personal recollection and has not been independently corroborated.",
+      "The exact route taken from BSK to Kemang Pratama is unknown.",
+      "The purpose of the remembered visit is unknown; there is no evidence that Taman Rusa was the destination.",
+      "The historical presence and condition of Taman Rusa before 2000 have not been established by the cited later reports."
+    ],
+    "method_note": "Separate observation, memory, inference, and verification. Geographic plausibility and proof that a place existed do not establish a person's presence there. Human witnesses, maps, documents, and AI are evidence sources with different scopes and limitations."
   }
 ]
