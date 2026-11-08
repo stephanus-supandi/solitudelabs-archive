@@ -16,6 +16,11 @@ Chronological index of published articles and supporting research dossiers repre
   A supporting research note that audits proposed “Tangan Indonesia” claims about Shang-Chi/88rising, Indonesian audiences, creative workers, licensing, and market size. Separates creators, consumers, and business partners; records the “production of stories/imagination” category as a research lead, not a finding. Also preserves the observer's explicit limitation that the reflection was based on the slug, not a reading of the article. This is a working note, not a published article.  
   A BLOON investigation of Marvel's Indonesian market ecosystem: Disney/Marvel IP, Indonesian comic artists, local merchandise licensing and brand collaborations, the 2022 Marvel Studios exhibition, and the distinctions among IP ownership, licensing, production, distribution, and retail. Corporate affiliation, current licensee roster, contract terms, royalties, and market value remain unverified.
 
+### Language · Historical symbols · Religion · Political ideology
+
+- [Sanskerta, Kaligrafi Arab, Mistik, Nazi, dan Sunda Empire](investigations/2026-11-08-sanskerta-kaligrafi-arab-mistik-nazi-sunda-empire.md)  
+  A cross-disciplinary BLOON investigation distinguishing Sanskrit as a language from writing systems, tracing Indian-language and script influence in early West Java, examining Arabic calligraphy and historical talismanic artifacts, and separating mantra/yantra/tantra traditions from blanket “black magic” labels. It also examines the pre-Nazi history of the swastika, Nazi racial pseudo-history and Ahnenerbe, and the 2020 Sunda Empire claims without asserting an unsupported connection among them. A post-publication note clarifies swastika/Hakenkreuz terminology, Arya, Pegon, and the limits of claims about Nazi occultism.
+
 ### Urban archaeology · Spatial memory · AI literacy
 
 1. [BSK ke Kemang Pratama: Ingatan SMP, Google Maps, dan AI yang Terlalu Yakin](investigations/2026-11-08-bsk-kemang-pratama-ingatan-smp-google-maps-ai.md)  
