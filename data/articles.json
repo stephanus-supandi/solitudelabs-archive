@@ -190,5 +190,30 @@
       "The claim that there are three separate Jl. Bintang Raya locations in Bekasi is not fully verified in this archive record."
     ],
     "method_note": "A current street listing does not prove a historical tenant. Nearby current laundry listings do not prove relocation or continuity. Plausible business-closure explanations remain hypotheses until supported by evidence."
+  },
+  {
+    "id": "2026-11-08-bloon-observasi-gang-bekasi-pisangan",
+    "title": "BLOON Street Observation — Gang Bekasi dan Pisangan Lama",
+    "prepared": "2026-11-08",
+    "type": "working research dossier",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Urban Archaeology",
+      "Local Business",
+      "Visual Research",
+      "Research Methods"
+    ],
+    "location": "Taman Galaxy / Galaxy Bekasi, Central Jok, and Pisangan Lama, Jakarta and Bekasi, Indonesia",
+    "archive_record": "research/2026-11-08-bloon-observasi-gang-bekasi-pisangan.md",
+    "summary": "A consolidated working note on street-observation batches describing a Bakso Galaxy food-safety marketing claim, a neighborhood congratulatory banner, a winged-horse median sculpture, foreign-language commercial positioning, Central Jok vehicle-interior services, and repeated Pisangan Lama wall imagery.",
+    "open_questions": [
+      "The actual borax/formalin content of the Bakso Galaxy product was not tested.",
+      "The sincerity, sponsorship, and level of neighborhood support represented by the RW 014 congratulatory banner are unknown.",
+      "The origin and intended meaning of the winged-horse sculpture are not established.",
+      "The ownership, franchise status, and operational details of Loaf Bun are not established by its Korean-language signage.",
+      "The actual specifications and performance of the detailing services advertised by Efrata Motor are not independently verified."
+    ],
+    "method_note": "Treat signage as evidence that a claim was displayed, not proof that the claim is true. Separate locations and timestamps; do not infer continuity from adjacent submissions. Repetition and zero new findings are valid outcomes."
   }
 ]
