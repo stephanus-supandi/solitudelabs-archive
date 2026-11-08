@@ -316,5 +316,47 @@
       "Determine whether the proposed production-of-stories category can be operationalized with observable, sourceable indicators."
     ],
     "method_note": "Do not infer payment flows, market rank, vendor relationships, exploitation, or corporate motive from artist nationality, brand presence, or cultural representation. The companion note does not amend the published Marvel article and does not treat a slug-only reflection as a content audit."
+  },
+  {
+    "id": "2026-11-08-sanskerta-kaligrafi-arab-mistik-nazi-sunda-empire",
+    "title": "SANSKERTA, KALIGRAFI ARAB, MISTIK, NAZI, DAN SUNDA EMPIRE: Ketika Bahasa, Simbol, Ritual, Sejarah, dan Ideologi Bertemu",
+    "published": "2026-11-08",
+    "category": [
+      "BLOON Investigation",
+      "Language History",
+      "Historical Symbols",
+      "Religious Studies",
+      "Political Ideology",
+      "Sundanese History",
+      "Research Methods"
+    ],
+    "location": "India; Nusantara; West Java, Indonesia; Europe",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/08/1882/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/sanskerta-kaligrafi-arab-mistik-nazi.html",
+    "archive_record": "investigations/2026-11-08-sanskerta-kaligrafi-arab-mistik-nazi-sunda-empire.md",
+    "summary": "A cross-disciplinary investigation distinguishing Sanskrit as a language from writing systems, tracing Indian-language and script influence in early West Java, examining Arabic calligraphy and historical talismanic artifacts, and separating mantra/yantra/tantra traditions from blanket black-magic labels. It also examines the pre-Nazi history of the swastika, Nazi racial pseudo-history and Ahnenerbe, and the 2020 Sunda Empire claims without asserting an unsupported connection among them. Includes a post-publication clarification note.",
+    "sources": [
+      "https://www.britannica.com/topic/Sanskrit-language",
+      "https://doi.org/10.4000/archipel.2365",
+      "https://www.unicode.org/versions/Unicode12.1.0/ch17.pdf",
+      "https://www.metmuseum.org/essays/calligraphy-in-islamic-art",
+      "https://www.metmuseum.org/art/collection/search/452895",
+      "https://www.nlm.nih.gov/hmd/arabic/astrology1.html",
+      "https://doi.org/10.1163/26666286-12340017",
+      "https://encyclopedia.ushmm.org/content/en/article/history-of-the-swastika",
+      "https://encyclopedia.ushmm.org/content/en/article/aryan-1",
+      "https://yalebooks.yale.edu/book/9780300189452/hitlers-monsters/",
+      "https://www.thejakartapost.com/news/2020/01/29/sunda-empire-leaders-with-mission-to-settle-debts-at-the-world-bank-arrested-for-fraud",
+      "https://www.thejakartapost.com/news/2020/10/27/decline-and-fall-of-the-sunda-empire-royal-leaders-sentenced-to-two-years-in-jail",
+      "https://jabar.antaranews.com/berita/198737/jaksa-tuntut-tiga-petinggi-sunda-empire-divonis-empat-tahun-penjara"
+    ],
+    "open_questions": [
+      "A fuller primary-source and specialist bibliography is needed for the historical development and regional meanings of swastika variants.",
+      "The distinctions among Sanskrit, Prakrits, regional scripts, and their use in specific West Javanese inscriptions merit deeper epigraphic study.",
+      "Pegon traditions and their regional variation in Java and the wider Malay-Indonesian world require a dedicated source-based study.",
+      "Specific claims about Ahnenerbe expeditions, including Tibet, should be checked against expedition records and specialist histories rather than popular occult narratives.",
+      "No primary evidence has been established for a direct organizational or dynastic connection among Sunda Empire, Nazi organizations, and historical Indian or Islamic esoteric traditions."
+    ],
+    "method_note": "Distinguish language from script, calligraphy from talismanic use, documented ritual from supernatural efficacy, historical swastika traditions from Nazi appropriation, and historical Sunda polities from the modern Sunda Empire movement. Similar names or symbols do not establish continuity or organizational connection. The appended clarification note corrects oversimplifications without silently rewriting the published article."
   }
 ]
