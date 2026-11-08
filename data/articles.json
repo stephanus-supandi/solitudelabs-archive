@@ -215,5 +215,38 @@
       "The actual specifications and performance of the detailing services advertised by Efrata Motor are not independently verified."
     ],
     "method_note": "Treat signage as evidence that a claim was displayed, not proof that the claim is true. Separate locations and timestamps; do not infer continuity from adjacent submissions. Repetition and zero new findings are valid outcomes."
+  },
+  {
+    "id": "2026-11-08-88rising-bukan-sekadar-label-rekaman",
+    "title": "88Rising: Bukan Sekadar Label Rekaman — Dari Amerika, Mengangkat Musisi Asia ke Panggung Dunia",
+    "published": "2026-11-08",
+    "category": [
+      "BLOON Investigation",
+      "Music Industry",
+      "Asian Music",
+      "Music Business",
+      "Copyright and Publishing"
+    ],
+    "location": "United States; international music industry; Indonesia and Asia",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/08/88rising-bukan-sekadar-label-rekaman/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/88rising-bukan-sekadar-label-rekaman.html",
+    "archive_record": "investigations/2026-11-08-88rising-bukan-sekadar-label-rekaman.md",
+    "summary": "An introductory business and cultural investigation of 88rising: its 2015 origins, Sean Miyashiro, media and label functions, artist management, the Kobalt partnership, Rich Brian and NIKI, Head in the Clouds, Coachella, Shang-Chi, possible revenue streams, investors, and the distinction between master recordings, composition rights, publishing, distribution, and management.",
+    "sources": [
+      "https://pitchfork.com/thepitch/1537-inside-88rising-the-company-behind-rich-chigga-and-his-asian-rap-comrades/",
+      "https://www.grammy.com/news/88rising-paradise-rising-interview-sean-miyashiro-kiana-v-leila-alcasid/",
+      "https://www.musicbusinessworldwide.com/88rising-inks-exclusive-global-deal-with-kobalt/",
+      "https://www.nme.com/features/88rising-head-in-the-clouds-shang-chi-legend-of-the-ten-rings-sean-miyashiro-3067463",
+      "https://www.fastcompany.com/90900706/how-88rising-is-centering-asian-artists-in-mainstream-culture",
+      "https://www.seanmiyashiro.com/about",
+      "https://www.scss.tcd.ie/publications/theses/diss/2018/TCD-SCSS-DISSERTATION-2018-065.pdf"
+    ],
+    "open_questions": [
+      "The current corporate ownership and cap table are not established by the article's sources.",
+      "Individual artist contract terms, exclusivity, royalty splits, and master-recording ownership require contract- or work-specific documentation.",
+      "The revenue streams described are analytical categories, not a verified 88rising financial statement.",
+      "Artist roster and contractual relationships can change over time."
+    ],
+    "method_note": "Distinguish company ownership, master-recording rights, musical-composition copyright, publishing, distribution, licensing, artist management, and commercial partnerships. Do not infer contract terms or control from a company logo, collaboration, investor mention, or label status."
   }
 ]
