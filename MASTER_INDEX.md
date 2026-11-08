@@ -4,6 +4,11 @@ Chronological index of published articles and supporting research dossiers repre
 
 ## 2026-11-08
 
+### Music industry · Asian music · Business research
+
+- [88Rising: Bukan Sekadar Label Rekaman](investigations/2026-11-08-88rising-bukan-sekadar-label-rekaman.md)  
+  A research article on 88rising's origins, Sean Miyashiro, its combined media/label/management/live-event activities, independent-label positioning, the Kobalt partnership, Asian artist development, revenue-model possibilities, and music-rights questions. Distinguishes sourced facts from business analysis and unverified contract, ownership, and financial details.
+
 ### Urban archaeology · Spatial memory · AI literacy
 
 1. [BSK ke Kemang Pratama: Ingatan SMP, Google Maps, dan AI yang Terlalu Yakin](investigations/2026-11-08-bsk-kemang-pratama-ingatan-smp-google-maps-ai.md)  
