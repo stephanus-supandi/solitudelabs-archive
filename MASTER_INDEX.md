@@ -45,6 +45,11 @@ Chronological index of published articles and supporting research dossiers repre
 2. [Mencari Samsung Service Center di Bekasi: Dari Ingatan Giant Sampai Mega Bekasi Hypermall](investigations/2026-11-06-samsung-service-center-bekasi.md)  
    A location-history inquiry into a Samsung service-center listing at Mega Bekasi Hypermall, including conflicting unit numbers and the unverified memory linking the location to Giant.
 
+### Urban observation · BLOON street batches
+
+- [BLOON Street Observation — Gang Bekasi dan Pisangan Lama](research/2026-11-08-bloon-observasi-gang-bekasi-pisangan.md)  
+  A working dossier consolidating observations from Taman Galaxy/Galaxy Bekasi, Central Jok, and Pisangan Lama. Records a food-safety marketing claim, neighborhood congratulatory banner, winged-horse median sculpture, foreign-language commercial positioning, a vehicle-interior service listing, and repeated Pisangan wall imagery. Separates visible claims from unverified substance and preserves location/time boundaries. This is a research note, not a published article.
+
 ## Cross-article research
 
 - [Bekasi Spatial Memory and Urban Change — Research Dossier](research/2026-11-06-bekasi-spatial-memory-dossier.md)  
