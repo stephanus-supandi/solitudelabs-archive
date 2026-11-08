@@ -9,6 +9,11 @@ Chronological index of published articles and supporting research dossiers repre
 - [88Rising: Bukan Sekadar Label Rekaman](investigations/2026-11-08-88rising-bukan-sekadar-label-rekaman.md)  
   A research article on 88rising's origins, Sean Miyashiro, its combined media/label/management/live-event activities, independent-label positioning, the Kobalt partnership, Asian artist development, revenue-model possibilities, and music-rights questions. Distinguishes sourced facts from business analysis and unverified contract, ownership, and financial details.
 
+### Entertainment · Intellectual property · Licensing · Creative industry
+
+- [Marvel Indonesia: Superhero Amerika, Tangan Indonesia, dan Bisnis di Balik Topeng](investigations/2026-11-08-marvel-indonesia-superhero-amerika-tangan-indonesia-bisnis-di-balik-topeng.md)  
+  A BLOON investigation of Marvel's Indonesian market ecosystem: Disney/Marvel IP, Indonesian comic artists, local merchandise licensing and brand collaborations, the 2022 Marvel Studios exhibition, and the distinctions among IP ownership, licensing, production, distribution, and retail. Corporate affiliation, current licensee roster, contract terms, royalties, and market value remain unverified.
+
 ### Urban archaeology · Spatial memory · AI literacy
 
 1. [BSK ke Kemang Pratama: Ingatan SMP, Google Maps, dan AI yang Terlalu Yakin](investigations/2026-11-08-bsk-kemang-pratama-ingatan-smp-google-maps-ai.md)  
