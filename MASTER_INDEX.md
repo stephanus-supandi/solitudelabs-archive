@@ -6,6 +6,9 @@ Chronological index of published articles and supporting research dossiers repre
 
 ### Music industry · Asian music · Business research
 
+- [Slank — “Orkes Sakit Hati” (1999): Lagu Populer dan Harapan kepada Pejabat Terpilih](research/2026-11-08-slank-orkes-sakit-hati-1999.md)  
+  A supporting research note documenting the official release date and hit-single status of “Orkes Sakit Hati” on Slank's `9.999+09 Hitam` album, plus ANTARA's retrospective account that the lyrics were added in June 1999 with hopes directed toward officials elected in the 1999 general election. Distinguishes the song's civic interpretation from claims about measurable political impact. This is a research note, not a separate published article.
+
 - [88Rising: Bukan Sekadar Label Rekaman](investigations/2026-11-08-88rising-bukan-sekadar-label-rekaman.md)  
   A research article on 88rising's origins, Sean Miyashiro, its combined media/label/management/live-event activities, independent-label positioning, the Kobalt partnership, Asian artist development, revenue-model possibilities, and music-rights questions. Distinguishes sourced facts from business analysis and unverified contract, ownership, and financial details.
 
