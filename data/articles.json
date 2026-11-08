@@ -285,5 +285,36 @@
       "The current number of Indonesian creatives working on Marvel projects and their contract terms are unknown."
     ],
     "method_note": "Distinguish IP ownership, licensing, production, distribution, retail, event operation, and creative services. A shared name, product logo, collaboration, or event role does not establish ownership or corporate affiliation. Historical examples are not a verified list of active partners in 2026."
+  },
+  {
+    "id": "2026-11-08-marvel-v2-audit-dan-refleksi-metode-observasi",
+    "title": "Marvel Indonesia V2 — Audit Klaim dan Refleksi Metode Observasi",
+    "prepared": "2026-11-08",
+    "type": "supporting research note",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Entertainment Industry",
+      "Intellectual Property",
+      "Licensing",
+      "Research Methods",
+      "AI Literacy"
+    ],
+    "location": "Indonesia; international Marvel/Disney business ecosystem",
+    "related_article": "investigations/2026-11-08-marvel-indonesia-superhero-amerika-tangan-indonesia-bisnis-di-balik-topeng.md",
+    "source_material": [
+      "User-provided evaluation proposing a stronger 'Tangan Indonesia' and 'Bisnis di Balik Topeng' framing",
+      "User-provided observer reflection explicitly stating it was based on the article slug, not the article body"
+    ],
+    "archive_record": "research/2026-11-08-marvel-v2-audit-dan-refleksi-metode-observasi.md",
+    "summary": "A companion audit of proposed Marvel v2 claims about Indonesian artists, 88rising and Shang-Chi music, Indonesian audiences, creative workers, licensing, and market size. Separates creators, consumers, and business partners; records production of stories/imagination as a possible research category while preserving the limits of slug-only observation.",
+    "open_questions": [
+      "Track Rich Brian and NIKI's exact Shang-Chi soundtrack contributions through track-level official credits.",
+      "Verify any claimed payment chain between Marvel/Disney, 88rising, and individual artists through reliable disclosures or contracts.",
+      "Find comparable box-office, licensing, merchandise, or streaming data before describing Indonesia as one of Southeast Asia's largest Marvel markets.",
+      "Identify Indonesian animation/VFX studios and specific Marvel/Disney projects before asserting vendor relationships.",
+      "Determine whether the proposed production-of-stories category can be operationalized with observable, sourceable indicators."
+    ],
+    "method_note": "Do not infer payment flows, market rank, vendor relationships, exploitation, or corporate motive from artist nationality, brand presence, or cultural representation. The companion note does not amend the published Marvel article and does not treat a slug-only reflection as a content audit."
   }
 ]
