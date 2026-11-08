@@ -11,7 +11,9 @@ Chronological index of published articles and supporting research dossiers repre
 
 ### Entertainment · Intellectual property · Licensing · Creative industry
 
-- [Marvel Indonesia: Superhero Amerika, Tangan Indonesia, dan Bisnis di Balik Topeng](investigations/2026-11-08-marvel-indonesia-superhero-amerika-tangan-indonesia-bisnis-di-balik-topeng.md)  
+- [Marvel Indonesia: Superhero Amerika, Tangan Indonesia, dan Bisnis di Balik Topeng](investigations/2026-11-08-marvel-indonesia-superhero-amerika-tangan-indonesia-bisnis-di-balik-topeng.md)
+- [Marvel Indonesia V2 — Audit Klaim dan Refleksi Metode Observasi](research/2026-11-08-marvel-v2-audit-dan-refleksi-metode-observasi.md)  
+  A supporting research note that audits proposed “Tangan Indonesia” claims about Shang-Chi/88rising, Indonesian audiences, creative workers, licensing, and market size. Separates creators, consumers, and business partners; records the “production of stories/imagination” category as a research lead, not a finding. Also preserves the observer's explicit limitation that the reflection was based on the slug, not a reading of the article. This is a working note, not a published article.  
   A BLOON investigation of Marvel's Indonesian market ecosystem: Disney/Marvel IP, Indonesian comic artists, local merchandise licensing and brand collaborations, the 2022 Marvel Studios exhibition, and the distinctions among IP ownership, licensing, production, distribution, and retail. Corporate affiliation, current licensee roster, contract terms, royalties, and market value remain unverified.
 
 ### Urban archaeology · Spatial memory · AI literacy
