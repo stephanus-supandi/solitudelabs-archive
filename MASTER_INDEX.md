@@ -2,6 +2,13 @@
 
 Chronological index of published articles and supporting research dossiers represented in this archive.
 
+## 2026-11-11
+
+### Energy infrastructure · International banking · Project finance
+
+- [Nord Stream, Bank Artha Graha Internasional, dan Tomy Winata — Research Dossier](research/2026-11-11-nord-stream-bank-artha-graha-tomy-winata-connection-audit.md)  
+  A preliminary source audit documenting Tomy Winata's role and ultimate-control disclosure at Bank Artha Graha Internasional, the 26-bank €3.9bn Nord Stream 1 Phase I financing, selected lenders, and Nord Stream 2's separate financing commitments from five energy companies. It finds no evidence in the reviewed sources that BAGI, Tomy Winata, or Artha Graha Network financed or participated in either project. This is a working research dossier, not a published article.
+
 ## 2026-11-08
 
 ### Music industry · Asian music · Business research
