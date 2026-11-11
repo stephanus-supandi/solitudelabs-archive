@@ -472,5 +472,37 @@
       "The reason for the mixture of cropped and full listing panels is unknown."
     ],
     "method_note": "Visible listing names, background signage, map pins, icons, ratings, categories, hours, watermarks, and remembered brand associations are not proof of city, coordinates, identity, ownership, corporate affiliation, platform behavior, accessibility certification, or economic structure. Similarity is not identity; co-occurrence is not connection. No commodity-table cell is added, and this batch must not be stitched to other batches without independent spatial and temporal evidence."
+  },
+  {
+    "id": "2026-11-11-komplek-bloon-acuy-santuy-simulasi-perang-perangan-editorial-audit",
+    "title": "Komplek BLOON: ACUY Tetap Santuy, Simulasi Perang-Perangan, dan Batas Penyambungan Narasi — Research Dossier",
+    "prepared": "2026-11-11",
+    "type": "working research dossier",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Editorial Synthesis",
+      "Satire",
+      "Research Methods",
+      "AI Literacy"
+    ],
+    "location": "Unconfirmed; no specific Komplek BLOON location established",
+    "archive_record": "research/2026-11-11-komplek-bloon-acuy-santuy-simulasi-perang-perangan-editorial-audit.md",
+    "source_material": [
+      "User-provided summaries of two Komplek BLOON articles",
+      "Conversation drafts and user-provided editorial synthesis",
+      "User-provided report that a Blogspot page displayed “Skip to main content”; exact URL and browser capture not supplied"
+    ],
+    "summary": "A working audit of the thematic pairing between a satire about ACUY, rain preparedness, and clear drains, and an article distinguishing tactical simulations from real operations. Preserves the shared editorial principle of vigilance without panic while rejecting unsupported claims about a common physical complex, ACUY's identity or address, exact drain/play locations, and a unified chain connecting earlier investigations. Records the Blogspot display report and proposed technical causes as unverified.",
+    "open_questions": [
+      "The exact publication URLs, publication status, and live text of both Komplek BLOON articles were not independently verified during this archive operation.",
+      "The real-world location, if any, represented by “Komplek BLOON” is not established.",
+      "Whether ACUY is a real person, nickname, fictional character, or editorial persona is not established; no address should be inferred.",
+      "The exact drain and the location of the perang-perangan activity are not established.",
+      "The proposed analogies linking ACUY, Warteg Mba Enok, Google Maps pins, and earlier investigations have no independently established geographic or causal connection.",
+      "The exact Blogspot URL and browser capture behind the “Skip to main content” report are unavailable; draft status, theme behavior, privacy settings, synchronization failure, and slug mismatch remain untested hypotheses.",
+      "The WordPress availability and functionality claim was not independently verified."
+    ],
+    "method_note": "A shared editorial theme is not proof of shared location, event, identity, causality, or organizational connection. Keep satire and metaphor distinct from sourced findings. Do not infer addresses or personal identities. Use “perang-perangan” to distinguish play from actual conflict. Treat visible pins, vehicles, business names, and remembered landmarks as leads, not geospatial proof."
   }
 ]
