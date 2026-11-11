@@ -4,6 +4,12 @@ Chronological index of published articles and supporting research dossiers repre
 
 ## 2026-11-11
 
+### Editorial synthesis · Satire · Research methods
+
+- [Komplek BLOON: ACUY Tetap Santuy, Simulasi Perang-Perangan, dan Batas Penyambungan Narasi — Research Dossier](research/2026-11-11-komplek-bloon-acuy-santuy-simulasi-perang-perangan-editorial-audit.md)  
+  A working audit of the user's synthesis of two Komplek BLOON articles: one on rain preparedness and clear drains, the other distinguishing tactical simulations from real operations. Preserves their shared editorial theme while treating links to earlier investigations, map pins, Warteg Mba Enok, ACUY's identity/address, the complex's location, and the drain/play location as unverified analogies or open questions. Also records the Blogspot “Skip to main content” report as unverified; proposed technical causes are not diagnoses. This is a supporting research dossier, not a published article.
+
+
 ### Urban observation · BLOON street batches
 
 - [BLOON Street Observation — Batch 187: Indonesia (City Unconfirmed)](research/2026-11-11-bloon-street-observation-batch-187-indonesia-bukit-darmo.md)  \
