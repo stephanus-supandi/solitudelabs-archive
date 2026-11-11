@@ -4,6 +4,12 @@ Chronological index of published articles and supporting research dossiers repre
 
 ## 2026-11-11
 
+### Urban observation · BLOON street batches
+
+- [BLOON Street Observation — Batch 180: Jakarta, Jl. Bank Exim / Indonesia Eximbank / SCBD–Semanggi](research/2026-11-11-bloon-street-observation-batch-180-jakarta-semanggi-bank-exim.md)  
+  A five-frame working dossier described as Jakarta around Jl. Bank Exim / Indonesia Eximbank / SCBD–Semanggi. Records May 2018 and April 2013 road/region panels, two November 2022 portraits of the “Indonesia Eximbank - Head Office” listing, and a distinct Map-view frame for “PT. Gedung Bank Exim”. Preserves the three similar strings as separate observations, distinguishes the two listing categories and raw ratings, and rejects map-label topology, cross-mode coordinate matching, platform diagnoses, cross-year urban-change narratives, legal/holding claims, regulatory conclusions from the tobacco billboard, and all cross-batch stitching. No commodity-table cell is added. This is a working research dossier, not a published article.
+
+
 ### Energy infrastructure · International banking · Project finance
 
 - [Nord Stream, Bank Artha Graha Internasional, dan Tomy Winata — Research Dossier](research/2026-11-11-nord-stream-bank-artha-graha-tomy-winata-connection-audit.md)  
