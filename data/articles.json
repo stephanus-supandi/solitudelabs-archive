@@ -392,5 +392,31 @@
       "Do not infer transactions from correspondent relationships, common nationality, or corporate association."
     ],
     "method_note": "Corporate office, ultimate control, correspondent banking, project finance, advisory work, and payment processing are distinct relationship types. A bank group's participation in a project does not establish participation by every affiliate or branch. Absence from reviewed documents means not located, not proof that no relationship ever existed. No allegation of misconduct is made."
+  },
+  {
+    "id": "2026-11-11-bloon-street-observation-batch-173-jakarta-menteng-imam-bonjo-deutsche-bank",
+    "title": "BLOON Street Observation — Batch 173: Menteng, Jakarta",
+    "prepared": "2026-11-11",
+    "type": "working research dossier",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Urban Observation",
+      "Street View Audit",
+      "Research Methods"
+    ],
+    "location": "Jl. Imam Bonjol / Jl. H. Agus Salim, Menteng, Jakarta, Indonesia (as described by the author; not independently geospatially verified)",
+    "archive_record": "research/2026-11-11-bloon-street-observation-batch-173-jakarta-menteng-imam-bonjo-deutsche-bank.md",
+    "summary": "A five-frame working observation dossier for May 2025 imagery described as Menteng, Jakarta. Records the no-pin relative-time panels, Deutsche Bank Building pin/background/pin sequence, the RT/RW + Building + 35 min motorcycle-icon panel, spelling variation, road labels, visible streetscape objects, and absence of visible ratings while preserving strict limits on geospatial, platform, ownership, brand, and cross-batch claims.",
+    "open_questions": [
+      "The exact coordinates and camera positions for all five frames have not been independently verified.",
+      "The address string, RT/RW notation, Building category, 35 min duration, and motorcycle icon have not been independently validated; the origin and calculation behind the duration are unknown.",
+      "The reason for the panel spelling “Duetche” in frame 2 versus “Deutsche” in frame 4 is unknown.",
+      "The relationship, if any, between the displayed Deutsche Bank Building listing and the building facade signage has not been independently established.",
+      "Frame 5's exact visual contents and camera direction should be checked against the original image before treating it as identical to frame 1.",
+      "The mechanism behind the “a year ago” relative-time label is unknown.",
+      "No rating was visible in the supplied frame descriptions; the existence or absence of reviews is unknown."
+    ],
+    "method_note": "Visible text, interface metadata, signage, remembered brand recognition, and repeated appearances are observations or leads, not proof of address validity, platform behavior, geometry, ownership, corporate relationship, economic activity, or cross-batch continuity. Do not join batches into one map without independent spatial and temporal evidence. No commodity-table cell is added."
   }
 ]
