@@ -447,5 +447,30 @@
       "The displayed ratings, review counts, categories, and hours have not been independently validated; review contents were not examined."
     ],
     "method_note": "Visible strings, map labels, interface controls, pins, categories, ratings, watermarks, relative-time labels, vehicle markings, billboards, and background objects are observations, not proof of identity, address validity, geometry, ownership, legal form, corporate affiliation, platform behavior, regulation, security activity, or economic structure. Similarity is not identity; co-occurrence is not connection; different years and interface modes do not establish a timeline. The batch adds no commodity-table cell and must not be stitched to other batches."
+  },
+  {
+    "id": "2026-11-11-bloon-street-observation-batch-187-indonesia-bukit-darmo",
+    "title": "BLOON Street Observation — Batch 187: Indonesia (City Unconfirmed)",
+    "prepared": "2026-11-11",
+    "type": "working research dossier",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Urban Observation",
+      "Street View Audit",
+      "Research Methods"
+    ],
+    "location": "Indonesia (city unconfirmed; no region/city panel visible in supplied frames)",
+    "archive_record": "research/2026-11-11-bloon-street-observation-batch-187-indonesia-bukit-darmo.md",
+    "summary": "A five-frame May 2026 working observation dossier recording one Doctor listing, three bank-related listings, and one medical-laboratory listing. Preserves the visible panel states, raw ratings, icons, signage, and streetscape while explicitly leaving the city unconfirmed and rejecting geographic, corporate, economic, platform-behavior, and cross-batch inferences. No commodity-table cell is added.",
+    "open_questions": [
+      "The exact city, coordinates, and camera positions for all five frames have not been independently verified.",
+      "The meaning and provenance of the blue “100” markers and red first-aid-kit icons are unknown.",
+      "The relationship, if any, among the displayed bank names and surrounding signage is not established.",
+      "The identities, operating status, legal entities, and ownership of the displayed businesses have not been independently verified.",
+      "The origin and semantics of the displayed ratings, review counts, categories, hours, and wheelchair icon have not been independently validated.",
+      "The reason for the mixture of cropped and full listing panels is unknown."
+    ],
+    "method_note": "Visible listing names, background signage, map pins, icons, ratings, categories, hours, watermarks, and remembered brand associations are not proof of city, coordinates, identity, ownership, corporate affiliation, platform behavior, accessibility certification, or economic structure. Similarity is not identity; co-occurrence is not connection. No commodity-table cell is added, and this batch must not be stitched to other batches without independent spatial and temporal evidence."
   }
 ]
