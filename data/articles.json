@@ -418,5 +418,34 @@
       "No rating was visible in the supplied frame descriptions; the existence or absence of reviews is unknown."
     ],
     "method_note": "Visible text, interface metadata, signage, remembered brand recognition, and repeated appearances are observations or leads, not proof of address validity, platform behavior, geometry, ownership, corporate relationship, economic activity, or cross-batch continuity. Do not join batches into one map without independent spatial and temporal evidence. No commodity-table cell is added."
+  },
+  {
+    "id": "2026-11-11-bloon-street-observation-batch-180-jakarta-semanggi-bank-exim",
+    "title": "BLOON Street Observation — Batch 180: Jakarta, Jl. Bank Exim / Indonesia Eximbank / SCBD–Semanggi",
+    "prepared": "2026-11-11",
+    "type": "working research dossier",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Urban Observation",
+      "Street View Audit",
+      "Map View Audit",
+      "Research Methods"
+    ],
+    "location": "Jakarta, Indonesia (described as around Jl. Bank Exim / Indonesia Eximbank / SCBD–Semanggi; not independently geospatially verified)",
+    "archive_record": "research/2026-11-11-bloon-street-observation-batch-180-jakarta-semanggi-bank-exim.md",
+    "summary": "A five-frame working observation dossier covering May 2018, April 2013, November 2022, and one distinct Map-view frame. Records three similar strings on separate surfaces (“Jl. Bank Exim”, “Indonesia Eximbank - Head Office”, and “PT. Gedung Bank Exim”), two separately categorized listings and raw ratings, a truncated/full panel pair, a relative-time panel, a tobacco billboard warning, and rendered map POI labels. Preserves strict limits on identity, legal status, corporate relationships, topology, coordinate matching, platform behavior, regulation, and cross-year/cross-batch inference. No commodity-table cell is added.",
+    "open_questions": [
+      "The exact coordinates and camera positions for all five frames have not been independently verified.",
+      "No independent evidence has established whether the three similar strings refer to the same legal entity, related entities, or unrelated referents.",
+      "The relationship, if any, between the road name “Jl. Bank Exim” and either displayed business listing is unknown.",
+      "The Map-view pin has not been independently matched to either Street View pin or camera position.",
+      "The origin and meaning of the displayed nearby-POI labels, route shield, transit icon, and truncated search/address strings have not been independently verified.",
+      "The reason for the truncated/full panel difference and off-screen/on-screen pin visibility between frames 3 and 4 is unknown.",
+      "The origin of the “13 years ago” label, absence of a “See more dates” control, and differences between Street View headers and Google watermarks are unknown.",
+      "The source and regulatory status of the tobacco warning displayed on the billboard are not established by the frame alone.",
+      "The displayed ratings, review counts, categories, and hours have not been independently validated; review contents were not examined."
+    ],
+    "method_note": "Visible strings, map labels, interface controls, pins, categories, ratings, watermarks, relative-time labels, vehicle markings, billboards, and background objects are observations, not proof of identity, address validity, geometry, ownership, legal form, corporate affiliation, platform behavior, regulation, security activity, or economic structure. Similarity is not identity; co-occurrence is not connection; different years and interface modes do not establish a timeline. The batch adds no commodity-table cell and must not be stitched to other batches."
   }
 ]
