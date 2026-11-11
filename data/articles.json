@@ -504,5 +504,38 @@
       "The WordPress availability and functionality claim was not independently verified."
     ],
     "method_note": "A shared editorial theme is not proof of shared location, event, identity, causality, or organizational connection. Keep satire and metaphor distinct from sourced findings. Do not infer addresses or personal identities. Use “perang-perangan” to distinguish play from actual conflict. Treat visible pins, vehicles, business names, and remembered landmarks as leads, not geospatial proof."
+  },
+  {
+    "id": "2026-11-12-bletchley-milton-keynes-nine-frame-google-maps-pin-audit",
+    "title": "Bletchley, Milton Keynes — Nine-Frame Google Maps / Street View Pin Audit",
+    "prepared": "2026-11-12",
+    "type": "working research dossier",
+    "status": "not a published article",
+    "category": [
+      "BLOON Investigation",
+      "Urban Observation",
+      "Street View Audit",
+      "International Research",
+      "Research Methods",
+      "AI Literacy"
+    ],
+    "location": "Bletchley, Milton Keynes, United Kingdom (reported; exact coordinates not independently verified)",
+    "archive_record": "research/2026-11-12-bletchley-milton-keynes-nine-frame-google-maps-pin-audit.md",
+    "source_material": [
+      "User-supplied narrative and analysis explicitly attributed to Gemini",
+      "Descriptions of nine Google Maps / Street View frames; original screenshot files were not attached in the archive-update turn"
+    ],
+    "summary": "A working audit dossier preserving the reported nine-item Bletchley-area exploration, including parks, a road, Bletchley Park Gatehouse, two Parkside-related medical listings, a veterinary group, and a car wash. Distinguishes reported visible details from unverified claims about pin placement, shared-building identity, route continuity, and long-term coordinate stability. The original screenshots, listing URLs, and coordinates were not independently inspected.",
+    "open_questions": [
+      "The original nine screenshots and exact Google Maps listing URLs are not available in this archive-update turn.",
+      "Exact coordinates and pin-to-entrance distances for all nine items have not been verified.",
+      "Whether the two Parkside-related listings are distinct pins associated with the same building requires coordinate comparison.",
+      "The authoritative access point and exact relationship between the Bletchley Park Gatehouse listing and the historic site's entrance need independent verification.",
+      "The nine locations have not been plotted; a continuous route or corridor is not established.",
+      "Street View capture dates do not establish listing creation dates, coordinate-edit history, or long-term pin stability.",
+      "The identity, business status, ownership, and professional relationship implied by the displayed listing names have not been independently verified.",
+      "Any systematic relationship with the earlier Bekasi Nakula 3, Veteran, or Sersan Idris observations remains an analogy or research hypothesis, not a demonstrated common pattern."
+    ],
+    "method_note": "A map pin is not automatically a verified entrance; a Street View camera view is not a record of listing history. Matching façades, nearby signs, vehicles, trees, and buildings are leads, not proof of exact coordinate identity. Do not infer a route without verified coordinates, a ten-year pin history from image dates, or a common cause across Bletchley and Bekasi. The pedestrian in the June 2016 image is not identified; the Acuy comparison is a joke/metaphor only."
   }
 ]
