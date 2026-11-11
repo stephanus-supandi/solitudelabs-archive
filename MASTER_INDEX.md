@@ -77,6 +77,11 @@ Chronological index of published articles and supporting research dossiers repre
 - [BLOON Street Observation — Gang Bekasi dan Pisangan Lama](research/2026-11-08-bloon-observasi-gang-bekasi-pisangan.md)  
   A working dossier consolidating observations from Taman Galaxy/Galaxy Bekasi, Central Jok, and Pisangan Lama. Records a food-safety marketing claim, neighborhood congratulatory banner, winged-horse median sculpture, foreign-language commercial positioning, a vehicle-interior service listing, and repeated Pisangan wall imagery. Separates visible claims from unverified substance and preserves location/time boundaries. This is a research note, not a published article.
 
+### Urban observation · BLOON street batches
+
+- [BLOON Street Observation — Batch 173: Menteng, Jakarta](research/2026-11-11-bloon-street-observation-batch-173-jakarta-menteng-imam-bonjo-deutsche-bank.md)  
+  A working dossier of five May 2025 frames described as Jl. Imam Bonjol / Jl. H. Agus Salim, Menteng. Records three no-pin frames with relative-time panels, two Deutsche Bank Building pin states, the RT/RW address + “Building” + “35 min” motorcycle-icon panel, spelling variation “Duetche”/“Deutsche”, road labels, background objects, and absent visible ratings. Explicitly avoids treating panel metadata, brand recognition, repeated frames, or cross-batch resemblance as geospatial, platform, ownership, or economic proof. This is a working research note, not a published article.
+
 ## Cross-article research
 
 - [Bekasi Spatial Memory and Urban Change — Research Dossier](research/2026-11-06-bekasi-spatial-memory-dossier.md)  
