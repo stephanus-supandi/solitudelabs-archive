@@ -1,3 +1,10 @@
+## 2026-11-12
+
+### Urban observation · International Street View audit
+
+- [Bletchley, Milton Keynes — Nine-Frame Google Maps / Street View Pin Audit](research/2026-11-12-bletchley-milton-keynes-nine-frame-google-maps-pin-audit.md)  
+  A working dossier preserving a Gemini-attributed, user-supplied description of nine Bletchley-area listings and Street View frames. Records the reported distinctions among Rickley Park, Park Gardens, Flowers Park Play Area, Bletchley Park Gatehouse, two Parkside-related listings, Milton Keynes Veterinary Group, and Whaddon Way Car Wash. Separates reported visual observations from unverified claims about pin offsets, shared buildings, route continuity, and long-term pin stability. The underlying screenshots and coordinates were not independently inspected in this archive turn. This is a research dossier, not a published article.
+
 # SolitudeLabs — Master Index
 
 Chronological index of published articles and supporting research dossiers represented in this archive.
