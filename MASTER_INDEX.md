@@ -1,5 +1,12 @@
 ## 2026-11-12
 
+### Indonesian history · Presidential history · Archives · Media literacy
+
+- [14 Mei 1962: Bung Karno Ditembak Saat Salat Idul Adha — Arsip ANRI, Kesaksian Sejarah, dan Misteri Bayangan](investigations/2026-11-12-percobaan-pembunuhan-soekarno-14-mei-1962.md)  
+  Published article examining the attempted assassination of President Soekarno during Eid prayer at the Merdeka Palace. Compares ANRI's archival description with a popular-history retelling, distinguishes reported attacker identities and roles, treats the “moving shadow” account as testimony/story rather than established physical fact, and avoids inferring a direct Kartosuwiryo command chain without primary evidence. WordPress and Blogger publication links are recorded. Exact live platform categories/labels and the second video's metadata were not independently verified in the archive operation.
+
+## 2026-11-12
+
 ### Science · Forensic science · True stories · Digital media literacy
 
 - [Trish Vickers: Menulis Novel Tanpa Tinta — Ketika Polisi Forensik Menyelamatkan Tulisan yang Tak Terlihat](investigations/2026-11-12-trish-vickers-menulis-novel-tanpa-tinta.md)  
