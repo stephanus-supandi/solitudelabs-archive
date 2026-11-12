@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026-11-12-percobaan-pembunuhan-soekarno-14-mei-1962",
+    "title": "14 MEI 1962: BUNG KARNO DITEMBAK SAAT SALAT IDUL ADHA — ARSIP ANRI, KESAKSIAN SEJARAH, DAN MISTERI BAYANGAN",
+    "published": "2026-11-12",
+    "type": "published article",
+    "status": "published",
+    "category": [
+      "BLOON Investigation",
+      "Indonesian History",
+      "Presidential History",
+      "Archives and Historical Testimony",
+      "Military and Political History",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/12/14-mei-1962-bung-karno-ditembak-saat-salat-idul-adha-arsip-anri-kesaksian-sejarah-dan-misteri-bayangan/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/14-mei-1962-bung-karno-ditembak-saat.html",
+    "youtube_sources": [
+      "https://youtu.be/tFN6DH3cXvM",
+      "https://youtu.be/z3D9AesCAP8"
+    ],
+    "archive_record": "investigations/2026-11-12-percobaan-pembunuhan-soekarno-14-mei-1962.md",
+    "summary": "Historical article on the 14 May 1962 attempted assassination of President Soekarno during Eid prayer at the Merdeka Palace. Compares the ANRI archival description with a popular-history retelling, separates reported attacker identities and roles, treats the moving-shadow story as testimony rather than established physical fact, and avoids asserting an undocumented direct command chain from Kartosuwiryo.",
+    "open_questions": [
+      "Exact metadata and full contents of the Portal Nusantara video were not independently retrieved during the archive operation.",
+      "The original ANRI footage was not examined frame by frame; the article relies on the published description for its characterization.",
+      "Primary judicial or archival records are needed to settle the individual identities, roles, and chain of command among the attackers.",
+      "The moving-shadow account needs tracing to its earliest identifiable testimony and comparison with the original source.",
+      "The reported seven-metre distance requires verification against its original source.",
+      "Exact live WordPress Categories and Blogger labels remain unverified; archive classifications are not platform assignments."
+    ],
+    "method_note": "Distinguish archival description, surviving footage, contemporary reporting, later testimony, popular retelling, and editorial interpretation. A state archive's publication does not automatically validate every inference made from its footage. Repeated retellings are not independent corroboration unless their source chains are established."
+  },
+  {
     "id": "2026-11-06-nakula-raya-patung-kuda",
     "title": "Dari Jalan Nakula Raya Sampai Patung Kuda: Menelusuri Gang, Jalan, Taman, dan Kuliner Taman Galaxy Bekasi",
     "published": "2026-11-06",
