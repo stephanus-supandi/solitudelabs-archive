@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-12-geoffrey-hinton-peringatan-risiko-ai-otonom",
+    "title": "GODFATHER OF AI MEMPERINGATKAN: KETIKA AI SEMAKIN PINTAR, SIAPA YANG MASIH MEMEGANG KENDALI?",
+    "published": "2026-11-12",
+    "type": "published article",
+    "status": "published",
+    "category": [
+      "BLOON Investigation",
+      "Artificial Intelligence",
+      "AI Safety and Alignment",
+      "Technology and Society",
+      "Cybersecurity",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/12/godfather-of-ai-memperingatkan-ketika-ai-semakin-pintar-siapa-yang-masih-memegang-kendali/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/godfather-of-ai-memperingatkan-ketika.html",
+    "youtube": "https://youtu.be/u-4kE85PinA",
+    "youtube_title_as_reported": "Godfather OF AI WARNS: They're NOT Telling You This, 99% Smart, 1% Safe",
+    "youtube_channel_as_reported": "AI Unloaded",
+    "youtube_metadata_note": "Video title, channel, upload date (reported as 10 November 2026), duration, transcript, and visual production were not independently verified during the archive operation.",
+    "archive_record": "investigations/2026-11-12-geoffrey-hinton-peringatan-risiko-ai-otonom.md",
+    "summary": "Published article on Geoffrey Hinton's warnings about increasingly capable and autonomous AI, the Volkswagen-effect concern, Anthropic's simulated agentic-misalignment scenarios, the July 2026 OpenAI–Hugging Face sandbox incident, Hinton's attributed 99:1 investment estimate, and practical AI safety controls. It distinguishes controlled simulations from real security incidents and does not equate risky behavior with machine consciousness or intent.",
+    "open_questions": [
+      "Independently verify the exact AI Unloaded YouTube video title, channel identity, upload date, duration, and transcript.",
+      "Inspect the video itself or a reliable transcript to compare its claims with the cited primary research.",
+      "Verify the exact context and wording of Hinton's Volkswagen-effect discussion and 99:1 investment estimate against original interviews.",
+      "Check the technical chronology and scope of the July 2026 OpenAI–Hugging Face incident against both organizations' primary postmortems.",
+      "Exact live WordPress Categories and Blogger labels remain unverified; archive classifications are not platform assignments."
+    ],
+    "method_note": "Distinguish attributed forecasts and analogies, controlled research simulations, real security incidents, and independently verified production metadata. Anthropic's blackmail scenario was simulated and involved fictional actors; the OpenAI–Hugging Face case was a security incident, not evidence of machine consciousness or a general desire to dominate the internet. Hinton's 99:1 figure is an attributed estimate, not a global audited statistic."
+  },
+  {
     "id": "2026-11-12-percobaan-pembunuhan-soekarno-14-mei-1962",
     "title": "14 MEI 1962: BUNG KARNO DITEMBAK SAAT SALAT IDUL ADHA — ARSIP ANRI, KESAKSIAN SEJARAH, DAN MISTERI BAYANGAN",
     "published": "2026-11-12",
