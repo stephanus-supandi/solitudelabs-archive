@@ -1,5 +1,12 @@
 ## 2026-11-12
 
+### Science · Forensic science · True stories · Digital media literacy
+
+- [Trish Vickers: Menulis Novel Tanpa Tinta — Ketika Polisi Forensik Menyelamatkan Tulisan yang Tak Terlihat](investigations/2026-11-12-trish-vickers-menulis-novel-tanpa-tinta.md)  
+  Published article about the 2012 Dorset case in which forensic examination helped recover writing pressure marks from 26 apparently blank pages. Distinguishes the documented event from the later Zack D. Films animated retelling and leaves AI-generation claims unverified. WordPress and Blogger publication links are recorded. Exact live Categories metadata was not exposed by the readable WordPress page, and the Blogger page could not be retrieved; the listed categories are archive classifications, not verified platform assignments.
+
+## 2026-11-12
+
 ### Urban observation · International Street View audit
 
 - [Bletchley, Milton Keynes — Nine-Frame Google Maps / Street View Pin Audit](research/2026-11-12-bletchley-milton-keynes-nine-frame-google-maps-pin-audit.md)  
