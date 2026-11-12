@@ -1,5 +1,12 @@
 ## 2026-11-12
 
+### Artificial intelligence · AI safety · Cybersecurity · Media literacy
+
+- [Godfather of AI Memperingatkan: Ketika AI Semakin Pintar, Siapa yang Masih Memegang Kendali?](investigations/2026-11-12-geoffrey-hinton-peringatan-risiko-ai-otonom.md)  
+  Published article discussing Geoffrey Hinton's warnings about increasingly capable and autonomous AI, Anthropic's simulated agentic-misalignment scenarios, the July 2026 OpenAI–Hugging Face sandbox incident, and practical safety controls. It distinguishes simulations from real security incidents, treats Hinton's 99:1 figure as an attributed estimate rather than a global audit, and leaves the AI Unloaded video's metadata and visual production independently unverified. WordPress and Blogger publication links are recorded; category names are archive/editorial classifications, not verified live platform assignments.
+
+## 2026-11-12
+
 ### Indonesian history · Presidential history · Archives · Media literacy
 
 - [14 Mei 1962: Bung Karno Ditembak Saat Salat Idul Adha — Arsip ANRI, Kesaksian Sejarah, dan Misteri Bayangan](investigations/2026-11-12-percobaan-pembunuhan-soekarno-14-mei-1962.md)  
