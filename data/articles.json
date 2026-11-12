@@ -537,5 +537,33 @@
       "Any systematic relationship with the earlier Bekasi Nakula 3, Veteran, or Sersan Idris observations remains an analogy or research hypothesis, not a demonstrated common pattern."
     ],
     "method_note": "A map pin is not automatically a verified entrance; a Street View camera view is not a record of listing history. Matching façades, nearby signs, vehicles, trees, and buildings are leads, not proof of exact coordinate identity. Do not infer a route without verified coordinates, a ten-year pin history from image dates, or a common cause across Bletchley and Bekasi. The pedestrian in the June 2016 image is not identified; the Acuy comparison is a joke/metaphor only."
+  },
+  {
+    "id": "2026-11-12-trish-vickers-menulis-novel-tanpa-tinta",
+    "title": "TRISH VICKERS: MENULIS NOVEL TANPA TINTA — KETIKA POLISI FORENSIK MENYELAMATKAN TULISAN YANG TAK TERLIHAT",
+    "published": "2026-11-12",
+    "type": "published article",
+    "status": "published",
+    "category": [
+      "BLOON Investigation",
+      "Science & Technology",
+      "Forensic Science",
+      "True Stories",
+      "Digital Media Literacy"
+    ],
+    "category_note": "Archive/editorial classification only. Exact WordPress Categories metadata was not exposed by the readable page; Blogger page retrieval failed. These are not asserted as confirmed live platform category assignments.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/12/trish-vickers-menulis-novel-tanpa-tinta-ketika-polisi-forensik-menyelamatkan-tulisan-yang-tak-terlihat/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/trish-vickers-menulis-novel-tanpa-tinta.html",
+    "youtube": "https://youtube.com/shorts/xl13PBXVg3k",
+    "archive_record": "investigations/2026-11-12-trish-vickers-menulis-novel-tanpa-tinta.md",
+    "summary": "A popular-history article about Trish Vickers, who wrote 26 pages of her first novel with a pen that had run out of ink; forensic examination helped recover writing pressure marks. Separates the documented 2012 event from the later animated retelling and does not claim that the Shorts was AI-generated.",
+    "open_questions": [
+      "Exact WordPress Categories assignments were not exposed in the readable public page.",
+      "The Blogger publication page could not be retrieved by the available page reader, so its labels/categories were not independently checked.",
+      "The exact upload date and direct source attribution for the Zack D. Films Shorts were not independently verified in this archive operation.",
+      "The animation production workflow and any use of generative AI remain unverified.",
+      "The article names ABC News, Dorset Police/local Dorset reporting, and The New York Times but does not provide direct links for every named source."
+    ],
+    "method_note": "A real historical event does not make a later animation original documentary footage. Animation alone does not establish generative-AI use. Keep event verification, forensic method, visual reconstruction, AI-production claims, and platform category metadata separate."
   }
 ]
