@@ -1,3 +1,10 @@
+## 2026-11-13
+
+### Art · Philosophy · Culture · Popular science · Information literacy
+
+- [Codex Seraphinianus: Ensiklopedia dari Dunia yang Tidak Pernah Ada](investigations/2026-11-13-codex-seraphinianus-ensiklopedia-dunia-imajiner.md)  
+  Published article about Luigi Serafini's imaginary encyclopedia, its asemic writing, the reported base-21 page-numbering analysis, comparisons with the Voynich Manuscript, human pattern recognition, apophenia and pareidolia, and the distinction between artistic imagination and empirical knowledge. The WordPress page was readable and lists the categories “Seni, Filsafat, Budaya, Sains Populer, dan Literasi Informasi.” The Blogger page could not be independently retrieved during this archive update; its live labels remain unverified. Original publication links are recorded in the structured metadata.
+
 ## 2026-11-12
 
 ### Artificial intelligence · AI safety · Cybersecurity · Media literacy
