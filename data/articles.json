@@ -1,5 +1,31 @@
 [
   {
+    "id": "2026-11-13-codex-seraphinianus-ensiklopedia-dunia-imajiner",
+    "title": "CODEX SERAPHINIANUS: ENSIKLOPEDIA DARI DUNIA YANG TIDAK PERNAH ADA",
+    "published": "2026-11-13",
+    "type": "published article",
+    "status": "published",
+    "category": [
+      "Seni",
+      "Filsafat",
+      "Budaya",
+      "Sains Populer",
+      "Literasi Informasi"
+    ],
+    "category_note": "The WordPress page explicitly lists these categories. Blogger labels could not be independently verified during this archive update.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/13/codex-seraphinianus-ensiklopedia-dari-dunia-yang-tidak-pernah-ada/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/codex-seraphinianus-ensiklopedia-dari.html",
+    "blogger_metadata_note": "The Blogger page could not be retrieved by the available page reader; live labels and page content were not independently checked in this archive operation.",
+    "archive_record": "investigations/2026-11-13-codex-seraphinianus-ensiklopedia-dunia-imajiner.md",
+    "summary": "Published article examining Codex Seraphinianus as Luigi Serafini's imaginary encyclopedia, its asemic writing, the reported base-21 page-numbering analysis, its distinction from the historical Voynich Manuscript, human pattern recognition, apophenia and pareidolia, communication through visual structure, and the boundary between artistic fiction and empirical science. Proposes Codex Bloonianus as a clearly fictional world-building experiment.",
+    "open_questions": [
+      "Blogger page content and live labels were not independently retrieved during this archive update.",
+      "The exact live WordPress category metadata was recorded from the readable page as “Seni, Filsafat, Budaya, Sains Populer, dan Literasi Informasi”; the platform's underlying category IDs were not inspected.",
+      "The detailed bibliography and page-numbering analysis should be checked against the cited primary and scholarly sources if the article is revised."
+    ],
+    "method_note": "Keep creator statements, bibliographic facts, published mathematical analysis, and the article's psychological/philosophical interpretation distinct. A base-21 analysis of page numbering does not establish that the main asemic writing has been translated. Visual resemblance to the Voynich Manuscript does not establish common origin. Codex illustrations are not empirical evidence for real organisms, technologies, or lost civilizations."
+  },
+  {
     "id": "2026-11-12-geoffrey-hinton-peringatan-risiko-ai-otonom",
     "title": "GODFATHER OF AI MEMPERINGATKAN: KETIKA AI SEMAKIN PINTAR, SIAPA YANG MASIH MEMEGANG KENDALI?",
     "published": "2026-11-12",
