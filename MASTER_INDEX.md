@@ -1,5 +1,12 @@
 ## 2026-11-15
 
+### Local business · Urban archaeology · Digital footprints · Google Street View
+
+- [Satu Alamat, Dua Nama Bisnis: Jejak Infinity Pool System dan EcoSmartpool di Nakula 3 Bekasi](investigations/2026-11-15-satu-alamat-dua-nama-bisnis-infinity-pool-system-ecosmartpool-nakula-3-bekasi.md)  
+  Published article examining the March 2025 Google Street View image labeled Infinity Pool System and public business records that list Infinity Pool System and EcoSmartpool at Nakula 3 Blok C No. 85, Jaka Setia, Bekasi Selatan. Records matching address and contact details as evidence of possible business continuity, not proof of legal identity, formal rebranding, property ownership, or a sale. Status: partially verified; user-supplied visual evidence and public listings are distinguished from unresolved corporate and property history.
+
+## 2026-11-15
+
 ### World history · Military history · Civil engineering · Geotechnical engineering
 
 - [Terowongan Củ Chi: Kota Bawah Tanah di Tengah Perang Vietnam](investigations/2026-11-15-terowongan-cu-chi-kota-bawah-tanah-perang-vietnam.md)  
