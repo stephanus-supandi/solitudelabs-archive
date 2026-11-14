@@ -1,5 +1,12 @@
 ## 2026-11-14
 
+### Jakarta history · Urban history · Toponymy · Cemetery history
+
+- [Karet Tengsin: Dari Kebun Karet, Kampung Lama, hingga Makam yang Terkena Penggusuran](investigations/2026-11-14-karet-tengsin-kebun-karet-kampung-makam.md)  
+  Published article examining the reported origin of the name Karet Tengsin, the Tan Tieng Sien rubber-plantation narrative, the wider Karet toponymy, and cemetery land in Karet Tengsin affected by the 1975 widening of Jalan H. Mas Mansyur. Separates the academic record of cemetery impacts from popular-origin narratives; exact plantation boundaries, name spelling, grave counts, and relocation destinations remain unresolved. Publication URLs are recorded in metadata; live page retrieval was not independently successful during this archive update.
+
+## 2026-11-14
+
 ### Indonesian institutional history · Medical education · Jakarta hospitals · Media literacy
 
 - [Dr. Lo Siauw Ging: Dokter yang Tetap Praktik Ketika Solo Dilanda Kerusuhan Mei 1998](investigations/2026-11-14-dr-lo-siauw-ging-dokter-solo-mei-1998.md)  
