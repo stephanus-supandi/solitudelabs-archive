@@ -2,6 +2,9 @@
 
 ### Indonesian institutional history · Medical education · Jakarta hospitals · Media literacy
 
+- [Dr. Lo Siauw Ging: Dokter yang Tetap Praktik Ketika Solo Dilanda Kerusuhan Mei 1998](investigations/2026-11-14-dr-lo-siauw-ging-dokter-solo-mei-1998.md)  
+  Published article on Dr. Lo's decades-long medical career, his reported assistance to patients unable to pay, his decision to continue practicing during the May 1998 Solo riots, and residents' reported effort to guard his home. Distinguishes contemporaneous/retrospective reporting and neighborhood testimony from unsupported claims of a nationally coordinated medical-relief network. The archive text records that the public pages were not independently retrievable during this update and is based on the available editorial material; publication URLs are preserved in metadata.
+
 - [RS UNTAR Itu yang Mana? Royal Taruma, Sumber Waras, atau Ada Cerita Lain?](investigations/2026-11-14-rs-untar-royal-taruma-sumber-waras.md)  
   Published article tracing the historical relationship between FK UNTAR and RS Sumber Waras, the 1970 affiliation record, and the establishment of RS Royal Taruma by Yayasan Tarumanagara in 2007. Distinguishes the two hospitals and separates institutional ownership, clinical-training arrangements, and formal teaching-hospital status. The 2015 reporting and 2024 institutional history are treated as period-specific records; current licensing status remains unverified. Original WordPress and Blogger publication links are recorded in structured metadata.
 
