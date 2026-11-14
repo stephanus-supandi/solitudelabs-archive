@@ -804,5 +804,42 @@
       "The article names ABC News, Dorset Police/local Dorset reporting, and The New York Times but does not provide direct links for every named source."
     ],
     "method_note": "A real historical event does not make a later animation original documentary footage. Animation alone does not establish generative-AI use. Keep event verification, forensic method, visual reconstruction, AI-production claims, and platform category metadata separate."
+  },
+  {
+    "id": "2026-11-15-terowongan-cu-chi-kota-bawah-tanah-perang-vietnam",
+    "title": "Terowongan Củ Chi: Kota Bawah Tanah di Tengah Perang Vietnam — Ketika Cangkul, Tanah, dan Kecerdikan Manusia Membangun Jaringan Bawah Tanah",
+    "published": "2026-11-15",
+    "type": "published article",
+    "status": "published",
+    "category": [
+      "BLOON Investigation",
+      "World History",
+      "Military History",
+      "Civil Engineering",
+      "Geotechnical Engineering",
+      "Underground Construction",
+      "Vietnam",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classification only; exact live WordPress Categories and Blogger labels were not independently retrieved during this archive update.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/15/terowongan-cu-chi-kota-bawah-tanah-di-tengah-perang-vietnam/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/terowongan-cu-chi-kota-bawah-tanah-di.html",
+    "archive_record": "investigations/2026-11-15-terowongan-cu-chi-kota-bawah-tanah-perang-vietnam.md",
+    "summary": "Published article examining the Cu Chi tunnel network's historical development, manual construction, lateritic soil context, underground living spaces, ventilation, Hoang Cam kitchen, Tunnel Rats, and its present heritage-tourism status. Distinguishes the frequently cited 200–250 km historical-network estimate from the roughly 4 km of preserved sections described for Ben Duoc and Ben Dinh, and distinguishes UNESCO Tentative List status from World Heritage inscription. Avoids reducing the Vietnam War to a simplistic technology-versus-tunnel narrative.",
+    "open_questions": [
+      "Exact live WordPress Categories and Blogger labels were not independently retrieved during this archive update.",
+      "The total historical length of the tunnel network cannot be established precisely from the available documentation; 200–250 km is treated as a commonly cited estimate, not a verified complete measurement.",
+      "The precise dimensions and present condition of individual preserved tunnel segments may differ from their wartime configuration.",
+      "The article's statements about the 2026 Tentative List status should be checked against the live UNESCO entry if the nomination status changes."
+    ],
+    "method_note": "Distinguish documented heritage information, official nomination status, popular length estimates, and engineering interpretation. Do not treat preserved tourist sections as the complete historic network or as an engineering template for modern tunnels. The thematic BLOON reading is editorial interpretation, not a claim that tunnels alone determined the outcome of the Vietnam War.",
+    "sources": [
+      "https://whc.unesco.org/en/tentativelists/7038/",
+      "https://dsvh.gov.vn/di-tich-lich-su-dia-dao-cu-chi-1490",
+      "https://csdl.vietnamtourism.gov.vn/dest/?item=72",
+      "https://history.army.mil/portals/143/Images/Publications/catalog/30-22.pdf",
+      "https://history.army.mil/portals/143/Images/Publications/catalog/91-14.pdf",
+      "https://hello.hochiminhcity.gov.vn/en/discover/dia-dao-cu-chi"
+    ]
   }
 ]
