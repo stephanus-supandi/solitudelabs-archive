@@ -1,3 +1,10 @@
+## 2026-11-15
+
+### Indonesian literature · Television · Kretek history · Railway heritage · Central Java geography
+
+- [Gadis Kretek: Siapa Jeng Yah? Menelusuri Kisah Dasiyah, Stasiun Tuntang, Kereta Tua, dan Gunung Merbabu](investigations/2026-11-15-gadis-kretek-siapa-jeng-yah-menelusuri-stasiun-tuntang.md)  
+  Published article distinguishing Dasiyah/Jeng Yah as a fictional character inspired by family stories and research from the real history of the kretek industry and Stasiun Tuntang. Covers the station's reported 1871 construction and 1873 opening, its role in plantation transport and the Tuntang–Salatiga bus connection, deactivation in 1970, later tourist use, the separate Ambarawa–Tuntang and Ambarawa–Jambu–Bedono routes, Rawa Pening, and possible Mount Merbabu views. WordPress article text was retrieved and checked; the Blogger mirror URL was supplied but could not be independently retrieved during this archive update. Tourist service availability remains subject to operator confirmation.
+
 ## 2026-11-14
 
 ### Jakarta history · Urban history · Toponymy · Cemetery history
