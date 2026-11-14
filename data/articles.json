@@ -902,5 +902,43 @@
       "https://doi.org/10.1017/S0022046911000844",
       "https://doi.org/10.5209/geri.96292"
     ]
+  },
+  {
+    "id": "2026-11-15-y2k-ketika-dunia-takut-komputer-tahun-2000",
+    "title": "Y2K: Ketika Dunia Takut Komputer Salah Membaca Tahun 2000",
+    "published": "2026-11-15",
+    "type": "published article",
+    "status": "published; technical history partially verified; local school-history connection remains unverified",
+    "category": [
+      "BLOON Investigation",
+      "Science & Technology",
+      "Computer History",
+      "Technology History",
+      "BIOS & Firmware",
+      "Digital History",
+      "Local History",
+      "Bekasi"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/15/y2k-ketika-dunia-takut-komputer-salah-membaca-tahun-2000/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/y2k-ketika-dunia-takut-komputer-salah.html",
+    "archive_record": "investigations/2026-11-15-y2k-ketika-dunia-takut-komputer-tahun-2000.md",
+    "summary": "Explains the Y2K two-digit-year problem and its implications for RTC, CMOS, BIOS, operating systems, databases, applications, embedded systems, leap-year handling, and the 1999 GPS Week Number Rollover. Clarifies that Y2K did not require wholesale replacement of computer architecture and that broad remediation helped avert major disruption. Separately records the remembered Y2K music school in Taman Galaxy, Bekasi, and a present-day directory trace for Y2K Studio / Y2K Music School / Y2K Ballet School without claiming a verified founding date or causal connection to the millennium bug.",
+    "open_questions": [
+      "The exact live WordPress Categories and Blogger labels were not independently retrieved; archive topics are not confirmed platform categories.",
+      "The school's founding date, former operating address, ownership/management, and reason for choosing the Y2K name have not been established through primary records.",
+      "The relationship, if any, between the Y2K Studio directory listing and the school remembered by the author requires historical corroboration.",
+      "The technical impact of Y2K varied by system; the article describes general failure modes and does not claim that every BIOS, RTC, operating system, or application was affected.",
+      "The scope and cost estimates of worldwide Y2K remediation vary by methodology and are not quantified in this article."
+    ],
+    "method_note": "Separate documented computer-history facts from the local school recollection and present-day directory traces. A shared name does not establish a causal connection. Distinguish RTC, CMOS, BIOS, operating systems, databases, and applications rather than attributing all Y2K failures to BIOS. No exact WordPress Categories or Blogger labels are asserted.",
+    "sources": [
+      "https://www.si.edu/spotlight/y2k",
+      "https://files.gao.gov/assets/gao-22-105184.pdf",
+      "https://www.gao.gov/assets/aimd-98-45.pdf",
+      "https://www-pub.iaea.org/MTCD/Publications/PDF/te_1073_prn.pdf",
+      "https://informatics.nic.in/uploads/pdfs/47748442_July1999.pdf",
+      "https://www.iap.org.uk/year-2000-bug-pc-issues-explained"
+    ]
   }
 ]
