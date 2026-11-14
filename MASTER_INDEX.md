@@ -1,3 +1,10 @@
+## 2026-11-14
+
+### Indonesian institutional history · Medical education · Jakarta hospitals · Media literacy
+
+- [RS UNTAR Itu yang Mana? Royal Taruma, Sumber Waras, atau Ada Cerita Lain?](investigations/2026-11-14-rs-untar-royal-taruma-sumber-waras.md)  
+  Published article tracing the historical relationship between FK UNTAR and RS Sumber Waras, the 1970 affiliation record, and the establishment of RS Royal Taruma by Yayasan Tarumanagara in 2007. Distinguishes the two hospitals and separates institutional ownership, clinical-training arrangements, and formal teaching-hospital status. The 2015 reporting and 2024 institutional history are treated as period-specific records; current licensing status remains unverified. Original WordPress and Blogger publication links are recorded in structured metadata.
+
 ## 2026-11-13
 
 ### Art · Philosophy · Culture · Popular science · Information literacy
