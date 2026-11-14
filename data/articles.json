@@ -940,5 +940,40 @@
       "https://informatics.nic.in/uploads/pdfs/47748442_July1999.pdf",
       "https://www.iap.org.uk/year-2000-bug-pc-issues-explained"
     ]
+  },
+  {
+    "id": "2026-11-15-abbott-fuller-graves-pelukis-taman-cahaya-amerika",
+    "title": "Abbott Fuller Graves: Pelukis Taman dan Cahaya dari Amerika",
+    "published": "2026-11-15",
+    "type": "published article",
+    "status": "published; biographical and artwork records partially verified; stylistic interpretation requires further catalog-level checking",
+    "category": [
+      "Seni Rupa",
+      "Sejarah Seni",
+      "Pelukis Amerika",
+      "Impresionisme",
+      "Lukisan Taman",
+      "BLOON Investigation"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently retrieved.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/15/abbott-fuller-graves-pelukis-taman-dan-cahaya-dari-amerika/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/abbott-fuller-graves-pelukis-taman-dan.html",
+    "archive_record": "investigations/2026-11-15-abbott-fuller-graves-pelukis-taman-cahaya-amerika.md",
+    "summary": "Published article introducing Abbott Fuller Graves (1859–1936), an American painter and illustrator associated with garden, floral, and outdoor-life subjects. Covers his reported early architectural studies, Paris art education, teaching, Kennebunkport context, selected works recorded by Smithsonian, and a cautious discussion of Impressionist influence. Separates documented biographical/artwork records from stylistic interpretation and unverified claims.",
+    "open_questions": [
+      "Exact live WordPress Categories and Blogger labels were not independently checked; archive categories are editorial classifications only.",
+      "The detailed chronology of Graves's architectural studies, travel, and instruction should be checked against primary institutional biographies and archival records before making more specific claims.",
+      "The degree and nature of Graves's relationship to Impressionism is an art-historical interpretation; formal membership in an Impressionist group is not established here.",
+      "The exact provenance, present location, and dating of every artwork named in the article require item-level catalog verification."
+    ],
+    "method_note": "Distinguish institutional biographical records and museum catalog entries from interpretation of style. Do not describe Graves as a formal member of the Impressionist movement without evidence. A painting of a garden does not by itself identify the depicted location. Thematic connections to other SolitudeLabs articles are editorial metaphors, not historical or causal links.",
+    "sources": [
+      "https://nationalacademy.emuseum.com/people/1891/abbott-fuller-graves",
+      "https://collections.si.edu/search/results.htm?q=%22Abbott+Fuller+Graves%2C+1859+-+1936%22",
+      "https://www.si.edu/object/abbott-fuller-graves-painting%3Asiris_ari_363498",
+      "https://www.christies.com/en/lot/lot-175550",
+      "https://www.artnet.com/artists/abbott-fuller-graves/",
+      "https://www.abbottfullergraves.org/biography"
+    ]
   }
 ]
