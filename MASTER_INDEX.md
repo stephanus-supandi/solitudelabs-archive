@@ -1,5 +1,12 @@
 ## 2026-11-15
 
+### Church history · Catholicism · Roman history · Early Christianity · Hagiography
+
+- [Santa Agatha: Martir dari Sisilia yang Menantang Kekuasaan Romawi](investigations/2026-11-15-santa-agatha-martir-sisilia-romawi.md)  
+  Published article examining the traditional account of Agatha of Catania, the Decian persecution, the hagiographic Passio, early evidence for her cult, iconography, and the development of her veneration in Sicily. Distinguishes the traditional 5 February 251 date and narrative details from independently verifiable historical evidence; treats the fourth-century Catania inscription cautiously and records unresolved interpretation. Status: partially verified.
+
+## 2026-11-15
+
 ### Local business · Urban archaeology · Digital footprints · Google Street View
 
 - [Satu Alamat, Dua Nama Bisnis: Jejak Infinity Pool System dan EcoSmartpool di Nakula 3 Bekasi](investigations/2026-11-15-satu-alamat-dua-nama-bisnis-infinity-pool-system-ecosmartpool-nakula-3-bekasi.md)  
