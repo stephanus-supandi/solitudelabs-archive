@@ -1,5 +1,12 @@
 ## 2026-11-15
 
+### Art history · American painting · Impressionism · Garden painting
+
+- [Abbott Fuller Graves: Pelukis Taman dan Cahaya dari Amerika](investigations/2026-11-15-abbott-fuller-graves-pelukis-taman-cahaya-amerika.md)  
+  Published article introducing the American painter Abbott Fuller Graves (1859–1936), his reported early architectural studies, art education in Paris, garden and floral subjects, teaching career, and documented works. Distinguishes proximity to Impressionist approaches from formal membership in the movement. The archive categories are editorial classifications; exact live WordPress Categories and Blogger labels were not independently checked. Status: partially verified.
+
+## 2026-11-15
+
 ### Technology history · Computer history · BIOS & firmware · Local history · Bekasi
 
 - [Y2K: Ketika Dunia Takut Komputer Salah Membaca Tahun 2000](investigations/2026-11-15-y2k-ketika-dunia-takut-komputer-tahun-2000.md)  
