@@ -867,5 +867,40 @@
       "Screenshot Street View yang diberikan merupakan dokumentasi visual pengguna; URL panorama dan koordinat kamera belum diarsipkan secara independen."
     ],
     "method_note": "Kesamaan alamat dan nomor kontak adalah petunjuk, bukan bukti identitas hukum atau perubahan nama. Google Maps labels and Street View imagery do not establish property ownership. Separate user-supplied visual observations, public business records, interpretation, and unresolved questions."
+  },
+  {
+    "id": "2026-11-15-santa-agatha-martir-sisilia-romawi",
+    "title": "Santa Agatha: Martir dari Sisilia yang Menantang Kekuasaan Romawi",
+    "published": "2026-11-15",
+    "type": "published article",
+    "status": "published",
+    "category": [
+      "Sejarah Gereja",
+      "Katolik",
+      "Sejarah Romawi",
+      "Sejarah Kuno",
+      "Tokoh Sejarah",
+      "Hagiografi",
+      "Investigasi Sejarah"
+    ],
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/15/santa-agatha-martir-dari-sisilia-yang-menantang-kekuasaan-romawi/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/15/santa-agatha-martir-dari-sisilia-yang.html",
+    "archive_record": "investigations/2026-11-15-santa-agatha-martir-sisilia-romawi.md",
+    "summary": "Published article about Agatha of Catania, the traditional account of her martyrdom around 250–251 CE, the Passio Sanctae Agathae, early evidence for her cult, iconography, association with Mount Etna, and the medieval development of her veneration. Separates hagiographic tradition and liturgical commemoration from independently verifiable historical evidence.",
+    "open_questions": [
+      "The exact year and date of Agatha's death are not independently established; 5 February 251 is a traditional dating.",
+      "The details and chronology of the Passio Sanctae Agathae cannot all be independently verified.",
+      "The proposed identification and interpretation of the fourth-century Catania funerary inscription require cautious treatment.",
+      "The chronology and historical details of the Mount Etna miracle belong to religious tradition and are not geological evidence."
+    ],
+    "method_note": "Distinguish hagiography, liturgical tradition, epigraphic evidence, archaeology, and modern academic interpretation. The early cult is historically better supported than every narrative detail of the martyrdom. Do not present the traditional date as an independently proven death date.",
+    "sources": [
+      "https://www.vaticannews.va/en/saints/02/05/st--agata--virgin-and-martyr.html",
+      "https://www.newadvent.org/cathen/01203c.htm",
+      "https://isicily.classics.ox.ac.uk/inscription/ISic000964.html",
+      "https://www.iris.unict.it/handle/20.500.11769/649829",
+      "https://doi.org/10.1017/S0022046911000844",
+      "https://doi.org/10.5209/geri.96292"
+    ]
   }
 ]
