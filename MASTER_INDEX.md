@@ -1,5 +1,12 @@
 ## 2026-11-15
 
+### World history · Military history · Civil engineering · Geotechnical engineering
+
+- [Terowongan Củ Chi: Kota Bawah Tanah di Tengah Perang Vietnam](investigations/2026-11-15-terowongan-cu-chi-kota-bawah-tanah-perang-vietnam.md)  
+  Published article examining the Cu Chi tunnel network's gradual development, manual excavation, lateritic soil context, underground living spaces, ventilation, Hoang Cam kitchen, Tunnel Rats, preserved heritage sections, and engineering lessons. Distinguishes the frequently cited 200–250 km historical-network estimate from the roughly 4 km of preserved sections at Ben Duoc and Ben Dinh, and distinguishes UNESCO Tentative List status from World Heritage inscription. Exact live WordPress Categories and Blogger labels were not independently retrieved during this archive update.
+
+## 2026-11-15
+
 ### Indonesian literature · Television · Kretek history · Railway heritage · Central Java geography
 
 - [Gadis Kretek: Siapa Jeng Yah? Menelusuri Kisah Dasiyah, Stasiun Tuntang, Kereta Tua, dan Gunung Merbabu](investigations/2026-11-15-gadis-kretek-siapa-jeng-yah-menelusuri-stasiun-tuntang.md)  
