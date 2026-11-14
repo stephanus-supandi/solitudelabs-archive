@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026-11-14-rs-untar-royal-taruma-sumber-waras",
+    "title": "RS UNTAR ITU YANG MANA? ROYAL TARUMA, SUMBER WARAS, ATAU ADA CERITA LAIN?",
+    "published": "2026-11-14",
+    "type": "published article",
+    "status": "published",
+    "category": [
+      "BLOON Investigation",
+      "Indonesian Institutional History",
+      "Medical Education",
+      "Jakarta History",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only; live WordPress categories and Blogger labels were not independently verified during this archive update.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/14/rs-untar-itu-yang-mana-royal-taruma-sumber-waras-atau-ada-cerita-lain/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/rs-untar-itu-yang-mana-royal-taruma.html",
+    "archive_record": "investigations/2026-11-14-rs-untar-royal-taruma-sumber-waras.md",
+    "summary": "Published article tracing the historical relationship between FK UNTAR and RS Sumber Waras, the 1970 affiliation record, and the establishment of RS Royal Taruma by Yayasan Tarumanagara in 2007. Distinguishes the two hospitals and separates institutional ownership, clinical-training arrangements, and formal teaching-hospital status.",
+    "open_questions": [
+      "The current formal teaching-hospital licensing status of RS Royal Taruma should be checked against the latest official Ministry of Health or accreditation records.",
+      "The current status and scope of the FK UNTAR–RS Sumber Waras clinical education agreement have not been independently checked beyond the cited 2017 announcement.",
+      "The detailed chronology and institutional relationships should be checked against the cited 1959–2024 Yayasan Tarumanagara history book and original legal or cooperation documents."
+    ],
+    "method_note": "Do not conflate RS Sumber Waras with RS Royal Taruma. Distinguish the university, faculty, foundation, hospital operator, clinical-training site, and formally designated teaching hospital. Historical reports establish the status described at their publication dates, not necessarily current licensing or agreements. Archive categories are editorial classifications, not verified live platform labels.",
+    "sources": [
+      "https://lintar.untar.ac.id/repository/penelitian/buktipenelitian_10384023_2A160325192035.pdf",
+      "https://untar.ac.id/2015/04/14/penerimaan-mahasiswa-baru-angkatan-xxiii-semester-genap-2015-2016-perkuliahan-dimulai/",
+      "https://untar.ac.id/2017/03/21/perjanjian-kerja-sama-yang-baru-antara-fk-untar-dan-rs-sumber-waras/",
+      "https://edukasi.okezone.com/read/2015/01/13/65/1091581/untar-akan-bangun-rumah-sakit-pendidikan",
+      "https://rsroyaltaruma.com/about-us/history"
+    ]
+  },
+  {
     "id": "2026-11-13-codex-seraphinianus-ensiklopedia-dunia-imajiner",
     "title": "CODEX SERAPHINIANUS: ENSIKLOPEDIA DARI DUNIA YANG TIDAK PERNAH ADA",
     "published": "2026-11-13",
