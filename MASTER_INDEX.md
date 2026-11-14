@@ -1,5 +1,12 @@
 ## 2026-11-15
 
+### Technology history · Computer history · BIOS & firmware · Local history · Bekasi
+
+- [Y2K: Ketika Dunia Takut Komputer Salah Membaca Tahun 2000](investigations/2026-11-15-y2k-ketika-dunia-takut-komputer-tahun-2000.md)  
+  Published article explaining the two-digit-year problem, the roles of RTC, CMOS, BIOS, operating systems, databases, and applications, and why Y2K did not require wholesale replacement of computer architecture. Covers leap-year handling and the 1999 GPS Week Number Rollover. Separately records the remembered Y2K music school in Taman Galaxy, Bekasi, and a present-day directory trace for Y2K Studio / Y2K Music School / Y2K Ballet School; the school's founding date and reason for its name remain unverified. Status: partially verified.
+
+## 2026-11-15
+
 ### Church history · Catholicism · Roman history · Early Christianity · Hagiography
 
 - [Santa Agatha: Martir dari Sisilia yang Menantang Kekuasaan Romawi](investigations/2026-11-15-santa-agatha-martir-sisilia-romawi.md)  
