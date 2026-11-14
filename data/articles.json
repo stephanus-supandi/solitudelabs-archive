@@ -1,4 +1,43 @@
-[
+[{
+  "id": "2026-11-14-karet-tengsin-kebun-karet-kampung-makam",
+  "title": "KARET TENGSIN: DARI KEBUN KARET, KAMPUNG LAMA, HINGGA MAKAM YANG TERKENA PENGGUSURAN",
+  "published": "2026-11-14",
+  "type": "published article",
+  "status": "published (publication URLs supplied by author; page retrieval not independently verified)",
+  "category": [
+    "BLOON Investigation",
+    "Indonesian History",
+    "Jakarta History",
+    "Tanah Abang",
+    "Betawi History",
+    "Toponymy",
+    "Urban History",
+    "Cemetery History",
+    "Media Literacy"
+  ],
+  "category_note": "Archive/editorial classifications only; live WordPress categories and Blogger labels were not independently verified during this archive update.",
+  "wordpress": "https://solitudelabs.wordpress.com/2026/11/14/karet-tengsin-dari-kebun-karet-kampung-lama-hingga-makam-yang-terkena-penggusuran/",
+  "blogger": "https://solitudelabs.blogspot.com/2026/11/karet-tengsin-dari-kebun-karet-kampung.html",
+  "archive_record": "investigations/2026-11-14-karet-tengsin-kebun-karet-kampung-makam.md",
+  "summary": "Published article examining the reported origin of the name Karet Tengsin, the local story of a former rubber plantation associated with Tan Tieng Sien, the wider Karet toponymy, and cemetery land in Karet Tengsin affected by the 1975 widening of Jalan H. Mas Mansyur. It distinguishes the academic record of cemetery impacts from popular-origin narratives and does not claim that the entire present kelurahan was forest, plantation, or cemetery.",
+  "open_questions": [
+    "The exact identity and original spelling of Tan Tieng Sien's name require confirmation from primary records.",
+    "The boundaries, dates, and land title of the reported rubber plantation have not been established from cadastral or colonial archival maps.",
+    "The extent and exact location of the cemetery area in Karet Tengsin affected by the 1975 road widening require contemporary maps and project records.",
+    "The number of graves moved and their destination have not been established from a complete relocation register.",
+    "The original 13 March 1975 Berita Yudha issue cited by the academic paper has not been inspected directly in this archive update.",
+    "The Blogger and WordPress pages were not independently retrievable through the available page reader during this archive operation."
+  ],
+  "method_note": "Distinguish academic historical research, a cited contemporaneous newspaper report, local-origin narratives repeated in media, and editorial synthesis. The academic study supports that cemetery sites in Karet Tengsin were among locations affected by the 1975 Jalan H. Mas Mansyur widening; it does not establish that the whole kelurahan was cemetery land or that every grave was removed. The rubber-plantation story and Tan Tieng Sien's identity remain leads requiring primary archival corroboration. Do not infer precise land boundaries or relocation destinations without maps and records.",
+  "sources": [
+    "https://e-journal.usd.ac.id/index.php/BandarMaulana/article/viewFile/7229/3534",
+    "https://budbas.data.kemdikbud.go.id/tematik/isi_f461376b-3c38-45e3-aa98-e1ad8f71914f.pdf",
+    "https://daerah.sindonews.com/read/836939/173/asal-usul-nama-karet-tengsin-berawal-dari-pemilik-kebun-karet-keturunan-tionghoa-yang-dermawan-1658794065",
+    "https://news.okezone.com/read/2023/03/13/337/2780029/menguak-asal-usul-nama-karet-tengsin",
+    "Berita Yudha, 13 March 1975, as cited in Laksono & Wirawan (2023): “Makam-makam yang Terkena Pelebaran Jalan Mas Mansyur Segera Dipindahkan.”"
+  ]
+},
+
   {
     "id": "2026-11-14-dr-lo-siauw-ging-dokter-solo-mei-1998",
     "title": "DR. LO SIAUW GING: DOKTER YANG TETAP PRAKTIK KETIKA SOLO DILANDA KERUSUHAN MEI 1998",
@@ -728,4 +767,5 @@
     ],
     "method_note": "A real historical event does not make a later animation original documentary footage. Animation alone does not establish generative-AI use. Keep event verification, forensic method, visual reconstruction, AI-production claims, and platform category metadata separate."
   }
+
 ]
