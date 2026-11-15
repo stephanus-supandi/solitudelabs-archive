@@ -1,3 +1,10 @@
+## 2026-11-16
+
+### Railway history · History of technology · Transportation · Aerodynamics · German history
+
+- [Schienenzeppelin: Kereta Api Berbaling-baling Karya Franz Kruckenberg](investigations/2026-11-16-schienenzeppelin-kereta-api-berbaling-baling-franz-kruckenberg.md)  
+  Published article examining Franz Friedrich Kruckenberg's propeller-driven Schienenzeppelin, its BMW VI V12 aircraft engine, 230.2 km/h test record on 21 June 1931, operational limitations, later wheel-driven and diesel-hydraulic developments, and SVT 137 155. Separates the prototype's Weimar-era origins from later work under Nazi rule. WordPress article text was retrieved and checked; the supplied Blogger mirror could not be independently retrieved. Category terms are editorial archive classifications, not verified live platform categories. Status: partially verified.
+
 ## 2026-11-15
 
 ### Art history · American painting · Impressionism · Garden painting
