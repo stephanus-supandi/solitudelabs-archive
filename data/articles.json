@@ -975,5 +975,41 @@
       "https://www.artnet.com/artists/abbott-fuller-graves/",
       "https://www.abbottfullergraves.org/biography"
     ]
+  },
+  {
+    "id": "2026-11-16-schienenzeppelin-kereta-api-berbaling-baling-franz-kruckenberg",
+    "title": "Schienenzeppelin: Kereta Api Berbaling-baling Karya Franz Kruckenberg",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "published; WordPress text retrieved and checked; Blogger mirror supplied but not independently retrieved",
+    "category": [
+      "Sejarah Teknologi",
+      "Sejarah Kereta Api",
+      "Transportasi",
+      "Aerodinamika",
+      "Sejarah Jerman",
+      "BLOON Investigation"
+    ],
+    "category_note": "Editorial archive classifications only. Exact live WordPress Categories and Blogger labels were not visible in the retrieved publication page and are not asserted.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/schienenzeppelin-kereta-api-berbaling-baling-karya-franz-kruckenberg/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/schienenzeppelin-kereta-api-berbaling.html",
+    "archive_record": "investigations/2026-11-16-schienenzeppelin-kereta-api-berbaling-baling-franz-kruckenberg.md",
+    "summary": "Examines Franz Friedrich Kruckenberg's Schienenzeppelin, a lightweight streamlined rail vehicle propelled by a rear aircraft propeller. Covers the BMW VI V12 engine, the 230.2 km/h record on 21 June 1931, practical limitations that prevented regular commercial service, the later move toward wheel-driven hydrodynamic transmission and diesel power, and the distinct SVT 137 155. Separates the original prototype's Weimar-era origins from subsequent developments during Nazi rule.",
+    "open_questions": [
+      "The supplied Blogger mirror could not be independently retrieved during this archive update; its live publication status and visible content remain unverified.",
+      "Exact live WordPress Categories and Blogger labels were not visible in the retrieved page; metadata categories are editorial archive classifications only.",
+      "Some published specifications, including exact engine configuration, power, dimensions, and the precise duration of the speed record, should be checked against contemporary railway and engineering records before more granular technical claims are added."
+    ],
+    "method_note": "Distinguish the original propeller-driven Schienenzeppelin from later Kruckenberg developments, including SVT 137 155. Do not describe the original prototype as a Nazi military project: its development dates to the Weimar Republic, before Hitler became Chancellor in 1933. Distinguish a test maximum from routine commercial operating speed. Preserve the Blogger URL as author-supplied but not independently verified. Category terms are archive/editorial classifications, not confirmed platform labels.",
+    "sources": [
+      "https://solitudelabs.wordpress.com/2026/11/16/schienenzeppelin-kereta-api-berbaling-baling-karya-franz-kruckenberg/",
+      "NDR — Schienenzeppelin fährt 1931 in Rekordzeit von Hamburg nach Berlin",
+      "Deutsches Eisenbahn-Archiv / eisenbahn.de — Der Schienenzeppelin",
+      "Hermann Föttinger Institute — Föttinger und die Flugbahn",
+      "Hermann Föttinger Institute — SVT 137 155",
+      "Märklin — Informationen zum Vorbild: Schienenzeppelin",
+      "Bayerischer Rundfunk — 21. Juni 1931: Schienenzeppelin fährt Weltrekord",
+      "Der Spiegel — Tückische Technik bei der Bahn: Die Lok, die dät et nimmie!"
+    ]
   }
 ]
