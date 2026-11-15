@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-11-16-luigi-loir-pelukis-paris",
+    "title": "Luigi Loir: Pelukis yang Mengabadikan Kehidupan Paris Sebelum Kota Itu Berubah Lagi",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "published; publication URLs supplied by author; live WordPress and Blogger pages not independently retrieved during this archive update",
+    "category": [],
+    "category_note": "Exact live WordPress Categories and Blogger labels were not supplied or independently verified. No platform category assignments are inferred; populate only after author confirmation.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/luigi-loir-pelukis-yang-mengabadikan-kehidupan-paris-sebelum-kota-itu-berubah-lagi/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/luigi-loir-pelukis-yang-mengabadikan.html",
+    "archive_record": "investigations/2026-11-16-luigi-loir-pelukis-paris.md",
+    "summary": "Published article on Luigi Loir (1845–1916), the French painter known for depictions of Parisian urban life. Covers his birth in Göritz/Gorizia, then part of the Austrian Empire, his family's move to Parma, his art education, his move to Paris, selected paintings of streets and public spaces, and the context of nineteenth-century urban transformation. Treats paintings as artistic visual sources rather than precise photographic or cadastral records, and draws a clearly labelled methodological analogy with modern Street View and BLOON urban observation.",
+    "open_questions": [
+      "Exact live WordPress Categories and Blogger labels were not supplied or independently checked; the category field is intentionally empty.",
+      "Live WordPress and Blogger article contents were not independently retrieved during this archive update; publication URLs are author-supplied.",
+      "Exact identification of buildings and viewpoints in individual paintings requires item-level comparison with period maps, photographs, and collection records.",
+      "Painting titles, dates, and collection attributions should be checked against the relevant museum catalogue entries before adding more precise provenance or location claims.",
+      "Stylistic descriptions must not be treated as proof of formal membership in an Impressionist group."
+    ],
+    "method_note": "Separate birthplace, nationality, artistic identity, and later reputation. Distinguish museum catalogue metadata from visual interpretation. A painting can preserve evidence of urban appearance and atmosphere, but it is not a photograph, property record, business register, or precise survey. The comparison with Google Street View and BLOON is an editorial analogy; source type, date precision, and evidentiary scope remain different.",
+    "sources": [
+      "https://www.musee-orsay.fr/en/ressources/artists-personalities-catalog/luigi-loir-17102",
+      "https://catalogue.bnf.fr/ark:/12148/cb129107364",
+      "https://arts-graphiques.louvre.fr/detail/artistes/0/2903-LOIR-Luigi",
+      "https://www.parismuseescollections.paris.fr/en/recherche/type/oeuvre/ET/auteur/Loir%2C%20Luigi",
+      "https://salons.musee-orsay.fr/Detail/entities/118330",
+      "https://www.paris.fr/pages/haussmann-l-homme-qui-a-transforme-paris-23091",
+      "https://www.citedelarchitecture.fr/fr/collection/les-incontournables/paris-avant-et-apres-les-grands-travaux-dhaussmann"
+    ]
+  },
+  {
     "id": "2026-11-15-gadis-kretek-siapa-jeng-yah-stasiun-tuntang",
     "title": "GADIS KRETEK: SIAPA JENG YAH? MENELUSURI KISAH DASIYAH, STASIUN TUNTANG, KERETA TUA, DAN GUNUNG MERBABU",
     "published": "2026-11-15",
