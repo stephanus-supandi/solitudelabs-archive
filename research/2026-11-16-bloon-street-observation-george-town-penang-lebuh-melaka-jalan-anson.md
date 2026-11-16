@@ -150,3 +150,93 @@ The archive does not independently establish:
 This file is a working research dossier based on user-supplied written descriptions of Street View / Maps observations. It is not a published article, a complete POI database, a verified cadastral map, or an independently conducted field survey. No BEO/GSV master-table row is added because exact coordinates and normalized feature-level records were not supplied in this archive operation.
 
 **BLOON rule:** record what is visible or explicitly reported; distinguish it from interpretation; keep unknowns unknown. GOBLOK BOLEH. NGARANG JANGAN.
+
+
+## 9. Jalan Siam additions — September 2024 and September 2026 (user-described)
+
+The following additions were supplied after the initial dossier was prepared. They are recorded as author-described Google Maps / Street View observations. The underlying screenshot pixels, listing pages, coordinates, and official records were not independently retrieved in this archive update. “Verified primary” in the supplied notes is therefore preserved only as the author's label, not adopted as an independent verification status.
+
+### Baking, fragrance, kitchen supply, food, and trading
+
+- **Hong Yap Trading Company** — reported as a baking-supply store; 3.8 stars / 38 reviews in the September 2024 panel. The user describes a sign reading “FOR CUSTOMER ONLY 只限顧客.” The reported review count does not establish repeat customers, customer loyalty, product completeness, or supply relationships with bakeries and cafés.
+- **Josh Lee Fragrances** — name and the Malay wording “PEJABAT URUSAN” (office) reportedly appear above / in association with the Hong Yap view. This supports recording a fragrance-business lead and a visual association with the same shophouse frontage. It does not independently establish the company's legal identity, exact floor, tenancy, ownership, or operational relationship with Hong Yap.
+- **Wong Kitchen Equipment Suppliers** — reported Maps category “Home goods store,” rating 1.0 / 1 review, and a sign fragment read as “TEMPOR BULANAN.” The business category may be broad or imprecise, but the correct classification and the meaning of the sign fragment are unresolved. One low-rated review is not a reliable measure of service quality.
+- **Siam Road Kitchen** — reported takeout listing with 5.0 stars / 2 reviews and a Tuesday-only schedule: opening at 7.30 am Tuesday and delivery 11.30 am–2.00 pm Tuesday. The user describes it beside SUGARCREAM Caffe and near a “SIAM ROAD OPEN SITE” / Parkpotts parking sign. The reported schedule is a listing snapshot, not proof of a home-based or pop-up business, collaboration, or current schedule.
+- **TOP STEEL KITCHEN EQUIPMENT ENTERPRISE** — name reportedly visible on a banner in the same overall view as 北马鹤山会馆. This is recorded as visual co-presence only. The exact floor, unit, entrance, tenancy, ownership, and relationship between the two entities are not established.
+- **Gtax, Fresh Fields Sdn Bhd, “People's,” and SYSTEM SPECIALIST** — retained as separate business/sign leads from earlier Jalan Anson notes; their exact unit boundaries and relationships remain unresolved.
+
+### Other specialist, automotive, and service listings
+
+- **Seng Sin Tire & Battery Shop** — reported tire-and-battery business; white truck, “FOR SALE” banner fragment, and Malaysian flag described in the September 2024 view. A September 2026 view reportedly shows a blue “TIRE & BATERI SENG SIN” banner with Chinese text. The two observations suggest a possible visual temporal match; they do not prove uninterrupted operation or unchanged ownership.
+- **Wah Hoe Stainless Steel Trading** — reported stainless-steel trading business, 1.0 star / 1 review. A low aggregate score based on one review is not a reliable quality or reputation assessment.
+- **Rontex Sdn Bhd** — reported Maps category “fabric wholesaler.” The category supports a textile-trading lead; scale, wholesale customers, and B2B relationships are not independently established.
+- **Mitsinbo Sdn Bhd** — reported auto-parts-store listing with a closing time of 6.00 pm. The exact address, stock, and operating status were not independently checked.
+- **Kedai Motor Cheng Oung** — user describes a bilingual “KEDAI MOTOR CHENG OUNG MOTOR 清旺摩托” sign and nearby Perodua, Castrol, and D-Haus car-polishing banners, with workers attending to a vehicle. The sign supports a motorcycle-shop lead; the surrounding banners do not establish common ownership or a shared service operator.
+- **D-HAUS Car Detailing** — reported “399 COATING TINTED” and “99 FULL CAR POLISH” banner text in separate views; a white FUSO truck and a worker in blue uniform are described in the later view. The banner text is recorded as advertised services, not a verified price list or proof of completed work.
+- **THULE Car Rack System** — reported “AUTHORIZED DEALER” signage. The sign is a dealer-status claim; official authorization was not checked against THULE's dealer directory.
+- **Infinite Car Window Tint** — reported window-tinting business, 4.9 stars / 114 reviews, closing time 7.30 pm. Several motorcycles are described in front. Ratings and parked vehicles do not establish service quality, business age, customer volume, or continuous operation.
+- **Speed Generation Motor Enterprise** — reported motorcycle-shop listing in a shophouse view also showing **SLK Racing Enterprise** signage. The shared-location claim is retained as a visual lead only; exact unit boundaries, tenancy, and corporate relationships are unresolved.
+- **SLK Racing Enterprise** — red banner reportedly visible in the background; racing-parts interpretation is provisional pending a clearer sign or business record.
+- **ParcelHub Siam Road** — reported parcel / logistics listing. A Lalamove truck is described parked outside in the same general view as Infinite Car Window Tint and Speed Generation. This does not prove that Lalamove operates ParcelHub, that the truck is serving that business, or that the street forms an integrated logistics hub.
+- **See Cheng Trading Co** — reported trading-company name with a sign reading “mira GAS Dijual di sini.” This supports recording an LPG sales / agent lead; the exact operator, licence, and supply relationship were not checked.
+- **Gasko Dry Ice** — reported dry-ice supplier sign / listing. This is a specialist-supply lead; the products, quantities, customers, and industrial or medical uses were not verified.
+- **Speedglory Automobile Service Centre** — retained from the earlier notes as an automotive-service lead, 3.8 stars / 4 reviews. This is not evidence of a wider automotive cluster by itself.
+- **RhinePro, SAFCA / SAFECAM / ROADCAM, Jonlink Enterprise, and other automotive-related names** — retain the previously recorded category limits. In particular, Jonlink's business type remains unresolved; it should not be counted as a confirmed automotive business without clearer evidence.
+
+### Social, cultural, and civic institutions
+
+- **Kesatuan Buruh Majlis Bandaraya Pulau Pinang** — reported Maps / Street View name interpreted as a workers' association connected with the Penang Island City Council (MBPP). The user describes a September 2024 view with Malaysian and Penang flags and parked vehicles, and a September 2026 view with a blue tent in front and a visible Chinese-script fragment. This is a potentially important civic / labour-organization lead. The name alone does not establish membership rules, whether members are civil servants or employees under a particular employment status, legal registration, current activity, or the purpose of the tent. The two views do not prove uninterrupted activity between capture dates.
+- **北马鹤山会馆 (Beima Heshan Huiguan)** — Chinese name reported on a sign. A cautious literal reading is “Northern Malaysia Heshan Association / Hall”: 北马 refers to northern Malaysia, 鹤山 to Heshan, and 会馆 to an association or community hall. This is a strong lead for a Chinese regional / clan association, but its precise legal status, membership, founding date, historical role, and geographic remit require the association's own records or reliable historical sources. The name does not by itself establish a nineteenth- or twentieth-century founding.
+- **TOP STEEL KITCHEN EQUIPMENT ENTERPRISE** — banner reportedly visible in the same view as the huiguan. Do not describe this as a proven vertical shared tenancy or assign it to a particular floor without a view that establishes the entrance and floor relationship.
+- **“FOR CUSTOMER ONLY 只限顧客”** — the Chinese phrase is a reasonable reading of “customers only.” The bilingual sign documents language use on that sign; it does not independently establish neighborhood ethnic demographics, an exclusive business culture, or the language profile of customers.
+- **Jaya Souvenirs Confectionery Enterprise** — reported cookie / confectionery and souvenir-shop listing, closing time 6.30 pm. The name suggests souvenir retail, but actual tourist customer share and the shop's relationship to nearby hotels are not established.
+- **Golden Palace** — name reported; business type unresolved. Do not classify it as a restaurant, gold shop, palace association, or other specific use without further evidence.
+- **Malaysia Red Crescent Penang Branch, Jin Cafe, 北马鹤山会馆, and the labour association** — remain separate organizational or sign leads. Visual proximity or signage does not prove a shared building, legal tenancy, or common administration.
+
+### Beauty, wellness, health, and hospitality leads
+
+- **Fair Lady Beauty & Slimming House** — reported beauty-salon listing, 5.0 stars / 206 reviews, price range RM50–350, closing time 6.30 pm. These are user-transcribed interface values. They do not independently prove exceptional service quality, business age, market leadership, or a “premium” customer segment.
+- **Calory's Wellness** — user describes a vertical sign listing 艾灸护理 (moxibustion care), 中药泡脚 (herbal foot bath), 养生调理 (wellness care), and AI把脉 (“AI pulse reading”). This records advertised services and wording. It does not verify the device, algorithm, clinical validity, diagnostic capability, regulatory status, or safety of any AI-assisted health assessment.
+- **Courtyard / EXSIM** — the user describes these names in the background of nearby views. This is a visual orientation clue only; distance, exact site, tourism effects, and relationship to the Jalan Siam POIs have not been measured.
+- **Thai Shop** — reported listing / sign at an intersection with EXSIM and Courtyard in the background. The exact goods, address, and street are unresolved; “Thai products shop” is not adopted without a legible product or business description.
+- **Merlin Lighting Sdn Bhd** — reported lighting-company name on a large glass-fronted building. The exact services (retail, showroom, distribution, manufacturing, or contracting) and its precise street location require confirmation.
+- **Leva Enterprise Sdn Bhd** — name reported near a building sign fragment read as “MER...” and a “Wellness Center” background sign. Business type and adjacency unresolved.
+- **Kedai Permaidani & Perabot Mk Jaya Venture** — reported carpet-and-furniture shop. A red lantern and potted plants are described outside; these objects do not establish ethnicity, religious use, or a temple connection.
+- **Wong Electrical & Teak Wood (PG) Sdn Bhd** — reported electrical and teak-wood business name. The adjacent “Advance Lab & Chemical” and “H2H Medical Supplies” signs are recorded as background leads; no shared ownership or combined business is inferred.
+- **H2H Medical Supplies** and **Advance Lab & Chemical** — sign names described beside other premises; exact unit, business activity, and operating status remain unresolved.
+- **Jaya Souvenirs, Thai Shop, and Courtyard** — the juxtaposition may motivate a tourism hypothesis, but it does not establish that Jalan Siam is a tourist district or that these businesses primarily serve visitors.
+
+## 10. Reported ratings and review counts added in the later notes
+
+The values below are transcribed from the user's descriptions of Google Maps panels. They were not independently retrieved, date-normalized, or checked against review text.
+
+| POI | Reported rating | Reported reviews |
+|---|---:|---:|
+| Hong Yap Trading Company | 3.8 | 38 |
+| Wong Kitchen Equipment Suppliers | 1.0 | 1 |
+| Siam Road Kitchen | 5.0 | 2 |
+| Wah Hoe Stainless Steel Trading | 1.0 | 1 |
+| Fair Lady Beauty & Slimming House | 5.0 | 206 |
+| Infinite Car Window Tint | 4.9 | 114 |
+
+These figures should be stored with their capture date and panel context if the original screenshots are later available. They are not direct measures of quality, customer loyalty, business size, longevity, popularity, or commercial performance. A single one-star review does not establish a poor business; a high score with many reviews is noteworthy as a platform snapshot but still does not replace review-text analysis or independent quality evidence.
+
+## 11. Expanded-area boundary and cluster claims
+
+The later observations include POI leads beyond the initially described Jalan Siam segment, including nearby intersections, larger glass-fronted buildings, and streets not yet identified with certainty. Keep “Jalan Siam proper” separate from “nearby / boundary area” until coordinates or a reliable map view establish the street and block for each POI.
+
+The following labels are not adopted as verified findings:
+- **Automotive super-cluster / mega-cluster:** the notes contain several automotive-related listings and signs, but the count depends on scope, duplicate handling, category certainty, and whether Jonlink, SLK Racing, and other background names qualify. No consistent spatial density or comparison with other districts has been calculated.
+- **Automotive + logistics hub:** a ParcelHub listing and a Lalamove vehicle in one view do not prove a business partnership, fulfillment workflow, e-commerce integration, or an integrated logistics cluster.
+- **Beauty hub / tourist-friendly zone:** salon, wellness, souvenir, and hotel-related signs are leads, not a measured cluster or evidence of visitor composition.
+- **Chinese cultural district / strong ethnic identity:** a huiguan name, Chinese-language signs, and a lantern are observations. They do not establish the ethnic composition of residents, customers, or all businesses in the surrounding area.
+- **Vertical shared locations:** signs appearing above or near another business do not by themselves prove separate floors, a shared unit, tenancy, or ownership. Record as visual co-presence until entrances and floor positions are clear.
+- **UNESCO property:** George Town's World Heritage status does not automatically include every Jalan Siam / Jalan Anson / neighboring POI. Each coordinate must be checked against the official inscribed-property and buffer-zone boundaries.
+- **Stability 2024–2026:** repeated visible names or facades in two capture periods do not establish uninterrupted business operation, unchanged ownership, or overall neighborhood stability.
+- **Cross-country comparisons:** the supplied four-country totals and category counts have not been re-audited against a common geographic scope, observation protocol, deduplication rule, or time window. They must not be presented as a statistically comparable urban study or “academic” ranking.
+
+## 12. Archive disposition — expanded Jalan Siam notes
+
+This update expands the working inventory with user-described POI and sign leads from September 2024 / September 2026 and nearby, not-yet-fully-bounded streets. It does not create a normalized POI count, a verified map, a business directory, or a new BEO/GSV master-table row. No coordinates were supplied in normalized form, and no screenshot pixels or official records were independently inspected during this update.
+
+**BLOON rule:** signs are signs, listings are listings, coordinates are coordinates, and businesses are not proven by a name alone. Keep observation, interpretation, and unknowns separate. GOBLOK BOLEH. NGARANG JANGAN.
