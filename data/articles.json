@@ -1404,5 +1404,53 @@
       "https://academic.oup.com/edited-volume/43506/chapter/364132774",
       "https://firstnationsfoods.org/index.php?title=Chapter_15.1"
     ]
+  },
+  {
+    "id": "2026-11-16-nepal-van-java-dusun-butuh-magelang",
+    "title": "Nepal Van Java — Kampung Bertingkat di Lereng Gunung Sumbing: Dari Dusun Pertanian Menjadi Destinasi Wisata",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "publication URLs supplied by author; archive text reflects editorial draft and research notes in conversation; live WordPress/Blogger contents and exact platform categories/labels not independently retrieved during archive update",
+    "category": [
+      "Travel & Geography",
+      "Indonesia",
+      "Central Java",
+      "Magelang",
+      "Kaliangkrik",
+      "Dusun Butuh",
+      "Desa Temanggung",
+      "Nepal Van Java",
+      "Mount Sumbing",
+      "Rural Tourism",
+      "Community-Based Tourism",
+      "Mountain Settlements",
+      "Agriculture",
+      "Local Economy",
+      "Geography",
+      "Topography"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/nepal-van-java-kampung-bertingkat-di-lereng-gunung-sumbing-dari-dusun-pertanian-menjadi-destinasi-wisata/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/nepal-van-java-kampung-bertingkat-di.html",
+    "archive_record": "investigations/2026-11-16-nepal-van-java-dusun-butuh-magelang.md",
+    "summary": "Documents Nepal Van Java as the popular tourism name for Dusun Butuh, Desa Temanggung, Kaliangkrik, Kabupaten Magelang, on the slope of Mount Sumbing. Covers the layered settlement, highland agriculture, reported rise in visibility from 2019–2020, local tourism services, economic opportunities and management pressures. Preserves previously user-described map POIs as exploratory leads rather than verified current business operations.",
+    "open_questions": [
+      "The live WordPress and Blogger article contents and exact platform categories/labels were not independently retrieved during this archive operation.",
+      "The user-described POIs (Jeep Tour base, JANJI HATI Coffee & Kitchen, Homestay Bu Anik, Homestay Najwa, and other map pins) have not been rechecked for current operation or exact physical premises.",
+      "Visitor totals, ojek-driver counts, paint-donation quantities, and tourism timeline are period-specific claims reported by cited sources, not current audited statistics.",
+      "Sources give somewhat different elevation figures; this archive does not establish one exact elevation.",
+      "Current road access rules, jeep routes, prices, opening hours, and local service availability require current confirmation.",
+      "No geotechnical or structural safety assessment is made; photographs and map pins cannot establish slope stability, foundation performance, or building safety."
+    ],
+    "method_note": "Distinguish Dusun Butuh in Desa Temanggung, Kecamatan Kaliangkrik, Kabupaten Magelang from Kabupaten Temanggung. Treat the Nepal Van Java name as a popular tourism label, not a literal replica of Nepal. Attribute timeline and numerical claims to dated sources. Preserve prior map POIs as user-described exploration notes, not verified current businesses. Do not infer operational continuity, ownership, tenancy, or business relationships from proximity. Do not make structural or geotechnical conclusions without field measurements and investigation. No BLOON GSV/BEO record is added because no new normalized coordinates or field verification were supplied.",
+    "sources": [
+      "https://jadesta.kemenpar.go.id/desa/22908",
+      "https://sisparnas.kemenpar.go.id/p/4810",
+      "https://english.nepalnews.com/s/tourism/how-butuh-became-indonesias-nepal-of-java/",
+      "https://daerah.tvrinews.com/berita/t4l3vwq-nepal-van-java-dari-jalur-pendakian-jadi-ikon-wisata-magelang",
+      "https://jatengprov.go.id/publik/keindahan-nepal-van-java-dan-cerita-gowes-gubernur-ganjar/",
+      "https://bob.kemenpar.go.id/96611-6-tips-ketika-berkunjung-ke-nepal-van-java/",
+      "https://doi.org/10.35313/jtospolban.v1i1.4"
+    ]
   }
 ]
