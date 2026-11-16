@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-11-16-dari-camera-obscura-ke-fotografi-modern",
+    "title": "Dari Camera Obscura ke Fotografi Modern",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "publication reported by author; WordPress and Blogger URLs supplied; live pages not independently retrieved during this archive update",
+    "category": [],
+    "category_note": "Exact live WordPress Categories and Blogger labels were not supplied or independently verified. No platform category assignments are inferred; populate only after author confirmation.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/dari-camera-obscura-ke-fotografi-modern/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/dari-camera-obscura-ke-fotografi-modern.html",
+    "archive_record": "investigations/2026-11-16-dari-camera-obscura-ke-fotografi-modern.md",
+    "summary": "Traces the development of photography from camera obscura projection to permanent image recording and digital imaging. Covers Niépce's heliography and View from the Window at Le Gras (c. 1826–1827), Daguerre's daguerreotype announced in 1839, Talbot's calotype negative-positive process, wet collodion, roll film, and the transition to electronic image sensors. Distinguishes projection from recording, unique direct-positive daguerreotypes from reproducible negatives, and public announcement from the earlier history of experimentation.",
+    "open_questions": [
+      "Exact live WordPress Categories and Blogger labels were not supplied or independently verified; archive category metadata remains empty.",
+      "The live WordPress and Blogger pages could not be independently retrieved during this archive update.",
+      "The report that the Blogger page displays only “Skip to main content” remains an unverified observation, not a confirmed diagnosis of the blog or cross-posting mechanism.",
+      "Niépce's View from the Window at Le Gras is variously dated 1826, 1827, or circa 1826–1827; the archive uses the range and notes that the Harry Ransom Center catalogues the object as 1827.",
+      "The commonly cited exposure estimate of approximately eight hours is approximate; accounts and reconstructions vary.",
+      "A detailed chronology of Kodak roll film, Leica 35 mm, Kodachrome, Polaroid, the 1975 Kodak digital-camera prototype, and early consumer digital cameras requires separate item-level source verification."
+    ],
+    "method_note": "Do not collapse camera obscura projection into photographic recording. Distinguish Niépce's heliography, Daguerre's unique direct-positive plate, and Talbot's negative-positive calotype. Treat 19 August 1839 as a major public announcement, not the beginning of all photographic experimentation. Google Street View/BLOON as a modern camera obscura is an editorial analogy only, not a literal technical equivalence. Do not infer live platform categories from archive classifications.",
+    "sources": [
+      "https://www.hrc.utexas.edu/niepce-heliograph/",
+      "https://www.metmuseum.org/toah/hd/dagu/hd_dagu.htm",
+      "https://www.loc.gov/collections/civil-war-glass-negatives/articles-and-essays/a-brief-history-of-photography/",
+      "https://smarthistory.org/niepce-view-from-the-window-at-le-gras/",
+      "https://www.nationalgallery.ie/",
+      "https://www.fi.edu/"
+    ]
+  },
+  {
     "id": "2026-11-16-luigi-loir-pelukis-paris",
     "title": "Luigi Loir: Pelukis yang Mengabadikan Kehidupan Paris Sebelum Kota Itu Berubah Lagi",
     "published": "2026-11-16",
