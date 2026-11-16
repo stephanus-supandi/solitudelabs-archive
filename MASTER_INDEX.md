@@ -1,5 +1,12 @@
 ## 2026-11-16
 
+### Cybersecurity · Cyber warfare · Ransomware · Russian influence operations · Geopolitics
+
+- [WannaCry, Prigozhin, dan Wagner: Ketika Perang Tidak Lagi Hanya Menggunakan Senjata](investigations/2026-11-16-wannacry-prigozhin-wagner-cyberwarfare.md)  
+  Published article and verification dossier distinguishing three separate cases: WannaCry, publicly attributed by the UK and US governments to North Korean actors associated with Lazarus Group; Prigozhin's documented funding relationship with the Internet Research Agency and its influence operations; and NotPetya, publicly attributed by the UK government to Russia/GRU. Explicitly records that no credible evidence establishes Prigozhin, Wagner, or IRA as responsible for or coordinating WannaCry. Treats the comparison as contextual rather than proof of a shared command structure. Publication URLs were supplied by the author; live WordPress/Blogger contents and exact platform categories/labels were not independently retrieved during this archive update. No BEO/GSV row is added. Status: published; core distinctions and source trail documented; direct WannaCry–Prigozhin/Wagner link not established.
+
+## 2026-11-16
+
 ### Urban observation · Malaysia · George Town · Penang · Google Maps / Street View · BLOON
 
 - [BLOON Street Observation — George Town, Penang: Lebuh Melaka, Jalan Anson, and Jalan Siam](research/2026-11-16-bloon-street-observation-george-town-penang-lebuh-melaka-jalan-anson.md)  
