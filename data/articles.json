@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026-11-16-bloon-street-observation-george-town-penang-lebuh-melaka-jalan-anson",
+    "title": "BLOON Street Observation — George Town, Penang: Lebuh Melaka, Jalan Anson, and Jalan Siam",
+    "published": "2026-11-16",
+    "type": "working research dossier",
+    "status": "working dossier; based on user-supplied written descriptions of Google Maps / Street View observations; not independently image- or field-verified",
+    "category": [
+      "BLOON Investigation",
+      "Urban Observation",
+      "Malaysia",
+      "George Town",
+      "Penang",
+      "Google Maps",
+      "Google Street View",
+      "Temporal Comparison",
+      "Business Listings",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only. This is a research dossier, not a published article; no live platform categories or labels apply.",
+    "archive_record": "research/2026-11-16-bloon-street-observation-george-town-penang-lebuh-melaka-jalan-anson.md",
+    "summary": "Consolidates user-described Street View / Maps observations from September 2024 and September 2026 around Lebuh Melaka, Jalan Anson, and Jalan Siam in the user's working location identification of George Town, Penang. Records the reported Penang Hot Print temporal pair; BHB and Kitchentech appliance-retail leads; and POI observations spanning food, professional services, health and TCM, automotive services, retail, lottery, KTV, trophy retail, accommodation, and other businesses. Preserves ratings and review counts as reported interface values, not evidence of quality, customer volume, or economic importance. Records the correction from the tentative “DAURA = salon” guess to the later user identification “Aura Design.”",
+    "open_questions": [
+      "Exact coordinates for each POI, facade, entrance, and pin were not supplied; the exact location and spatial relationships have not been independently geocoded.",
+      "The September 2024 / September 2026 Penang Hot Print descriptions suggest a temporal match, but uninterrupted operation, legal identity, ownership, and continuous occupancy are not established.",
+      "The reported ratings and review counts have not been independently retrieved or normalized by observation date.",
+      "The exact UNESCO World Heritage property and buffer-zone status of each described building or POI has not been checked against official boundary maps.",
+      "The legal identity, licensing, and operating status of TOTO Penang Wang Chun Trading Sdn Bhd and other listed entities require official records.",
+      "Kong Jee Trading's exact financial service, the identity of “People's,” the category of KKSB, and the business type of Jonlink Enterprise and Benfont Enterprise remain unresolved.",
+      "No review text was examined to explain Klinik Pakar Kanak-kanak Loo's reported 1.9-star score.",
+      "Claims of premium corridor, electronics hub, automotive corridor, gentrification, night-time economy, living heritage, and a complete urban miniature remain hypotheses or editorial descriptions, not established findings.",
+      "User-provided summaries state varying approximate Penang POI totals; a normalized unique-POI count is not available.",
+      "Cross-country totals and review rankings have not been re-audited using a consistent sampling frame."
+    ],
+    "method_note": "Treat this as a working dossier based on user-supplied written descriptions, not independent inspection of screenshot pixels or a field survey. Keep listing names, visible signs, physical facades, coordinates, legal entities, and operating businesses as separate evidence types. Record timestamps without inferring uninterrupted business continuity. Treat ratings and review counts as interface observations only. Do not infer customer demographics, quality, legal licensing, economic clusters, gentrification, or UNESCO boundary membership from signs, categories, proximity, or review counts. No BEO/GSV master-table row is added because normalized coordinates and feature-level records were not supplied.",
+    "sources": []
+  },
+  {
     "id": "2026-11-16-dari-camera-obscura-ke-fotografi-modern",
     "title": "Dari Camera Obscura ke Fotografi Modern",
     "published": "2026-11-16",
