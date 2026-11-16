@@ -1,5 +1,11 @@
 ## 2026-11-16
 
+### Urban observation · Malaysia · George Town · Penang · Google Maps / Street View · BLOON
+
+- [BLOON Street Observation — George Town, Penang: Lebuh Melaka, Jalan Anson, and Jalan Siam](research/2026-11-16-bloon-street-observation-george-town-penang-lebuh-melaka-jalan-anson.md)  
+  Working research dossier consolidating user-described Maps / Street View observations from September 2024 and September 2026 around Lebuh Melaka, Jalan Anson, and Jalan Siam. Records the reported Penang Hot Print temporal pair; BHB and Kitchentech appliance-retail observations; food, professional-service, health, automotive, retail, lottery, KTV, trophy-shop, and other POI leads; and reported visual adjacencies. Preserves ratings and review counts as user-reported interface values, not measures of quality or economic importance. Corrects the earlier tentative “DAURA = salon” guess to the later user identification “Aura Design.” The George Town / Penang location is the working identification from the described street names and Anson Road Market lead; exact POI coordinates and UNESCO boundary membership were not independently checked. No definitive POI total, premium corridor, electronics hub, gentrification, or cross-country economic comparison is asserted. No BEO/GSV row is added because normalized coordinates were not supplied. Status: working dossier; user-supplied descriptions, not independent image or field verification.
+
+
 ### Human interest · Germany · Urban mobility · Alternative transportation · Swimming
 
 - [Benjamin David: Pria Jerman yang Berenang ke Kantor demi Menghindari Kemacetan](investigations/2026-11-16-benjamin-david-swim-commute-munich-isar-river.md)  
