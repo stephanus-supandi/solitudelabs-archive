@@ -1133,5 +1133,48 @@
       "https://www.in.gov/ifa/brownfields/files/9.8.26-MP.pdf",
       "https://www.preserveindiana.com/pixpages/endanger/danger1.html"
     ]
+  },
+  {
+    "id": "2026-11-16-bad-debt-hospital-hancock-county-georgia",
+    "title": "Bad Debt Hospital: Ketika Rumah Sakit Mati, Lalu Internet Menambahkan Horor",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "published; historical identity and timeline partially verified; visual substances and Shorts footage-to-building match unresolved",
+    "category": [
+      "BLOON Investigation",
+      "Urban Exploration",
+      "Abandoned Places",
+      "American History",
+      "Rural Healthcare",
+      "Hospital History",
+      "Medical History",
+      "Forensic Science",
+      "Digital Media Literacy",
+      "Critical Thinking"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently verified and are not asserted as platform assignments.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/bad-debt-hospital-ketika-rumah-sakit-mati-lalu-internet-menambahkan-horor/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/bad-debt-hospital-ketika-rumah-sakit.html",
+    "archive_record": "investigations/2026-11-16-bad-debt-hospital-hancock-county-georgia.md",
+    "summary": "Examines the facility popularly called Bad Debt Hospital, identified by reviewed historical sources as Hancock County Hospital / Hancock Memorial Hospital in Sparta, Georgia. Records the reported 1968 construction, 1974 closure, 1985 reopening, and permanent 2001 closure, alongside the reported early-1990s debt of approximately US$1 million. Audits the Forrest Urbex Shorts reference using the author's seven screenshot descriptions: the red HELP writing, red stains, and brown-red material remain unidentified. The article shifts attention from horror framing to the social consequences of losing rural hospital access.",
+    "open_questions": [
+      "The supplied WordPress and Blogger publication URLs are recorded; live page content and exact platform categories/labels were not independently re-retrieved during this archive operation.",
+      "The historical identity of the Bad Debt Hospital strongly points to Hancock County Hospital / Hancock Memorial Hospital in Sparta, Georgia, but the Shorts footage has not been independently matched frame-by-frame to the building.",
+      "The seven screenshot descriptions are author-supplied observations; the original video was not independently inspected frame-by-frame in this archive operation.",
+      "The red stains' composition and the identity of the brown-red material are unknown; neither can be identified as blood, fake blood, tissue, specimens, formalin, or decaying material from the screenshots.",
+      "The author, date, and meaning of the HELP graffiti are unknown; no evidence links it to a victim or a crime.",
+      "The reported approximately US$1 million debt is a retrospective figure, not a primary audited financial statement.",
+      "Claims about US$10 million in missing or misused tax funds were not independently verified and are excluded from established facts.",
+      "Reported figures for people affected by the closure and travel time to alternative hospitals vary by source and context; they should not be collapsed into a single universal distance or time."
+    ],
+    "method_note": "Separate the historical identity and timeline of the hospital from the visual content and interpretation of the urbex video. Treat the nickname Bad Debt Hospital as a popular label, not the facility's official name. Sources reviewed identify construction in 1968; do not repeat 1967 as established. Do not call the red material blood or fake blood, do not identify the brown-red material as specimens/formalin/tissue, and do not attribute HELP to a victim. Creator captions such as horrifying and rotting away are narrative framing, not forensic findings. No BEO or GSV row is added: the Shorts and interior screenshots do not provide verified geospatial observations or coordinates. Links to Palace Theatre or other SolitudeLabs articles are editorial analogies, not causal or geographic evidence.",
+    "sources": [
+      "https://www.beckershospitalreview.com/capital/10-eerie-photos-of-georgia-s-bad-debt-hospital-abandoned-for-15-years/",
+      "https://abandonedsoutheast.com/2016/04/21/bad-debt-hospital/",
+      "https://www.ajc.com/accessatl/2022/10/7-of-the-spookiest-abandoned-places-in-georgia/",
+      "https://www.wrdw.com/2026/09/01/federal-funding-arrives-hospital-closures-continue-across-georgia/",
+      "https://www.gpb.org/",
+      "https://youtube.com/shorts/LHIuEJEsmNE"
+    ]
   }
 ]
