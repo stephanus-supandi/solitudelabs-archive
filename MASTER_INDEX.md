@@ -1,5 +1,11 @@
 ## 2026-11-16
 
+### American history · Rural healthcare · Hospital history · Urban exploration · Forensic/media literacy
+
+- [Bad Debt Hospital: Ketika Rumah Sakit Mati, Lalu Internet Menambahkan Horor](investigations/2026-11-16-bad-debt-hospital-hancock-county-georgia.md)  
+  Published article and verification dossier on the facility popularly called Bad Debt Hospital, identified by the reviewed historical sources as Hancock County Hospital / Hancock Memorial Hospital in Sparta, Georgia. Records the reported 1968 construction, 1974 closure, 1985 reopening, and permanent 2001 closure, while treating the approximately US$1 million debt figure as a retrospective report rather than a primary financial audit. Audits the Forrest Urbex Shorts reference using the author's seven screenshot descriptions: the red “HELP” writing, red stains, and brown-red material remain unidentified; no evidence establishes human blood, fake blood, anatomical specimens, formalin, decay, or a victim's message. The historical identity is strongly supported, but frame-by-frame matching of the Shorts footage to the hospital has not been independently verified. The author supplied WordPress and Blogger publication URLs; live platform categories/labels are not asserted. No BEO or GSV row is added because the video does not provide verified geospatial observations. Status: published; historical record partially checked; visual substances and footage-to-building match unresolved.
+
+
 ### American history · Architecture and theatre history · Industrial and urban history · Historic preservation · Cinema and popular culture
 
 - [Palace Theatre Gary: Kemegahan Bioskop 1925 yang Menjadi Reruntuhan — Kisah Kota Industri, Michael Jackson, dan Upaya Kebangkitan](investigations/2026-11-16-palace-theatre-gary-industrial-city-architecture-and-redevelopment.md)  
