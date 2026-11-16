@@ -1365,5 +1365,44 @@
       "https://www.apm.org.uk/media/33076/research-summary-akt12270-florence-duomo-project-v2-lr.pdf",
       "https://www.museoleonardiano.it/en/opera/argano-a-tre-velocita/"
     ]
+  },
+  {
+    "id": "2026-11-16-pemmican-makanan-survival-indigenous-amerika-utara",
+    "title": "Pemmican — Makanan Survival Indigenous Amerika Utara: Daging, Lemak, dan Teknologi Bertahan Hidup",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "publication URLs supplied by author; live WordPress and Blogger page retrieval failed during archive update; archive text reflects the editorial draft in conversation",
+    "category": [
+      "Food History",
+      "Indigenous North America",
+      "First Nations",
+      "Métis History",
+      "Pemmican",
+      "Food Preservation",
+      "Survival Food",
+      "Fur Trade",
+      "History of Technology"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/pemmican-makanan-survival-indigenous-amerika-utara-daging-lemak-dan-teknologi-bertahan-hidup/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/pemmican-makanan-survival-indigenous.html",
+    "archive_record": "investigations/2026-11-16-pemmican-makanan-survival-indigenous-amerika-utara.md",
+    "summary": "Explains pemmican as a traditional North American Indigenous food made primarily from dried meat and rendered animal fat, sometimes with dried berries. Covers the uncertain origins and regional variation, preparation process, energy density, storage and food-safety caveats, Métis participation in the fur trade, and use in long-distance travel and expeditions. Does not attribute invention to one named Indigenous nation or promise a universal shelf life.",
+    "open_questions": [
+      "The exact origins of pemmican and the earliest development of the tradition remain uncertain; the article does not identify a single inventor or nation.",
+      "Both publication URLs were supplied by the author; direct retrieval of WordPress and Blogger pages failed during this archive update.",
+      "Exact live WordPress Categories and Blogger labels are not verified; archive categories are editorial classifications only.",
+      "Historical recipes and ingredients varied across communities; bison is important in many Plains contexts but is not the only possible meat source.",
+      "Shelf life cannot be generalized: moisture, drying method, fat quality, hygiene, packaging, temperature, humidity, and contamination all matter.",
+      "The cited energy estimate is for particular pemmican formulations and is not a universal nutritional value."
+    ],
+    "method_note": "Distinguish Indigenous food traditions from later commercial and expedition uses. Do not assign pemmican's invention to a single named nation; academic review literature describes origins as uncertain. Treat historical recipes as variable, not a standardized formula. Do not claim that pemmican is automatically safe for multi-year storage. Any modern preparation requires validated food-safety practices. No BLOON GSV/BEO row is added because the article contains no new local geospatial observation.",
+    "sources": [
+      "https://doi.org/10.1016/j.meatsci.2021.108526",
+      "https://www.nps.gov/articles/subsistence.htm",
+      "https://www.cambridge.org/core/journals/journal-of-economic-history/article/country-they-built-dynamic-and-complex-indigenous-economies-in-north-america-before-1492/6ABF7309E68FD58643597652A2EF7A03",
+      "https://academic.oup.com/edited-volume/43506/chapter/364132774",
+      "https://firstnationsfoods.org/index.php?title=Chapter_15.1"
+    ]
   }
 ]
