@@ -1,5 +1,12 @@
 ## 2026-11-16
 
+### Human interest · Germany · Urban mobility · Alternative transportation · Swimming
+
+- [Benjamin David: Pria Jerman yang Berenang ke Kantor demi Menghindari Kemacetan](investigations/2026-11-16-benjamin-david-swim-commute-munich-isar-river.md)  
+  Published article and verification dossier on Benjamin David's reported summer swim commute along Munich's Isar River, documented in his first-person 2017 Guardian account and contemporaneous Reuters, Washington Post, and BILD coverage. Records the approximately two-kilometre route, the Wickelfisch waterproof bag, and reported journey times while distinguishing the 12-minute fastest time from a more usual 27-minute trip. Treats river conditions, seasonal limits, and David's personal estimate of suitable swimming days as historical, attributed statements—not current safety data or a recommendation to imitate the commute. WordPress and Blogger pages were retrieved and checked for title/body correspondence; exact live platform categories/labels are not asserted. No BEO/GSV row is added because this is a human-interest story without verified local geospatial observations. Status: published; historical account supported by contemporaneous reporting; continuation of the practice after 2017 not established.
+
+## 2026-11-16
+
 ### American history · Rural healthcare · Hospital history · Urban exploration · Forensic/media literacy
 
 - [Bad Debt Hospital: Ketika Rumah Sakit Mati, Lalu Internet Menambahkan Horor](investigations/2026-11-16-bad-debt-hospital-hancock-county-georgia.md)  
