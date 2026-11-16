@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026-11-17-white-city-1893-raksasa-misterius-ai-hoax",
+    "title": "The White City 1893 dan Raksasa Misterius: Ketika Sejarah Asli Dicampur Imajinasi Digital",
+    "published": "2026-11-17",
+    "type": "published article",
+    "status": "publication URLs supplied by author; exact live page contents and platform labels not independently retrieved during archive update; article text preserved from conversation; video provenance and AI-generation claim unverified",
+    "category": [
+      "History & Media Literacy",
+      "Chicago",
+      "World's Columbian Exposition",
+      "1893",
+      "The White City",
+      "AI Imagery",
+      "Digital Manipulation",
+      "Giant Conspiracy",
+      "Architecture",
+      "Urban Planning"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/17/the-white-city-1893-dan-raksasa-misterius-ketika-sejarah-asli-dicampur-imajinasi-digital/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/the-white-city-1893-dan-raksasa.html",
+    "archive_record": "investigations/2026-11-17-white-city-1893-raksasa-misterius-ai-hoax.md",
+    "summary": "Examines a viral short-video claim that a giant figure appeared at Chicago's 1893 World's Columbian Exposition. Confirms the exposition and its White City identity, reviews the surviving photographic-archive context, and explains why the specific giant claim is unsupported. Discusses possible AI imagery or digital manipulation without asserting a technique absent original media and forensic analysis. Includes the fair's architecture, City Beautiful influence, and colonial framing of some Midway Plaisance displays.",
+    "open_questions": [
+      "The original short-video media file, earliest upload, metadata, and creator attribution were not obtained; the specific production technique remains unknown.",
+      "The giant figure depicted in the viral video has not been matched to a contemporaneous photograph, official exposition catalogue, newspaper report, or other credible historical record.",
+      "Live WordPress and Blogger article contents and exact platform categories/labels were not independently retrieved during this archive update.",
+      "Some archive reference URLs and collection descriptions should be checked against the institutions' current catalog records before a future scholarly revision."
+    ],
+    "method_note": "Separate the documented World's Columbian Exposition from the unsupported giant-figure claim. Do not describe the viral video as definitively AI-generated or digitally manipulated without the original media and technical examination. A lack of located evidence is not proof that no unusual performer or attraction existed anywhere at the fair; it means this specific claim has not been substantiated. Archive categories are editorial classifications, not verified live platform labels. No BLOON GSV/BEO record is added because this is a historical/media-literacy article without new local geospatial observations.",
+    "sources": [
+      "https://www.aaa.si.edu/collections/surveys/chicago/chicago-history-museum/views-worlds-columbian-exposition",
+      "https://www.chipublib.org/fa-worlds-columbian-exposition-snapshots-collection/",
+      "https://www.loc.gov/item/2005688746/",
+      "https://www.aaa.si.edu/collections/surveys/chicago/ryerson-and-burnham-libraries-art-institute-chicago/worlds-columbian-1",
+      "https://wallach.columbia.edu/exhibitions/picturing-white-city-architectural-photography-worlds-columbian-exposition-1893",
+      "https://smarthistory.org/worlds-columbian-exposition-intro/",
+      "https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.EXPO1893"
+    ]
+  },
+  {
     "id": "2026-11-17-edith-and-barry-martin-friendship-ballard-construction",
     "title": "Edith dan Barry: Persahabatan Aneh di Tengah Proyek Konstruksi",
     "published": "2026-11-17",
