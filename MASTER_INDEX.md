@@ -1,3 +1,8 @@
+### Food history · Indigenous North America · Métis history · Food preservation · Survival food · Fur trade
+
+- [Pemmican — Makanan Survival Indigenous Amerika Utara: Daging, Lemak, dan Teknologi Bertahan Hidup](investigations/2026-11-16-pemmican-makanan-survival-indigenous-amerika-utara.md)  
+  Published article on pemmican as a traditional North American Indigenous food made primarily from dried meat and rendered fat, sometimes with dried berries. Covers variable regional traditions, the unresolved question of exact origins, preparation principles, energy density, preservation caveats, Métis participation in the fur trade, and later use in long-distance travel and expeditions. Avoids assigning invention to one specific nation and does not promise multi-year shelf life. Publication URLs were supplied by the author; direct retrieval of both live pages failed during this archive update. Exact WordPress Categories and Blogger labels remain unverified. No BEO/GSV row is added because this is a food-history article without new local geospatial observations.
+
 ## 2026-11-16
 
 ### Architecture · Architectural engineering · Civil engineering · Structural engineering · Construction history · Italian Renaissance
