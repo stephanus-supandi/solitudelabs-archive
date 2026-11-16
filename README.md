@@ -25,3 +25,7 @@ The November 6, 2026 records document neighborhood-level urban observation in Ta
 ## Method
 
 See [METHODOLOGY.md](METHODOLOGY.md).
+
+## Recent archive additions
+
+- 2026-11-17 — [Robert Zünd: Ketika Hutan Menjadi Laboratorium Cahaya](investigations/2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya.md): art-history record on the Swiss landscape painter, oak-forest paintings, naturalistic observation, and light.
