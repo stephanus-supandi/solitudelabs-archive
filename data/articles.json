@@ -1071,5 +1071,51 @@
       "Bayerischer Rundfunk — 21. Juni 1931: Schienenzeppelin fährt Weltrekord",
       "Der Spiegel — Tückische Technik bei der Bahn: Die Lok, die dät et nimmie!"
     ]
+  },
+  {
+    "id": "2026-11-16-palace-theatre-gary-industrial-city-architecture-and-redevelopment",
+    "title": "Palace Theatre Gary: Kemegahan Bioskop 1925 yang Menjadi Reruntuhan — Kisah Kota Industri, Michael Jackson, dan Upaya Kebangkitan",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "published; historical record partially checked; current demolition date/scope and live platform categories unresolved",
+    "category": [
+      "BLOON Investigation",
+      "American History",
+      "Architecture and Theatre History",
+      "Industrial and Urban History",
+      "Cinema and Popular Culture",
+      "Historic Preservation",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories were not exposed in the retrieved public page; Blogger page retrieval failed. These are not asserted as confirmed live platform category assignments.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/palace-theatre-gary-kemegahan-bioskop-1925-yang-menjadi-reruntuhan-kisah-kota-industri-michael-jackson-dan-upaya-kebangkitan/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/palace-theatre-gary-kemegahan-bioskop.html",
+    "archive_record": "investigations/2026-11-16-palace-theatre-gary-industrial-city-architecture-and-redevelopment.md",
+    "summary": "Published article on Palace Theatre in Gary, Indiana: its 1925 opening, John Eberson's atmospheric design, vaudeville and film programming, decline alongside Gary's steel-dependent economy, January 1972 closure, later Star Palace Theatre and Star Academy uses, a failed 1987 rehabilitation attempt, the Jackson Five marquee, the symbolic connection to Michael Jackson's Thriller, and a proposed $85 million mixed-use redevelopment. Separates the filmed Los Angeles scene in Thriller from the Gary theatre and distinguishes proposed selective auditorium demolition from preservation of the historic street wall.",
+    "open_questions": [
+      "Exact live WordPress Categories and Blogger labels were not exposed by the available page retrieval.",
+      "The user's claim that demolition began on 24 October 2026 was not independently verified.",
+      "The City of Gary's current Palace redevelopment FAQ still describes selective demolition and façade/street-wall preservation as the project plan; the city's 13 October 2026 multi-site demolition notice does not list Palace Theatre.",
+      "A third-party theatre-history page labels the Palace demolished but does not provide a dated demolition record in the retrieved result; the actual date and scope require current site-specific evidence.",
+      "The opening capacity varies across sources (approximately 2,458, 2,500, or nearly 3,000); keep figures approximate.",
+      "The reported approximately $13,000 sale price and the 1994 National Register reference need transaction and district-nomination-level confirmation.",
+      "The 1968 Aldrid Black killing and January 1972 assault are reported incidents; do not present either as the sole proven cause of closure.",
+      "Sources differ between 2001 and 2002 for the Miss USA-related Jackson Five marquee installation.",
+      "The 2009 Jackson Five Forever signs are reported by retrospective secondary sources and need dated photographic corroboration if used as a central claim."
+    ],
+    "method_note": "Separate municipal records, historic-register documentation, contemporary reporting, specialist theatre histories, retrospective secondary accounts, user-supplied leads, and editorial analogies. The Thriller theatre scene was filmed in Los Angeles; the City of Gary describes it as a subtle homage to its Palace Theatre. The redevelopment plan calls for selective demolition of the deteriorated movie-house/auditorium section and preservation/adaptive reuse of the historic street wall; do not claim the entire complex was demolished without dated evidence. Nominal US$1 million construction cost and reported US$13,000 later sale price are not directly comparable in real purchasing power and do not by themselves measure the city's economy. Thematic links to Camera Obscura, painters, Schienenzeppelin, and BLOON GSV are editorial metaphors, not geographic or causal findings. No GSV observation row is added.",
+    "sources": [
+      "https://www.gary.gov/palacetheater",
+      "https://www.gary.gov/news-updates/city-of-gary-accelerates-downtown-development-with-multi-site-demolition-plan",
+      "https://www.historictheatrephotos.com/Atmospheric/Palace-Gary.aspx",
+      "https://abandonedatlas.com/palace-theater/",
+      "https://abandonedonline.net/location/palace-theater/",
+      "https://sometimesinteresting.wordpress.com/2013/06/19/the-palace-theater-of-gary-indiana/",
+      "https://www.urbancoroner.com/palace-theater",
+      "https://cinematreasures.org/theaters/3136",
+      "https://gary.capitalbnews.org/palace-theater-redevelopment/",
+      "https://www.in.gov/ifa/brownfields/files/9.8.26-MP.pdf",
+      "https://www.preserveindiana.com/pixpages/endanger/danger1.html"
+    ]
   }
 ]
