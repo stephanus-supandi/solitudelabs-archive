@@ -1,3 +1,10 @@
+## 2026-11-17
+
+### Art history · Swiss art · Landscape painting · Naturalism · 19th-century art
+
+- [Robert Zünd: Ketika Hutan Menjadi Laboratorium Cahaya](investigations/2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya.md)  
+  Published article on Robert Zünd (1827–1909), the Swiss landscape painter from Lucerne. Discusses his close observation of forests, vegetation, light, and atmospheric effects; the 1859 *Eichwald* in Kunstmuseum Luzern; the later *Eichenwald* version dated around 1881–1882 in Kunsthaus Zürich; and the distinction between naturalistic representation and literal photographic reproduction. The article also references *Storm-Ridden Landscape* (1854) and Zünd's studies from nature. Publication URLs were supplied by the author; live WordPress/Blogger contents and exact platform categories/labels were not independently retrieved. The initiating YouTube Shorts was not frame-verified, so no specific video artwork is claimed as conclusively identified. No BLOON GSV/BEO row is added because this is an art-history article without new local geospatial observations.
+
 ### Travel & geography · Indonesia · Magelang · Kaliangkrik · Rural tourism · Mountain settlements
 
 - [Nepal Van Java — Kampung Bertingkat di Lereng Gunung Sumbing: Dari Dusun Pertanian Menjadi Destinasi Wisata](investigations/2026-11-16-nepal-van-java-dusun-butuh-magelang.md)  
