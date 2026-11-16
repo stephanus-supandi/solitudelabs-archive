@@ -1,5 +1,10 @@
 ## 2026-11-17
 
+### Urban history · Seattle · Ballard · Property holdout · Urban development · Preservation
+
+- [Edith Macefield House: Ketika Sebuah Rumah Kecil Menolak Mengalah kepada Gedung Lima Lantai](investigations/2026-11-17-edith-macefield-house-seattle-property-holdout.md)  
+  Published article on Edith Macefield's house at 1438 NW 46th Street, Ballard, Seattle. Covers the circa-1900 house, Macefield's refusal of developer offers in 2006 (reported as US$750,000 and later US$1 million), construction of Ballard Blocks around the property, her friendship with project superintendent Barry Martin, the 2009 sale, 2015 foreclosure and failed relocation effort, and Regency Centers' later ownership and 2024 restoration/lease proposal. Separates the documented 2009 balloon promotion for Pixar's *Up* from the unsupported claim that the house directly inspired the film. WordPress and Blogger URLs were supplied by the author; live page retrieval returned cache-miss errors during this archive update, so exact platform categories/labels and the complete live page text were not independently verified. The 2024 restoration status is recorded as a proposal, not as completed work. No BLOON GSV/BEO row is added because no new normalized geospatial observations or field verification were supplied.
+
 ### Art history · Swiss art · Landscape painting · Naturalism · 19th-century art
 
 - [Robert Zünd: Ketika Hutan Menjadi Laboratorium Cahaya](investigations/2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya.md)  
