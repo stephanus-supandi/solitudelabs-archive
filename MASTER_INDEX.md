@@ -1,5 +1,10 @@
 ## 2026-11-16
 
+### American history · Architecture and theatre history · Industrial and urban history · Historic preservation · Cinema and popular culture
+
+- [Palace Theatre Gary: Kemegahan Bioskop 1925 yang Menjadi Reruntuhan — Kisah Kota Industri, Michael Jackson, dan Upaya Kebangkitan](investigations/2026-11-16-palace-theatre-gary-industrial-city-architecture-and-redevelopment.md)  
+  Published article and verification dossier on Gary's Palace Theatre: its 1925 opening, John Eberson's atmospheric design, vaudeville and film programming, the January 1972 closure, later Star Palace and Star Academy uses, the failed 1987 rehabilitation attempt, the Jackson Five marquee, the symbolic *Thriller* reference, and the proposed BWI redevelopment. The WordPress article text was retrieved; the Blogger URL was supplied by the author but not independently retrieved. The exact live WordPress Categories and Blogger labels were not exposed. Archive categories are editorial classifications only. The user-supplied claim that demolition began on 24 October 2026 remains unverified; the City of Gary's current redevelopment FAQ describes selective demolition of the auditorium/movie-house portion and intended preservation of the historic street wall, while its 13 October 2026 multi-site demolition announcement does not name Palace Theatre. No BLOON GSV row or geospatial inference is added. Status: published; historical record partially checked; current demolition date/scope and live platform categories unresolved.
+
 ### Art history · French painting · Paris urban history — archive topics only; live platform categories not supplied
 
 - [Luigi Loir: Pelukis yang Mengabadikan Kehidupan Paris Sebelum Kota Itu Berubah Lagi](investigations/2026-11-16-luigi-loir-pelukis-paris.md)  
