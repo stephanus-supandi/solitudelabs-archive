@@ -1293,5 +1293,39 @@
       "https://www.gov.uk/government/news/foreign-office-minister-condemns-russia-for-notpetya-attacks",
       "https://www.gov.uk/government/news/uk-exposes-russian-cyber-attacks"
     ]
+  },
+  {
+    "id": "2026-11-16-bloon-street-observation-sukabumi-west-java",
+    "title": "BLOON Street Observation — Sukabumi, West Java",
+    "published": "2026-11-16",
+    "type": "working research dossier",
+    "status": "user-described observations consolidated; geospatial identity, business continuity, and wider economic interpretations remain unverified",
+    "category": [
+      "BLOON Research",
+      "Urban Observation",
+      "Indonesia",
+      "Sukabumi",
+      "Google Maps",
+      "Google Street View",
+      "Local Business",
+      "Digital Footprints",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only; not live Google Maps or publishing-platform categories.",
+    "archive_record": "research/2026-11-16-bloon-street-observation-sukabumi-west-java.md",
+    "summary": "Consolidates user-described Sukabumi POIs across several streets and screenshot batches, including CuciWangi (reported 5.0★ / 2,818 reviews), food and coffee listings, retail and service businesses, a reported veterinary practice, a December 2018/May 2026 dental-premises comparison lead, and the PMC WAGNER GROUP listing anomaly near Warung Acong. Records duplicates separately and preserves rating/count discrepancies.",
+    "open_questions": [
+      "Normalized coordinates and listing-to-premises matches are not available; no BEO/GSV row is added.",
+      "CuciWangi's rating, review count, category, and hours are user-reported interface values, not independently verified current data.",
+      "The Ahli Gigi Subur Dental 2018/2026 images have not been independently matched to the same premises, operator, or continuous business.",
+      "The 3Store rating is reported as both 4.6★ and 4.8★; the discrepancy remains unresolved.",
+      "The spelling and exact street/address form Cipelaang/Cipelang Leutik remains unresolved.",
+      "PMC WAGNER GROUP's name/category/location is an unverified listing anomaly; no link to the Russian Wagner organization is established.",
+      "POI totals, road boundaries, coffee/culinary corridors, and city-wide economic characterizations remain provisional pending deduplication and consistent spatial sampling."
+    ],
+    "method_note": "Treat all ratings, review counts, categories, hours, signs, and dates as user-described screenshot snapshots. Separate listing metadata from physical signage, nearby businesses from shared tenancy, repeated listings from unique POIs, and name similarity from organizational identity. Do not infer visitor volume, revenue, business quality, legal identity, continuity, or a Russian military connection. No coordinates or verified point-to-listing matches were supplied.",
+    "sources": [
+      "User-described Google Maps / Street View screenshots and observations in the conversation; not independently re-inspected during this archive update."
+    ]
   }
 ]
