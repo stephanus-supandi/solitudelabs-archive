@@ -1,5 +1,43 @@
 [
   {
+    "id": "2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya",
+    "title": "Robert Zünd: Ketika Hutan Menjadi Laboratorium Cahaya",
+    "published": "2026-11-17",
+    "type": "published article",
+    "status": "publication URLs supplied by author; live WordPress/Blogger page contents and exact platform categories/labels not independently retrieved during this archive update; artwork and biographical source trail recorded",
+    "category": [
+      "Art History",
+      "Swiss Art",
+      "Swiss Painting",
+      "Landscape Painting",
+      "Naturalism",
+      "19th-Century Art",
+      "Robert Zünd",
+      "Forest Painting",
+      "History of Art"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/17/robert-zund-ketika-hutan-menjadi-laboratorium-cahaya/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/robert-zund-ketika-hutan-menjadi.html",
+    "archive_record": "investigations/2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya.md",
+    "summary": "Introduces Robert Zünd (1827–1909), Swiss landscape painter from Lucerne, through his close observation of forests, vegetation, natural light, and rural landscapes. Discusses the 1859 Eichwald in Kunstmuseum Luzern, the later Eichenwald version dated around 1881–1882 in Kunsthaus Zürich, naturalistic detail versus photographic reproduction, studies from nature, and the atmospheric Storm-Ridden Landscape (1854).",
+    "open_questions": [
+      "Both publication URLs and the publication date were supplied by the author; live WordPress/Blogger contents and exact platform categories/labels were not independently retrieved during this archive update.",
+      "The YouTube Shorts initiating the article was not independently inspected frame by frame; no specific artwork in the video is claimed to have been conclusively identified.",
+      "Exact visual and provenance comparisons among the different Eichwald/Eichenwald versions should follow the relevant museum catalogue records; the article does not claim mechanically identical copies.",
+      "Naturalistic detail and idealized landscape composition do not make a painting a photographic, cadastral, or exact-time record of one location."
+    ],
+    "method_note": "Use Robert Zünd (also rendered Robert Zund when umlauts are unavailable). Distinguish Eichwald (1859) from the later Eichenwald (1881–1882) version. Separate biographical facts and collection metadata from visual interpretation. Do not call the paintings photographs or infer the exact video artwork without direct frame verification. Archive categories are editorial classifications, not verified live platform labels. No BLOON GSV/BEO record is added because this is an art-history article without new local geospatial observations.",
+    "sources": [
+      "https://www.getty.edu/vow/ULANFullDisplay?find=500019020&nation=&page=1&role=&subjectid=500003371",
+      "https://www.kunstmuseumluzern.ch/sammlung/sammlungskatalog-online/?werke-detail=2053",
+      "https://www.kunstmuseumluzern.ch/en/exhibitions/robert-zuend-1826-1909/",
+      "https://www.kunsthaus.ch/",
+      "https://www.fondationcustodia.fr/127-Robert-Zund-1408",
+      "https://www.christies.com/en/lot/lot-robert-zund-lucerne-1827-1909-6537078/"
+    ]
+  },
+  {
     "id": "2026-11-16-bloon-street-observation-george-town-penang-lebuh-melaka-jalan-anson",
     "title": "BLOON Street Observation — George Town, Penang: Lebuh Melaka, Jalan Anson, and Jalan Siam",
     "published": "2026-11-16",
