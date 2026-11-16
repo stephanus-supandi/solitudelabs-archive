@@ -1176,5 +1176,41 @@
       "https://www.gpb.org/",
       "https://youtube.com/shorts/LHIuEJEsmNE"
     ]
+  },
+  {
+    "id": "2026-11-16-benjamin-david-swim-commute-munich-isar-river",
+    "title": "Benjamin David: Pria Jerman yang Berenang ke Kantor demi Menghindari Kemacetan",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "published; WordPress and Blogger pages retrieved and checked; historical reporting dated 2017; current continuation not established",
+    "category": [
+      "BLOON Investigation",
+      "Human Interest",
+      "True Story",
+      "Germany",
+      "Munich",
+      "Isar River",
+      "Urban Mobility",
+      "Alternative Transportation",
+      "Swimming"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels are not asserted as verified platform assignments.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/benjamin-david-pria-jerman-yang-berenang-ke-kantor-demi-menghindari-kemacetan/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/benjamin-david-pria-jerman-yang.html",
+    "archive_record": "investigations/2026-11-16-benjamin-david-swim-commute-munich-isar-river.md",
+    "summary": "Published article on Benjamin David's reported summer swim commute along Munich's Isar River, documented in his first-person 2017 Guardian account and contemporaneous Reuters, Washington Post, and BILD coverage. Covers the approximately two-kilometre route, his use of a Wickelfisch waterproof bag, reported journey times, and the river-safety and seasonal limits described in the historical reports. Does not claim that he continues the commute in 2026 or recommend that readers imitate it.",
+    "open_questions": [
+      "The available reporting documents the commute in 2017; whether Benjamin David continues the practice in 2026 is not established.",
+      "The approximately 95 percent suitability figure is David's personal estimate as reported in 2017, not an official safety statistic or current river assessment.",
+      "Reported journey times vary; 12 minutes was described as a fastest time, while around 27 minutes was a more usual trip in his first-person account.",
+      "Exact live WordPress Categories and Blogger labels are not asserted as verified platform assignments."
+    ],
+    "method_note": "Attribute the account to Benjamin David's first-person 2017 Guardian article and contemporaneous reporting. Preserve seasonal and river-condition caveats. Do not describe the Wickelfisch bag as certified life-saving equipment. Do not imply a year-round daily commute, a scalable replacement for public transport, or a current safety assessment of the Isar. No BLOON GSV/BEO row is added because no local geospatial observation or coordinate is established.",
+    "sources": [
+      "https://www.theguardian.com/lifeandstyle/2017/sep/29/experience-i-swim-to-work",
+      "https://www.yahoo.com/news/sick-congested-roads-german-man-swims-144552599.html",
+      "https://www.washingtonpost.com/news/early-lead/wp/2017/08/05/munich-man-swim-commutes-to-work-in-isar-river-to-avoid-bad-traffic/",
+      "https://www.bild.de/regional/muenchen/muenchen/muenchens-schwimmender-pendler-52299776.bild.html"
+    ]
   }
 ]
