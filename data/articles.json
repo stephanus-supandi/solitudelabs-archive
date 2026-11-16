@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-11-17-edith-macefield-house-seattle-property-holdout",
+    "title": "Edith Macefield House: Ketika Sebuah Rumah Kecil Menolak Mengalah kepada Gedung Lima Lantai",
+    "published": "2026-11-17",
+    "type": "published article",
+    "status": "publication URLs supplied by author; live WordPress/Blogger pages returned cache-miss errors during this archive update; historical claims cross-checked against cited sources; exact platform categories/labels not independently verified",
+    "category": [
+      "Urban History",
+      "Urban Planning",
+      "Seattle",
+      "Ballard",
+      "Property Holdout",
+      "Real Estate",
+      "Architecture",
+      "Urban Development",
+      "Historic Preservation",
+      "Edith Macefield"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/17/edith-macefield-house-ketika-sebuah-rumah-kecil-menolak-mengalah-kepada-gedung-lima-lantai/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/edith-macefield-house-ketika-sebuah.html",
+    "archive_record": "investigations/2026-11-17-edith-macefield-house-seattle-property-holdout.md",
+    "summary": "Documents the circa-1900 Edith Macefield house at 1438 NW 46th Street in Ballard, Seattle; Macefield's refusal of developer offers in 2006; construction of Ballard Blocks around the property; her friendship with superintendent Barry Martin; the 2009 sale and subsequent foreclosure; the failed Orcas Island relocation effort; Regency Centers' later ownership and 2024 restoration/lease proposal; and the distinction between the 2009 Up promotional balloon display and a direct film-inspiration claim.",
+    "open_questions": [
+      "Live WordPress and Blogger page contents could not be retrieved during this archive update; exact platform categories/labels and final live text remain unverified.",
+      "The May 2024 restoration and commercial-leasing plan was reported as an early proposal; whether it was completed afterward requires newer local or owner documentation.",
+      "The exact current physical condition and operating use of the house after the latest independently inspected status report require fresh evidence.",
+      "Square-footage figures differ among published reports and may reflect different measurement conventions or later reconstruction.",
+      "A precise engineering account of the Ballard Blocks interface with the retained property would require approved plans, permits, and construction records; photographs alone are insufficient.",
+      "The house's association with Pixar's Up is a popular cultural comparison and a documented 2009 promotional tie-in, not proof of direct inspiration."
+    ],
+    "method_note": "Separate property ownership, building condition, development rights, and preservation proposals. Do not infer structural safety, code compliance, or project redesign from photographs. The article treats the property as an urban-history and property-holdout case, not a structural assessment. Keep the documented 2009 balloon promotion separate from claims that Edith Macefield's house directly inspired Pixar's Up. Archive categories are editorial classifications, not verified live platform labels. No BLOON GSV/BEO record is added because no new normalized geospatial observations or field verification were supplied.",
+    "sources": [
+      "https://www.historylink.org/file/11092",
+      "https://portal.djc.com/news/re/12163794.html",
+      "https://www.seattlepi.com/realestate/article/Edith-Macefield-house-set-for-foreclosure-auction-6059520.php",
+      "https://www.westsideseattle.com/ballard-news-tribune/2015/02/04/edith-macefield-house-set-foreclosure-auction",
+      "https://www.kiro7.com/news/whats-next-edith-macefields-house/27070464/",
+      "https://www.theguardian.com/film/2015/jul/09/up-house-seattle-pixar-edith-macefield",
+      "https://www.theguardian.com/film/2015/aug/26/movie-based-on-the-real-up-house-floating-to-the-big-screen"
+    ]
+  },
+  {
     "id": "2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya",
     "title": "Robert Zünd: Ketika Hutan Menjadi Laboratorium Cahaya",
     "published": "2026-11-17",
