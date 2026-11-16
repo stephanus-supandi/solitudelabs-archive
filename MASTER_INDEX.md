@@ -5,6 +5,11 @@
 - [Luigi Loir: Pelukis yang Mengabadikan Kehidupan Paris Sebelum Kota Itu Berubah Lagi](investigations/2026-11-16-luigi-loir-pelukis-paris.md)  
   Published article on Luigi Loir (1845–1916), the French painter known for depictions of Parisian urban life. Covers his birth in Göritz/Gorizia, then part of the Austrian Empire, his move through Parma to Paris, selected paintings of streets and public spaces, and the context of nineteenth-century urban transformation. Treats paintings as artistic visual sources rather than precise photographic or cadastral records, and compares historical city painting with modern Street View/BLOON observation as a methodological analogy. Publication URLs were supplied by the author; live WordPress/Blogger content and exact platform categories were not independently checked. Status: publication metadata recorded; platform metadata pending author confirmation.
 
+### Photography history · History of science · Optics · Chemistry · Technology history
+
+- [Dari Camera Obscura ke Fotografi Modern](investigations/2026-11-16-dari-camera-obscura-ke-fotografi-modern.md)  
+  Published article tracing the distinction between camera obscura projection and permanent photographic recording, Niépce's heliography and *View from the Window at Le Gras*, Daguerre's 1839 daguerreotype announcement, Talbot's negative-positive calotype, and later developments in photographic materials and digital imaging. Preserves the distinction between a unique daguerreotype plate and reproducible negative-positive photography. Publication URLs were supplied by the author; live WordPress/Blogger content and exact platform categories were not independently checked. Status: publication metadata recorded; platform verification pending.
+
 ### Railway history · History of technology · Transportation · Aerodynamics · German history
 
 - [Schienenzeppelin: Kereta Api Berbaling-baling Karya Franz Kruckenberg](investigations/2026-11-16-schienenzeppelin-kereta-api-berbaling-baling-franz-kruckenberg.md)  
