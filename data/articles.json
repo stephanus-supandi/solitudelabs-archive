@@ -5,8 +5,16 @@
     "published": "2026-11-16",
     "type": "published article",
     "status": "publication reported by author; WordPress and Blogger URLs supplied; live pages not independently retrieved during this archive update",
-    "category": [],
-    "category_note": "Exact live WordPress Categories and Blogger labels were not supplied or independently verified. No platform category assignments are inferred; populate only after author confirmation.",
+    "category": [
+      "BLOON Investigation",
+      "History of Photography",
+      "Optics",
+      "Chemistry",
+      "History of Science",
+      "Technology History",
+      "Visual Culture"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not supplied or independently verified; these are not asserted as platform assignments.",
     "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/dari-camera-obscura-ke-fotografi-modern/",
     "blogger": "https://solitudelabs.blogspot.com/2026/11/dari-camera-obscura-ke-fotografi-modern.html",
     "archive_record": "investigations/2026-11-16-dari-camera-obscura-ke-fotografi-modern.md",
@@ -35,8 +43,15 @@
     "published": "2026-11-16",
     "type": "published article",
     "status": "published; publication URLs supplied by author; live WordPress and Blogger pages not independently retrieved during this archive update",
-    "category": [],
-    "category_note": "Exact live WordPress Categories and Blogger labels were not supplied or independently verified. No platform category assignments are inferred; populate only after author confirmation.",
+    "category": [
+      "BLOON Investigation",
+      "Art History",
+      "French Painting",
+      "Paris Urban History",
+      "Belle Époque",
+      "Urban Visual Culture"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not supplied or independently verified; these are not asserted as platform assignments.",
     "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/luigi-loir-pelukis-yang-mengabadikan-kehidupan-paris-sebelum-kota-itu-berubah-lagi/",
     "blogger": "https://solitudelabs.blogspot.com/2026/11/luigi-loir-pelukis-yang-mengabadikan.html",
     "archive_record": "investigations/2026-11-16-luigi-loir-pelukis-paris.md",
@@ -961,7 +976,8 @@
       "https://www.iris.unict.it/handle/20.500.11769/649829",
       "https://doi.org/10.1017/S0022046911000844",
       "https://doi.org/10.5209/geri.96292"
-    ]
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently verified; these are not asserted as platform assignments."
   },
   {
     "id": "2026-11-15-y2k-ketika-dunia-takut-komputer-tahun-2000",
