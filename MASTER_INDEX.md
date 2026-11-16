@@ -1,5 +1,11 @@
 ## 2026-11-17
 
+### Urban history · Seattle · Ballard · Construction · Friendship · Local history
+
+- [Edith dan Barry: Persahabatan Aneh di Tengah Proyek Konstruksi](investigations/2026-11-17-edith-and-barry-martin-friendship-ballard-construction.md)  
+  Published article on Edith Macefield and Barry Martin, the Ledcor Construction project superintendent who became her friend while overseeing Ballard Blocks in Seattle. Covers their first contact through the construction project, Barry's reported practical assistance, Edith's 2008 death and bequest of the house and its contents, and Barry's 2009 sale of the property. Separates Barry's professional role from his personal relationship with Edith; does not portray him as the developer or as the person who stopped the project. Personal anecdotes are attributed to interviews, memoir, and local-history reporting. Author supplied WordPress and Blogger URLs; live-page retrieval returned cache-miss errors during this archive update, so exact published text and platform labels were not independently verified.
+
+
 ### Urban history · Seattle · Ballard · Property holdout · Urban development · Preservation
 
 - [Edith Macefield House: Ketika Sebuah Rumah Kecil Menolak Mengalah kepada Gedung Lima Lantai](investigations/2026-11-17-edith-macefield-house-seattle-property-holdout.md)  
