@@ -1327,5 +1327,43 @@
     "sources": [
       "User-described Google Maps / Street View screenshots and observations in the conversation; not independently re-inspected during this archive update."
     ]
+  },
+  {
+    "id": "2026-11-16-brunelleschi-dome-florence",
+    "title": "Brunelleschi dan Kubah Florence: Ketika Engineering Mengalahkan Batas Teknologi Abad ke-15",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "publication URLs supplied by author; live page retrieval returned cache miss during archive update; historical and technical source trail recorded; structural discussion conceptual",
+    "category": [
+      "Architecture",
+      "Architectural Engineering",
+      "Civil Engineering",
+      "Structural Engineering",
+      "Construction Engineering",
+      "Construction History",
+      "Italian Renaissance",
+      "Florence",
+      "Filippo Brunelleschi",
+      "Project Management"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/brunelleschi-dan-kubah-florence-ketika-engineering-mengalahkan-batas-teknologi-abad-ke-15/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/brunelleschi-dan-kubah-florence-ketika.html",
+    "archive_record": "investigations/2026-11-16-brunelleschi-dome-florence.md",
+    "summary": "Explains Brunelleschi's 1420–1436 construction of the Florence Cathedral dome through its octagonal masonry form, double-shell arrangement, herringbone brickwork, staged construction without full-span wooden centering, lifting machinery, structural thrust, and project organization. Distinguishes the dome's completion from the later lantern and gilded ball, and labels the modern structural discussion as conceptual rather than a numerical assessment.",
+    "open_questions": [
+      "Both publication URLs were supplied by the author; live WordPress and Blogger page contents could not be retrieved during this archive update.",
+      "Exact live WordPress Categories and Blogger labels remain unverified.",
+      "The article's structural discussion is conceptual and is not a numerical or forensic assessment of the dome.",
+      "The role of the herringbone bond should not be isolated from the dome's geometry, ribs, shell arrangement, ring elements, and staged construction method.",
+      "The absence of full-span wooden centering does not mean that no construction platforms or temporary works were used."
+    ],
+    "method_note": "Use the Opera di Santa Maria del Fiore's official documentation for the physical configuration and chronology. Distinguish dome completion in 1436 from the lantern's completion in 1461 and the gilded ball's placement in 1471. Do not say 'no scaffolding'; say no full-span wooden centering. Do not attribute stability to herringbone brickwork alone. Treat modern structural and project-management explanations as conceptual readings, not verified calculations or contemporary terminology.",
+    "sources": [
+      "https://duomo.firenze.it/en/40/dome",
+      "https://duomo.firenze.it/en/opera-magazine/post/6296/the-construction-site-of-brunelleschi-s-dome-men-and-machines",
+      "https://www.apm.org.uk/media/33076/research-summary-akt12270-florence-duomo-project-v2-lr.pdf",
+      "https://www.museoleonardiano.it/en/opera/argano-a-tre-velocita/"
+    ]
   }
 ]
