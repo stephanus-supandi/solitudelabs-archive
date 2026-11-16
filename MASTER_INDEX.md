@@ -1,5 +1,10 @@
 ## 2026-11-17
 
+### History & media literacy · Chicago · World's Columbian Exposition · 1893 · AI imagery claims
+
+- [The White City 1893 dan Raksasa Misterius: Ketika Sejarah Asli Dicampur Imajinasi Digital](investigations/2026-11-17-white-city-1893-raksasa-misterius-ai-hoax.md)  
+  Published article examining a viral short-video claim that a giant figure appeared at Chicago's World's Columbian Exposition of 1893. Confirms the exposition and its “White City” identity while distinguishing those documented facts from the unsupported giant-figure claim. Explains the surviving photographic-archive context, the fair's architecture and colonial-era Midway displays, and possible modern visual-manipulation methods. Does not assert that the video was AI-generated: the original media, metadata, provenance, and forensic analysis were unavailable. Author supplied WordPress and Blogger URLs; exact live page contents and platform labels were not independently retrieved during this archive update.
+
 ### Urban history · Seattle · Ballard · Construction · Friendship · Local history
 
 - [Edith dan Barry: Persahabatan Aneh di Tengah Proyek Konstruksi](investigations/2026-11-17-edith-and-barry-martin-friendship-ballard-construction.md)  
