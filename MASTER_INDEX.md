@@ -1,5 +1,10 @@
 ## 2026-11-16
 
+### Urban observation · Indonesia · Sukabumi · Google Maps / Street View · BLOON
+
+- [BLOON Street Observation — Sukabumi, West Java](research/2026-11-16-bloon-street-observation-sukabumi-west-java.md)  
+  Working research dossier consolidating user-described Sukabumi POIs and interface snapshots across Jl. R. E. Martadinata, Suryakencana, Dewi Sartika, Syamsudin SH, Cipelaang/Cipelang Leutik, and nearby areas. Records CuciWangi (reported 5.0★ / 2,818 reviews), local food and coffee listings, retail and service businesses, a reported veterinary practice, December 2018 and May 2026 visual leads, and the PMC WAGNER GROUP listing anomaly near Warung Acong. Treats all ratings, counts, categories, hours, signs, and dates as user-reported snapshots rather than verified current facts. Explicitly does not connect the PMC WAGNER GROUP listing to the Russian Wagner organization; the Ahli Gigi Subur Dental temporal comparison, POI totals, street corridors, and city-wide economic interpretations remain unverified. Duplicate observations are not counted as new POIs. No BEO/GSV row is added because normalized coordinates and listing-to-premises matches are absent. Status: working dossier; user-described observations only; not independent image, business-record, or field verification.
+
 ### Cybersecurity · Cyber warfare · Ransomware · Russian influence operations · Geopolitics
 
 - [WannaCry, Prigozhin, dan Wagner: Ketika Perang Tidak Lagi Hanya Menggunakan Senjata](investigations/2026-11-16-wannacry-prigozhin-wagner-cyberwarfare.md)  
