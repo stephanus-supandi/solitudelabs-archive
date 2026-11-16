@@ -1,3 +1,10 @@
+### Travel & geography · Indonesia · Magelang · Kaliangkrik · Rural tourism · Mountain settlements
+
+- [Nepal Van Java — Kampung Bertingkat di Lereng Gunung Sumbing: Dari Dusun Pertanian Menjadi Destinasi Wisata](investigations/2026-11-16-nepal-van-java-dusun-butuh-magelang.md)  
+  Published article on Dusun Butuh, Desa Temanggung, Kaliangkrik, Kabupaten Magelang, and its transformation from a highland agricultural settlement into a tourism destination. Covers the layered settlement on the slope of Mount Sumbing, agricultural livelihoods, the reported 2019 aerial-photo exposure and 2020 adoption of the “Nepal Van Java” label, local ojek/jeep and homestay activity, and tourism-management challenges. Distinguishes Desa Temanggung in Magelang from Kabupaten Temanggung. Prior user-described map POIs are preserved as exploratory leads, not verified current businesses or field observations. Publication URLs were supplied by the author; live page contents and exact platform categories/labels were not independently retrieved. No BLOON GSV/BEO row is added because no new normalized coordinates or field verification were supplied.
+
+## 2026-11-16
+
 ### Food history · Indigenous North America · Métis history · Food preservation · Survival food · Fur trade
 
 - [Pemmican — Makanan Survival Indigenous Amerika Utara: Daging, Lemak, dan Teknologi Bertahan Hidup](investigations/2026-11-16-pemmican-makanan-survival-indigenous-amerika-utara.md)  
