@@ -1,5 +1,12 @@
 ## 2026-11-16
 
+### Architecture · Architectural engineering · Civil engineering · Structural engineering · Construction history · Italian Renaissance
+
+- [Brunelleschi dan Kubah Florence: Ketika Engineering Mengalahkan Batas Teknologi Abad ke-15](investigations/2026-11-16-brunelleschi-dome-florence.md)  
+  Published article examining Filippo Brunelleschi's 1420–1436 dome for Santa Maria del Fiore through its octagonal masonry form, double-shell construction, herringbone brickwork, staged construction without full-span wooden centering, lifting machinery, structural thrust, and project organization. Distinguishes the dome's completion from the later lantern (1461) and gilded ball (1471). The modern structural discussion is conceptual, not a numerical assessment; “without full centering” does not mean “without scaffolding.” Publication URLs were supplied by the author, but live WordPress/Blogger pages returned cache-miss errors during this archive update. Exact live platform categories/labels remain unverified. No BEO/GSV row is added because this is a historical engineering article without new local geospatial observations.
+
+## 2026-11-16
+
 ### Urban observation · Indonesia · Sukabumi · Google Maps / Street View · BLOON
 
 - [BLOON Street Observation — Sukabumi, West Java](research/2026-11-16-bloon-street-observation-sukabumi-west-java.md)  
