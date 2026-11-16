@@ -1248,5 +1248,48 @@
       "https://www.washingtonpost.com/news/early-lead/wp/2017/08/05/munich-man-swim-commutes-to-work-in-isar-river-to-avoid-bad-traffic/",
       "https://www.bild.de/regional/muenchen/muenchen/muenchens-schwimmender-pendler-52299776.bild.html"
     ]
+  },
+  {
+    "id": "2026-11-16-wannacry-prigozhin-wagner-cyberwarfare",
+    "title": "WannaCry, Prigozhin, dan Wagner: Ketika Perang Tidak Lagi Hanya Menggunakan Senjata",
+    "published": "2026-11-16",
+    "type": "published article",
+    "status": "published; core distinctions documented; no credible operational link between WannaCry and Prigozhin/Wagner established; live publication pages not independently retrieved during archive update",
+    "category": [
+      "BLOON Investigation",
+      "Cybersecurity",
+      "Cyber Warfare",
+      "Ransomware",
+      "WannaCry",
+      "Lazarus Group",
+      "Internet Research Agency",
+      "Yevgeny Prigozhin",
+      "Wagner Group",
+      "NotPetya",
+      "GRU",
+      "Geopolitics"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently checked during this archive operation.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/16/wannacry-prigozhin-dan-wagner-ketika-perang-tidak-lagi-hanya-menggunakan-senjata/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/wannacry-prigozhin-dan-wagner-ketika.html",
+    "archive_record": "investigations/2026-11-16-wannacry-prigozhin-wagner-cyberwarfare.md",
+    "summary": "Compares three distinct elements of modern conflict: WannaCry, publicly attributed by the UK and US governments to North Korean actors associated with Lazarus Group; Prigozhin's documented funding relationship with the Internet Research Agency and its online influence operations; and NotPetya, publicly attributed by the UK government to Russia/GRU. The article explicitly rejects an unsupported operational connection between WannaCry and Prigozhin, Wagner, or IRA.",
+    "open_questions": [
+      "The public WannaCry attribution relies on government and technical assessments; the full classified intelligence basis is not publicly available.",
+      "The legal record concerning IRA and Prigozhin does not establish a relationship with Lazarus Group or WannaCry.",
+      "The dossier does not independently audit every technical claim in the published article or provide a complete history of GRU cyber operations.",
+      "Exact live WordPress Categories and Blogger labels were not independently checked during this archive update.",
+      "Publication URLs were supplied by the author; live WordPress and Blogger page contents were not retrieved during this archive operation."
+    ],
+    "method_note": "Keep WannaCry, IRA, NotPetya, GRU, and Wagner distinct. Official public attribution and legal records support different claims about different actors; shared geopolitical context or thematic comparison does not prove a common organization, shared command, or operational coordination. A direct link would require technical infrastructure overlap, communications, financial transfers, shared personnel, tasking documents, or reliable investigative findings. No BEO/GSV row is added because this is a cyber-conflict history article without verified local geospatial observations.",
+    "sources": [
+      "https://www.gov.uk/government/news/foreign-office-minister-condemns-north-korean-actor-for-wannacry-attacks",
+      "https://questions-statements.parliament.uk/written-questions/detail/2017-12-20/HL4339",
+      "https://trumpwhitehouse.archives.gov/briefings-statements/press-briefing-on-the-attribution-of-the-wannacry-malware-attack-to-north-korea-121917/",
+      "https://blogs.microsoft.com/on-the-issues/2017/12/19/microsoft-facebook-disrupt-zinc-malware-attack-protect-customers-internet-ongoing-cyberthreats/",
+      "https://www.justice.gov/archives/opa/pr/grand-jury-indicts-thirteen-russian-individuals-and-three-russian-companies-scheme-interfere",
+      "https://www.gov.uk/government/news/foreign-office-minister-condemns-russia-for-notpetya-attacks",
+      "https://www.gov.uk/government/news/uk-exposes-russian-cyber-attacks"
+    ]
   }
 ]
