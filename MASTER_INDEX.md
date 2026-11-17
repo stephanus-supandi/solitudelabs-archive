@@ -1,5 +1,10 @@
 ## 2026-11-17
 
+### Travel & built heritage · Thailand · Koh Chang · Adaptive reuse · Ship hotel
+
+- [The Galaxy: Dari Rencana Hotel Terapung di Kamboja Menjadi Kapal Hantu di Koh Chang](investigations/2026-11-17-the-galaxy-koh-chang-floating-hotel-ghost-ship.md)  
+  Investigates The Galaxy ship hotel at Koh Chang Grand Lagoona, its association with Thai investor Oran Asawaritthikul, reported earlier US/Thai Navy service, the Phnom Penh floating-hotel plan, conflicting room counts (70 versus about 200), abandonment, 3 December 2024 fire, and 2025 dismantling. Explicitly records that seller, purchase location/date, hull identity, and primary transfer documents remain unverified. Author supplied WordPress and Blogger URLs; live page contents and exact platform labels were not independently retrieved during this archive update.
+
 ### History & technology · Sound recording · Scott de Martinville · Edison · Phonautograph
 
 - [Sebelum Edison: Scott de Martinville dan Suara Manusia yang Tertidur Selama 148 Tahun](investigations/2026-11-17-before-edison-scott-de-martinville-sound-recording.md)  
