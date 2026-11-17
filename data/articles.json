@@ -1599,5 +1599,77 @@
       "https://bob.kemenpar.go.id/96611-6-tips-ketika-berkunjung-ke-nepal-van-java/",
       "https://doi.org/10.35313/jtospolban.v1i1.4"
     ]
+  },
+  {
+    "id": "2026-11-17-bloon-street-observation-makassar-cendrawasih-opu-daeng-risadju",
+    "title": "BLOON Street Observation — Makassar: Cendrawasih, Opu Daeng Risadju, and the Baji-* Streets",
+    "published": "2026-11-17",
+    "type": "working research dossier",
+    "status": "working dossier; based on user-described screenshot observations across batches 1–20; not independently image-, listing-, coordinate-, or field-verified",
+    "category": [
+      "BLOON Research",
+      "Urban Observation",
+      "Indonesia",
+      "Makassar",
+      "Cendrawasih",
+      "Opu Daeng Risadju",
+      "Google Maps",
+      "Google Street View",
+      "POI Metadata",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only; this is a research dossier, not a published article.",
+    "archive_record": "research/2026-11-17-bloon-street-observation-makassar-cendrawasih-opu-daeng-risadju.md",
+    "summary": "Consolidates user-described Makassar screenshot observations from the Cendrawasih / Opu Daeng Risadju / Andi Mappaodang area and reported Baji-* street-name leads. Records physical-sign text, business and institution listing leads, repeated selected-POI/background patterns, category mismatches, spelling discrepancies, unfamiliar glyphs, and status-bar/header observations. Keeps city/street context separate from exact camera coordinates and does not infer continuous routes, current business status, ownership, or Google rendering mechanisms.",
+    "open_questions": [
+      "Official addresses and coordinates for the reported Pegadaian, BRI, BCA, Panin, Puskesmas, and PDAM listings remain unverified.",
+      "The exact spatial relationships among Opu Daeng Risadju, Cendrawasih, Andi Mappaodang, and the reported Baji-* streets require independent map or official-address checking.",
+      "The relationship between the PDAM listing and visible KOPI PENG signage is unresolved.",
+      "Repeated POI names have not been deduplicated into legal entities or verified business premises.",
+      "The meanings of green, purple, red-H, coffee-cup, and star glyphs have not been established.",
+      "Static or changing status-bar values do not establish freeze, import, stitching, or capture-session mechanics.",
+      "No exact camera coordinates or normalized BEO/GSV records were supplied."
+    ],
+    "method_note": "User-described screenshot observations only; no independent screenshot-pixel inspection, live business-listing retrieval, official-register check, field survey, or coordinate extraction was performed for this update. Keep physical signs, map labels, POI panels, status-bar elements, and camera positions as separate evidence classes. Do not infer continuous route, business continuity, shared tenancy, ownership, service quality, or camera position from repeated labels or apparent visual co-presence. No BEO/GSV coordinate row is added.",
+    "sources": [
+      "User-described Google Maps / Street View screenshot observations in the conversation; not independently re-inspected during this archive update."
+    ]
+  },
+  {
+    "id": "2026-11-17-bloon-street-observation-indonesia-container-ports-multimedia",
+    "title": "BLOON Street Observation — Indonesian Container Ports Across Map, Street View, and User-Contributed Imagery",
+    "published": "2026-11-17",
+    "type": "working research dossier",
+    "status": "working dossier; based on user-described screenshot observations in batches 21–22; original images, metadata, coordinates, and port identities not independently verified",
+    "category": [
+      "BLOON Research",
+      "Urban Observation",
+      "Indonesia",
+      "Maritime Infrastructure",
+      "Container Ports",
+      "Makassar New Port",
+      "Tenau Kupang",
+      "Bitung",
+      "Pontianak",
+      "Google Maps",
+      "Street View",
+      "User-Contributed Imagery"
+    ],
+    "category_note": "Archive/editorial classifications only; this is a research dossier, not a published article.",
+    "archive_record": "research/2026-11-17-bloon-street-observation-indonesia-container-ports-multimedia.md",
+    "summary": "Records a cross-medium investigation involving Street View imagery, 2D vector-map Places results, and a user-contributed port photograph. Preserves leads for Makassar New Port, Tenau/Kupang, Bitung, Pontianak/Siantan Hilir, and an unidentified IPC terminal photograph with a partially readable container-vessel name and SITC-marked containers. Distinguishes visible objects and panel attribution from exact photographer position, capture date, terminal identity, and verified coordinates.",
+    "open_questions": [
+      "Exact map pins and official facility identities for Makassar New Port, Tenau, and Bitung remain unresolved.",
+      "The IPC terminal and city depicted in the user-contributed photograph are not identified.",
+      "The partial vessel-name string ST…MANIE is insufficient for vessel identification.",
+      "The meaning of the displayed Feb 2024 date (capture, upload, or contribution date) is unknown.",
+      "The displayed contributor attribution does not establish who physically took the photograph.",
+      "The Pontianak address fragment is truncated and the selected place has not been independently matched.",
+      "No normalized coordinates or field-verified BEO/GSV records were supplied."
+    ],
+    "method_note": "User-described screenshot observations only; no original-image inspection, EXIF extraction, vessel-register lookup, official port-plan comparison, or field verification was performed for this update. Treat search strings, vector-map pins, panorama imagery, contributor attribution, physical vessel markings, and official port records as separate evidence classes. Do not guess the vessel name or IPC terminal, or infer exact camera position from the ship, crane, or quay alone. No BEO/GSV coordinate row is added.",
+    "sources": [
+      "User-described Google Maps / Street View / user-contributed photograph observations in the conversation; original media not independently inspected during this archive update."
+    ]
   }
 ]
