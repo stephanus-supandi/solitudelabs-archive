@@ -28,4 +28,4 @@ See [METHODOLOGY.md](METHODOLOGY.md).
 
 ## Recent archive additions
 
-- 2026-11-17 — [Robert Zünd: Ketika Hutan Menjadi Laboratorium Cahaya](investigations/2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya.md): art-history record on the Swiss landscape painter, oak-forest paintings, naturalistic observation, and light.
+- 2026-11-18 — [Tiga Pengetahuan Kuno yang Diuji Ilmuwan Modern](investigations/2026-11-18-tiga-pengetahuan-kuno-diuji-ilmuwan-modern.md): archive record comparing ancient Egyptian pregnancy testing, the Bald's Leechbook antimicrobial recipe, and the historical clue behind artemisinin.\n- 2026-11-17 — [Robert Zünd: Ketika Hutan Menjadi Laboratorium Cahaya](investigations/2026-11-17-robert-zund-ketika-hutan-menjadi-laboratorium-cahaya.md): art-history record on the Swiss landscape painter, oak-forest paintings, naturalistic observation, and light.
