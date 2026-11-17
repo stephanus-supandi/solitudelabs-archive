@@ -1,5 +1,56 @@
 [
   {
+    "id": "2026-11-17-windover-areni-masada-ancient-preservation",
+    "title": "8.000 Tahun, 5.500 Tahun, dan 2.000 Tahun: Otak Manusia, Sepatu Kulit, dan Biji Kurma yang Menolak Hilang",
+    "published": "2026-11-17",
+    "type": "published article",
+    "status": "WordPress article retrieved and reviewed during archive update; Blogger URL supplied by author but direct retrieval was blocked; archive text transcribed from the retrieved WordPress publication",
+    "category": [
+      "Archaeology",
+      "Ancient History",
+      "Windover Florida",
+      "Windover Archaeological Site",
+      "Areni-1 Cave",
+      "Armenia",
+      "Ancient Footwear",
+      "Masada",
+      "Judean Date Palm",
+      "Methuselah Date Palm",
+      "Ancient DNA",
+      "Human Brain Tissue",
+      "Radiocarbon Dating",
+      "Material Preservation",
+      "SolitudeLabs",
+      "BLOON Investigation"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/17/8-000-tahun-5-500-tahun-dan-2-000-tahun-otak-manusia-sepatu-kulit-dan-biji-kurma-yang-menolak-hilang/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/8000-tahun-5500-tahun-dan-2000-tahun.html",
+    "archive_record": "investigations/2026-11-17-windover-areni-masada-ancient-preservation.md",
+    "summary": "Compares three archaeological discoveries: the Windover pond cemetery in Florida with 168 individuals and preserved brain tissue; the 5,400–5,600-year-old Areni-1 leather shoe from Armenia; and the approximately 2,000-year-old Masada date seed that germinated as Methuselah. Explains distinct preservation mechanisms, corrects claims about preserved thoughts, airtight shoe storage, rapid palm growth, and extinction of the date-palm species, and adds an engineering/material-science perspective.",
+    "open_questions": [
+      "The Blogger URL was supplied by the author; direct retrieval was blocked by an automated Google access page during this archive update.",
+      "Exact live WordPress Categories and Blogger labels were not independently verified; archive categories are editorial classifications.",
+      "The site-level figure of 91 Windover individuals with preserved brain material should not be conflated with the 1986 Nature paper's specific examination of nine individuals, five with identifiable preserved or replaced brain tissue.",
+      "No evidence establishes that the Areni-1 shoe was stored in an airtight or vacuum-sealed chamber.",
+      "Methuselah germinated about eight weeks after planting; the reported height of roughly 10 feet was reached years later, not in six weeks.",
+      "Phoenix dactylifera remains extant; the lost element concerns ancient Judean date-palm populations or genetic lineages, not extinction of the species."
+    ],
+    "method_note": "Use the 1986 Nature paper for the examined Windover brain samples and distinguish that sample from site-wide documentation of 91 individuals. For Areni-1, follow the PLOS ONE radiocarbon range of 3627–3377 BCE and do not infer airtight storage from the plastered pit and inverted ceramic vessel. For Masada, distinguish seed germination in 2005 from later tree growth, and distinguish an ancient Judean genetic population from the still-living species Phoenix dactylifera. Treat preservation explanations as environment-specific rather than universal rules.",
+    "sources": [
+      "https://www.nature.com/articles/323803a0",
+      "https://apps.flheritage.com/markers/markerDetail.cfm?city=&county=&id=670&keyword=",
+      "https://www.thehistorycenter.org/windover/",
+      "https://archive.archaeology.org/1105/letter/windover_pond_florida_medicine.html",
+      "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0010984",
+      "https://ora.ox.ac.uk/objects/uuid:2fbfed35-ca01-4e3c-aa26-66edb57d2830",
+      "https://pubmed.ncbi.nlm.nih.gov/18556553/",
+      "https://pmc.ncbi.nlm.nih.gov/articles/PMC7002127/",
+      "https://www.nationalgeographic.com/science/article/2000-year-old-phoenix-seed-rises-from-the-ashes",
+      "https://www.nationalgeographic.com/science/article/150324-ancient-methuselah-date-palm-sprout-science"
+    ]
+  },
+  {
     "id": "2026-11-17-lego-concentration-camp-zbigniew-libera",
     "title": "LEGO. Concentration Camp: Ketika Mainan Anak Berubah Menjadi Miniatur Kamp Nazi — dan LEGO Disebut sebagai Sponsor!",
     "published": "2026-11-17",
