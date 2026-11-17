@@ -1,3 +1,10 @@
+## 2026-11-18
+
+### History of medicine · Ancient Egypt · Anglo-Saxon England · Ge Hong · Artemisinin · Tu Youyou · Malaria · Antimicrobial research
+
+- [Tiga Pengetahuan Kuno yang Diuji Ilmuwan Modern: Dari Tes Kehamilan Mesir Kuno, Ramuan Antibiotik Inggris Abad Pertengahan, hingga Artemisinin dari Tiongkok](investigations/2026-11-18-tiga-pengetahuan-kuno-diuji-ilmuwan-modern.md)  
+  Published article comparing the Egyptian urine-and-seed pregnancy test (including the limited 1963 experiment), the 10th-century Bald's Leechbook eyesalve and 2015 antimicrobial tests against *Staphylococcus aureus*/MRSA, and Ge Hong's Qinghao instructions as a clue in Tu Youyou's work leading to artemisinin. Separates laboratory and animal-model results from clinical proof; clarifies that the Egyptian experiment did not establish modern diagnostic accuracy or reliable fetal-sex prediction; and warns against homemade eye remedies and Artemisia annua tea as malaria treatment. WordPress publication retrieved and reviewed; Blogger URL supplied by the author but direct retrieval was blocked. Exact platform labels remain unverified.
+
 ## 2026-11-17
 
 ### Archaeology · Ancient history · Florida · Armenia · Israel · Ancient biology · Material preservation
