@@ -1,5 +1,49 @@
 [
   {
+    "id": "2026-11-17-the-galaxy-koh-chang-floating-hotel-ghost-ship",
+    "title": "The Galaxy: Dari Rencana Hotel Terapung di Kamboja Menjadi Kapal Hantu di Koh Chang",
+    "published": "2026-11-17",
+    "type": "published article",
+    "status": "author supplied publication URLs; live page contents and exact platform labels not independently retrieved during archive update",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/17/the-galaxy-dari-rencana-hotel-terapung-di-kamboja-menjadi-kapal-hantu-di-koh-chang/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/the-galaxy-dari-rencana-hotel-terapung.html",
+    "archive_record": "investigations/2026-11-17-the-galaxy-koh-chang-floating-hotel-ghost-ship.md",
+    "category": [
+      "Thailand",
+      "Koh Chang",
+      "The Galaxy",
+      "Oran Asawaritthikul",
+      "Koh Chang Grand Lagoona",
+      "Ghost Ship",
+      "Floating Hotel",
+      "Adaptive Reuse",
+      "Maritime History"
+    ],
+    "category_note": "Editorial archive classifications, not independently verified live platform labels.",
+    "summary": "Investigates The Galaxy ship hotel at Koh Chang Grand Lagoona, its association with Thai investor Oran Asawaritthikul, reported military-vessel history and Phnom Penh floating-hotel plan, conflicting room counts, abandonment, December 2024 fire, and 2025 dismantling.",
+    "verification": {
+      "investor": "Oran Asawaritthikul is associated with the resort/project by multiple reports; exact legal ownership chain is not established here.",
+      "vessel_origin": "Local source reports former Thai Navy landing ship with earlier US Navy history; no primary naval hull or decommissioning records found.",
+      "seller_and_purchase": "Seller, place/date of transaction, purchase price, and direct-versus-intermediary transfer remain unverified.",
+      "cambodia_plan": "Phnom Penh floating-hotel plan reported by local source; underlying permits or project documents not found.",
+      "room_count": "Sources conflict: 70 in older local description versus approximately 200 in Thai media and later feature reporting.",
+      "fire": "Fire reported 3 December 2024; contemporaneous report says cause was undetermined.",
+      "dismantling": "Local source reports upper structure dismantled and sold for scrap by mid-2025."
+    },
+    "sources": [
+      "https://mgronline.com/local/detail/9670000116392",
+      "https://www.nationthailand.com/news/general/40043829",
+      "https://iamkohchang.com/photos/various/galaxy-koh-chang-ghost-ship.html",
+      "https://www.nationthailand.com/thailand/tourism/40029264",
+      "https://www.admiddleeast.com/story/the-galaxy-a-ghost-ship-hotel-abandoned-in-thailand",
+      "https://www.airasia.com/blog/thailand/trat/ghost-ship-koh-chang/",
+      "https://sopa.lightrocketmedia.com/en/gallery/83321/iconic-ghost-ship-hotel-in-koh-chang-thailand-19-a",
+      "https://www.detik.com/properti/berita/d-8365352/nasib-tragis-hotel-terapung-ikon-wisata-yang-berakhir-jadi-rongsokan-berkarat",
+      "https://www.khaosod.co.th/around-thailand/news_9533061"
+    ],
+    "method_note": "Do not assert direct purchase from US Navy or Thai Navy without primary transfer documents. Preserve conflicting room counts with attribution. Treat the Phnom Penh plan and military past as reported claims pending primary documentation. Do not infer cause of fire."
+  },
+  {
     "id": "2026-11-17-before-edison-scott-de-martinville-sound-recording",
     "title": "Sebelum Edison: Scott de Martinville dan Suara Manusia yang Tertidur Selama 148 Tahun",
     "published": "2026-11-17",
