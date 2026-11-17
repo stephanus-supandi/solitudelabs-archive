@@ -1,5 +1,12 @@
 ## 2026-11-17
 
+### Art & culture · Poland · Zbigniew Libera · LEGO · Holocaust memory · Conceptual art
+
+- [LEGO. Concentration Camp: Ketika Mainan Anak Berubah Menjadi Miniatur Kamp Nazi — dan LEGO Disebut sebagai Sponsor!](investigations/2026-11-17-lego-concentration-camp-zbigniew-libera.md)  
+  Published article on Zbigniew Libera's 1996 installation _Lego. Concentration Camp_. Explains the seven artist-designed LEGO-style boxes, use of genuine LEGO bricks, documented material donation and sponsorship credit, LEGO's subsequent objection, the work's critique of consumer culture and Holocaust memory, and its acquisition by the Museum of Modern Art in Warsaw. Separates material support from official product endorsement. Publication URLs supplied by the author; live page contents and exact platform labels were not independently retrieved during this archive update.
+
+## 2026-11-17
+
 ### Art & culture · Italy · Naples · Contemporary art · Religious imagery · Gaza · Photojournalism
 
 - [Holy Mothers of Gaza: Ketika Lapisan Bunda Maria Dibuka, Muncul Kisah Ibu-Ibu Palestina](investigations/2026-11-17-holy-mothers-of-gaza-eduardo-castaldo.md)  
