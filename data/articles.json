@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026-11-17-before-edison-scott-de-martinville-sound-recording",
+    "title": "Sebelum Edison: Scott de Martinville dan Suara Manusia yang Tertidur Selama 148 Tahun",
+    "published": "2026-11-17",
+    "type": "published article",
+    "status": "publication URLs supplied by author; exact live page contents and platform labels not independently retrieved during archive update; full article text preserved in archive",
+    "category": [
+      "History & Technology",
+      "Sound Recording",
+      "Édouard-Léon Scott de Martinville",
+      "Thomas Edison",
+      "Phonautograph",
+      "Phonograph",
+      "Au Clair de la Lune",
+      "First Sounds",
+      "Digital Restoration"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/17/sebelum-edison-scott-de-martinville-dan-suara-manusia-yang-tertidur-selama-148-tahun/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/sebelum-edison-scott-de-martinville-dan.html",
+    "archive_record": "investigations/2026-11-17-before-edison-scott-de-martinville-sound-recording.md",
+    "summary": "Explains Édouard-Léon Scott de Martinville's phonautograph (1857), which recorded sound as a visual trace but was not designed for playback, and Thomas Edison's phonograph (1877), which could record and reproduce sound. Covers Scott's 9 April 1860 Au Clair de la Lune phonautogram and the First Sounds digital reconstruction in 2008. Distinguishes the meanings of first sound recording and first playback-capable recorder.",
+    "open_questions": [
+      "Exact live WordPress and Blogger article contents and platform labels were not independently retrieved during this archive update.",
+      "The phrase 'oldest sound recording' remains qualified: the article refers to known surviving and reconstructed recordings, not proof that no older recording could exist.",
+      "The cited institutional pages and archival collection records should be rechecked if the article receives a scholarly revision."
+    ],
+    "method_note": "Keep the distinction between phonautograph visual trace recording and phonograph recording/playback. Attribute the 2008 digital reconstruction to First Sounds and relevant institutional sources. Do not overstate the 1860 recording as proof that no older recording exists. Archive classifications are editorial metadata, not verified live platform labels.",
+    "sources": [
+      "https://www.nps.gov/edis/learn/historyculture/origins-of-sound-recording.htm",
+      "https://home.nps.gov/edis/learn/historyculture/origins-of-sound-recording-edouard-leon-scott-de-martinville.htm",
+      "https://www.americanhistory.si.edu/documentsgallery/exhibitions/hear-my-voice/2.html",
+      "https://amhistory.si.edu/documentsgallery/exhibitions/hear-my-voice/4.html",
+      "https://www.firstsounds.org/press/032708/release_2008-0327.pdf",
+      "https://firstsounds.org/research/scott.php",
+      "https://www.loc.gov/static/managed-content/uploads/sites/6/2017/02/recorded_sound_timeline-2013.pdf",
+      "https://www.loc.gov/collections/edison-company-motion-pictures-and-sound-recordings/articles-and-essays/history-of-edison-sound-recordings/"
+    ]
+  },
+  {
     "id": "2026-11-17-white-city-1893-raksasa-misterius-ai-hoax",
     "title": "The White City 1893 dan Raksasa Misterius: Ketika Sejarah Asli Dicampur Imajinasi Digital",
     "published": "2026-11-17",
