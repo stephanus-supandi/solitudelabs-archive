@@ -1,5 +1,12 @@
 ## 2026-11-17
 
+### Archaeology · Ancient history · Florida · Armenia · Israel · Ancient biology · Material preservation
+
+- [8.000 Tahun, 5.500 Tahun, dan 2.000 Tahun: Otak Manusia, Sepatu Kulit, dan Biji Kurma yang Menolak Hilang](investigations/2026-11-17-windover-areni-masada-ancient-preservation.md)  
+  Published article comparing Windover's 8,000-year-old human remains and preserved brain tissue, the 5,400–5,600-year-old Areni-1 leather shoe, and the approximately 2,000-year-old Masada date seed that germinated as Methuselah. Distinguishes the site-wide Windover count from the specific Nature study sample; rejects unsupported claims of preserved thoughts and airtight shoe storage; separates seed germination from later palm growth; and clarifies that the date-palm species remains extant while ancient Judean genetic lineages are the subject of research. WordPress publication retrieved and reviewed; Blogger URL supplied by the author but direct retrieval was blocked. Exact platform labels remain unverified.
+
+## 2026-11-17
+
 ### Art & culture · Poland · Zbigniew Libera · LEGO · Holocaust memory · Conceptual art
 
 - [LEGO. Concentration Camp: Ketika Mainan Anak Berubah Menjadi Miniatur Kamp Nazi — dan LEGO Disebut sebagai Sponsor!](investigations/2026-11-17-lego-concentration-camp-zbigniew-libera.md)  
