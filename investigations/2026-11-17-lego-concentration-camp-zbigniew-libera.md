@@ -157,6 +157,11 @@ Bahkan sebuah kotak LEGO pun bisa menyimpan sejarah yang jauh lebih gelap daripa
 
 ---
 
+## Tautan publikasi
+
+- WordPress: https://solitudelabs.wordpress.com/2026/11/17/lego-concentration-camp-ketika-mainan-anak-berubah-menjadi-miniatur-kamp-nazi-dan-lego-disebut-sebagai-sponsor/
+- Blogger: https://solitudelabs.blogspot.com/2026/11/lego-concentration-camp-ketika-mainan.html
+
 **SolitudeLabs | BLOON Investigation**
 
 *Melihat benda biasa, memeriksa sejarahnya, dan tidak buru-buru percaya pada kemasannya.*
