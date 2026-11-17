@@ -1,5 +1,11 @@
 ## 2026-11-17
 
+### Urban observation · Indonesia · Pontianak · Jakarta Utara · Tanjung Priok · Multi-epoch and multi-medium mapping · BLOON
+
+- [BLOON Street Observation — Pontianak and Jakarta Utara Leads, Multi-Epoch Street View, and the Fourth Visual Medium](research/2026-11-17-bloon-street-observation-pontianak-jakarta-utara-multiepoch-multimedium.md)  
+  Working dossier for user-described batches 23–35. Records the strong but unverified Pontianak-context lead, partial bird-name street layer, political-signage and May 2024 street observations, a Jakarta Utara / Tanjung Priok port-district lead, same-intersection imagery across epochs, repeated one-building/multiple-POI cases, category mismatches, one unreadable/occluded scene, and a reported 3D/globe-style volumetric map view as a fourth visual medium. Keeps city context, physical signs, POI labels, UGC captions, imagery dates, map layers, and camera positions separate. No exact camera coordinates, continuous route, construction progress, listing identity, or rendering mechanism is asserted. Status: working dossier; user-described observations only; no independent image, listing, coordinate, or field verification.
+
+
 ### Urban observation · Indonesia · Makassar · Cendrawasih · Opu Daeng Risadju · Google Maps / Street View · BLOON
 
 - [BLOON Street Observation — Makassar: Cendrawasih, Opu Daeng Risadju, and the Baji-* Streets](research/2026-11-17-bloon-street-observation-makassar-cendrawasih-opu-daeng-risadju.md)  
