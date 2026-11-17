@@ -1,5 +1,10 @@
 ## 2026-11-17
 
+### History & technology · Sound recording · Scott de Martinville · Edison · Phonautograph
+
+- [Sebelum Edison: Scott de Martinville dan Suara Manusia yang Tertidur Selama 148 Tahun](investigations/2026-11-17-before-edison-scott-de-martinville-sound-recording.md)  
+  Published article distinguishing Scott de Martinville's phonautograph (visual trace recording, 1857) from Edison's phonograph (recording and playback, 1877). Covers the 9 April 1860 *Au Clair de la Lune* phonautogram and its digital reconstruction in 2008 by the First Sounds project. Includes a qualified “oldest recording” claim, a comparison table, verification notes, and institutional references. Author supplied WordPress and Blogger URLs; live page contents and exact platform labels were not independently retrieved during this archive update.
+
 ### Urban observation · Indonesia · Pontianak · Jakarta Utara · Tanjung Priok · Multi-epoch and multi-medium mapping · BLOON
 
 - [BLOON Street Observation — Pontianak and Jakarta Utara Leads, Multi-Epoch Street View, and the Fourth Visual Medium](research/2026-11-17-bloon-street-observation-pontianak-jakarta-utara-multiepoch-multimedium.md)  
