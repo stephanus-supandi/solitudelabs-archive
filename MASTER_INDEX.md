@@ -1,5 +1,10 @@
 ## 2026-11-17
 
+### Art & culture · Italy · Naples · Contemporary art · Religious imagery · Gaza · Photojournalism
+
+- [Holy Mothers of Gaza: Ketika Lapisan Bunda Maria Dibuka, Muncul Kisah Ibu-Ibu Palestina](investigations/2026-11-17-holy-mothers-of-gaza-eduardo-castaldo.md)  
+  Published article on Eduardo Castaldo's layered artwork project. Covers the No. 20 installation at Naples' Pappacoda Chapel, the Virgin-and-Child image over a documentary photograph by Omar El Qattaa, the wider street-shrine project, and its religious/humanitarian symbolism. Explicitly leaves the adhesive, materials, and exact production method unverified. Publication URLs supplied by the author; exact live page contents and platform labels were not independently retrieved.
+
 ### Travel & built heritage · Thailand · Koh Chang · Adaptive reuse · Ship hotel
 
 - [The Galaxy: Dari Rencana Hotel Terapung di Kamboja Menjadi Kapal Hantu di Koh Chang](investigations/2026-11-17-the-galaxy-koh-chang-floating-hotel-ghost-ship.md)  
