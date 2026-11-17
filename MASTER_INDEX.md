@@ -1,5 +1,15 @@
 ## 2026-11-17
 
+### Urban observation · Indonesia · Makassar · Cendrawasih · Opu Daeng Risadju · Google Maps / Street View · BLOON
+
+- [BLOON Street Observation — Makassar: Cendrawasih, Opu Daeng Risadju, and the Baji-* Streets](research/2026-11-17-bloon-street-observation-makassar-cendrawasih-opu-daeng-risadju.md)  
+  Working dossier consolidating user-described screenshot observations across batches 1–20 around the Cendrawasih / Opu Daeng Risadju area and reported Andi Mappaodang, Dangkoe, Tanggul Patompo, and Baji-* street-name leads. Records business and institutional POI leads, physical-sign text, repeated selected-POI/background patterns, category and spelling anomalies, unfamiliar map glyphs, and status-bar/header observations. Separates listing metadata, physical scene, street context, and camera position. No exact camera coordinates, current business status, continuous route, or Google rendering mechanism is asserted. Status: working dossier; user-described observations only; not independently image-, listing-, coordinate-, or field-verified.
+
+### Maritime infrastructure · Indonesia · Container ports · Makassar · Kupang · Bitung · Pontianak · Google Maps / Street View / UGC · BLOON
+
+- [BLOON Street Observation — Indonesian Container Ports Across Map, Street View, and User-Contributed Imagery](research/2026-11-17-bloon-street-observation-indonesia-container-ports-multimedia.md)  
+  Working dossier for batches 21–22, covering the reported transition among Street View panorama, 2D vector-map Places results, and a user-contributed port photograph. Preserves leads for Makassar New Port, Tenau/Kupang, Bitung, Pontianak/Siantan Hilir, and an unidentified IPC terminal photograph with a partially readable vessel name (“ST…MANIE”), SITC-marked containers, and a gantry crane. Treats “Devan Tantjube” and “Feb 2024” as panel text reported by the user, not independently verified photographer identity or capture date. No exact terminal, vessel, camera coordinate, or port inventory is asserted. Status: working dossier; user-described observations only; original imagery and metadata not independently inspected.
+
 ### History & media literacy · Chicago · World's Columbian Exposition · 1893 · AI imagery claims
 
 - [The White City 1893 dan Raksasa Misterius: Ketika Sejarah Asli Dicampur Imajinasi Digital](investigations/2026-11-17-white-city-1893-raksasa-misterius-ai-hoax.md)  
