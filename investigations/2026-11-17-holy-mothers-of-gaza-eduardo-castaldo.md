@@ -156,3 +156,9 @@ Itulah yang membuat *Holy Mothers of Gaza* layak dibicarakan.
 5. [Hindustan Times – Holy Mothers of Gaza](https://www.hindustantimes.com/world-news/holy-mothers-of-gaza-italian-artist-links-religious-imagery-to-the-realities-of-war-naples-eduardo-castaldo-101794728550435.html)
 
 **Catatan SolitudeLabs:** Artikel ini membahas karya seni dan pesan yang dinyatakan oleh senimannya. Penilaian artistik, interpretasi religius, dan fakta teknis produksi dibedakan agar tidak tercampur.
+
+
+## Publication links
+
+- WordPress: https://solitudelabs.wordpress.com/2026/11/17/holy-mothers-of-gaza-ketika-lapisan-bunda-maria-dibuka-muncul-kisah-ibu-ibu-palestina/
+- Blogger: https://solitudelabs.blogspot.com/2026/11/holy-mothers-of-gaza-ketika-lapisan.html
