@@ -1671,5 +1671,46 @@
     "sources": [
       "User-described Google Maps / Street View / user-contributed photograph observations in the conversation; original media not independently inspected during this archive update."
     ]
+  },
+  {
+    "id": "2026-11-17-bloon-street-observation-pontianak-jakarta-utara-multiepoch-multimedium",
+    "title": "BLOON Street Observation — Pontianak and Jakarta Utara Leads, Multi-Epoch Street View, and the Fourth Visual Medium",
+    "published": "2026-11-17",
+    "type": "working research dossier",
+    "status": "working dossier; based on user-described screenshot batches 23–35; original images, metadata, live POI records, coordinates, and field observations not independently verified",
+    "category": [
+      "BLOON Research",
+      "Urban Observation",
+      "Indonesia",
+      "Pontianak",
+      "Jakarta Utara",
+      "Tanjung Priok",
+      "Maritime Infrastructure",
+      "Google Maps",
+      "Google Street View",
+      "Historical Imagery",
+      "3D Map",
+      "POI Metadata",
+      "User-Contributed Imagery",
+      "Media Literacy"
+    ],
+    "category_note": "Archive/editorial classifications only; this is a research dossier, not a published article.",
+    "archive_record": "research/2026-11-17-bloon-street-observation-pontianak-jakarta-utara-multiepoch-multimedium.md",
+    "summary": "Consolidates user-described screenshot batches 23–35. Records a strong but unverified Pontianak-context hypothesis; a partial bird-name street layer; May 2024 street and political-signage observations; a Jakarta Utara / Tanjung Priok port-district lead; same-place multi-epoch imagery; repeated one-building/multiple-POI cases; POI category mismatches; scene occlusion; and a reported fourth medium, a 3D/globe-style volumetric map view. Keeps city context, physical signs, POI labels, UGC captions, imagery epochs, map layers, and camera position distinct.",
+    "open_questions": [
+      "The truncated NPSN and complete school identity in batch 23 have not been checked against an official register.",
+      "The Susan Salon address and all Jl. Camar camera positions remain unverified.",
+      "It is not established that every batch 23–32 frame belongs to Pontianak or one continuous route.",
+      "The Pos IX Satlantas scene and Pos 9 Pelabuhan Tg. Priok label need official location/coordinate matching.",
+      "The relationship between IPC references in batches 22 and 34 is unresolved.",
+      "The batch-35 3D map product, labels, and exact features have not been independently identified.",
+      "The reported Dangko / Tanggul Patompo scene has not been geometrically matched to earlier Makassar observations.",
+      "The cause of the batch-29 f4 smear/occlusion is unknown.",
+      "No normalized coordinates, field observations, or BEO/GSV coordinate rows were supplied."
+    ],
+    "method_note": "User-described screenshot observations only. Distinguish physical signs, POI/map labels, UGC captions, review aggregates, historical-imagery panels, watermarks, status-bar chrome, and camera poses. Do not treat city-level context as a camera coordinate; do not infer continuous routes, construction progress, ownership, tenancy, legal identity, or rendering mechanisms without independent evidence. No official-register checks, live listing checks, original-image inspection, or field verification were performed for this archive update.",
+    "sources": [
+      "User-described Google Maps / Street View / vector-map / user-contributed imagery / 3D-map observations in conversation; original media not independently inspected during this archive update."
+    ]
   }
 ]
