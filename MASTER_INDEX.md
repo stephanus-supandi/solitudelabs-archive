@@ -1,5 +1,10 @@
 ## 2026-11-18
 
+### Indonesian politics · Indonesian history · Reformasi 1998 · PKI · Communism · Marxism · Socialism · PRD
+
+- [PKI Pasca-Reformasi: Antara Organisasi, Ideologi, dan Tuduhan](investigations/2026-11-18-pki-pasca-reformasi-antara-organisasi-ideologi-dan-tuduhan.md)  
+  Published article distinguishing the legally prohibited PKI as an organization from Marxism, Marxism-Leninism, broader socialist and social-democratic traditions, post-1998 left movements, and political allegations. Reviews PRD as a distinct organization and sets evidence standards for claims about groups and individuals. WordPress page retrieved and reviewed; Blogger URL supplied by the author but direct retrieval was blocked. Exact platform labels/categories remain unverified. The visible WordPress cover image is a generic family scene with no clear relevance to the subject; replacement recommended.
+
 ### History · Empires · Imperialism · Colonialism · Europe · Japan · World War I
 
 - [Dunia Para Kaisar: Imperium, Imperialisme, Kolonialisme, dan Perebutan Kekuasaan Sebelum Perang Dunia I](investigations/2026-11-18-dunia-para-kaisar-imperium-imperialisme.md)  
