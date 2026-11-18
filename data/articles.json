@@ -2180,5 +2180,48 @@
       "https://doi.org/10.1017/S0022463408000027",
       "https://eprints.uny.ac.id/21256/"
     ]
+  },
+  {
+    "id": "2026-11-18-pki-1945-1948-kelahiran-kembali-partai-amir-sjarifuddin-fdr-musso-dan-peristiwa-madiun",
+    "title": "PKI 1945–1948: Kelahiran Kembali Partai, Amir Sjarifuddin, FDR, Musso, dan Peristiwa Madiun",
+    "published": "2026-11-18",
+    "type": "published article",
+    "status": "publication URLs supplied by author; direct retrieval of WordPress and Blogger pages returned cache-miss errors during archive update; archive text follows the editorial draft in conversation; exact live page text and platform labels not independently verified",
+    "category": [
+      "Indonesian History",
+      "Indonesian Political History",
+      "PKI",
+      "Indonesian Communism",
+      "Amir Sjarifuddin",
+      "Musso",
+      "Front Demokrasi Rakyat",
+      "FDR",
+      "Pesindo",
+      "SOBSI",
+      "Madiun Affair",
+      "Indonesian National Revolution",
+      "Renville Agreement",
+      "Cold War",
+      "Political Historiography"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/18/pki-1945-1948-kelahiran-kembali-partai-amir-sjarifuddin-fdr-musso-dan-peristiwa-madiun/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/pki-19451948-kelahiran-kembali-partai.html",
+    "archive_record": "investigations/2026-11-18-pki-1945-1948-kelahiran-kembali-partai-amir-sjarifuddin-fdr-musso-dan-peristiwa-madiun.md",
+    "summary": "Traces the PKI's post-1945 reorganization; Amir Sjarifuddin's role in the Republic and the fall of his cabinet after Renville; the formation of FDR as a coalition distinct from PKI; Musso's return and Jalan Baru; the September 1948 Madiun conflict; and subsequent historiographical debates. Distinguishes documented events from disputed questions about centralized planning, local initiative, and responsibility.",
+    "open_questions": [
+      "The live WordPress and Blogger pages returned cache-miss errors during this archive update; exact published text and live platform labels/categories were not independently verified.",
+      "The precise chain of decision-making before the Madiun takeover, including the relationship between local actors and PKI central leadership, remains a historiographical question requiring comparison of contemporary documents and scholarship.",
+      "The roles and degree of participation of different FDR constituent organizations were not uniform and should not be generalized to every member or supporter.",
+      "Claims about foreign direction or direct external command require specific documentary evidence and cannot be inferred solely from ideological or international connections."
+    ],
+    "method_note": "Distinguish PKI from FDR as a coalition, and distinguish the September 1948 armed takeover and subsequent government operations from disputed interpretations about prior planning and command responsibility. Separate chronology, organizational membership, contemporary documentation, retrospective testimony, and later historiography. Do not treat all FDR members as identical actors or infer foreign command from international ideological links. Live publication pages and exact platform labels were not independently retrieved during this archive update.",
+    "sources": [
+      "https://doi.org/10.1017/S002246340999004X",
+      "https://hdl.handle.net/1813/54557",
+      "https://www.cambridge.org/core/books/towards-the-indonesian-republic/F01DFC110022E2AC3FE608DB8910E6C9/listing",
+      "Ruth T. McVey, The Soviet View of the Indonesian Revolution: A Study in the Russian Attitude Towards Asian Nationalism, Cornell University Press, 1965.",
+      "Elizabeth Ann Swift, The Road to Madiun: The Indonesian Communist Uprising of 1948, University of California, Berkeley, 1989."
+    ]
   }
 ]
