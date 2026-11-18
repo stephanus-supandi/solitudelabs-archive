@@ -2137,5 +2137,48 @@
     "sources": [
       "User-described Google Maps / Street View / vector-map / user-contributed imagery / 3D-map observations in conversation; original media not independently inspected during this archive update."
     ]
+  },
+  {
+    "id": "2026-11-18-akar-gerakan-kiri-indonesia-dari-isdv-sarekat-islam-merah-hingga-lahirnya-pki",
+    "title": "Akar Gerakan Kiri Indonesia: Dari ISDV, Sarekat Islam Merah, hingga Lahirnya PKI",
+    "published": "2026-11-18",
+    "type": "published article",
+    "status": "WordPress publication retrieved and reviewed on 2026-11-18; Blogger URL supplied by author but direct retrieval was blocked; exact live platform labels/categories not independently verified",
+    "category": [
+      "Indonesian History",
+      "Indonesian Political History",
+      "Left-Wing Movements",
+      "ISDV",
+      "Sarekat Islam",
+      "Sarekat Islam Merah",
+      "PKI",
+      "Communism",
+      "Marxism",
+      "Socialism",
+      "Labor Movement",
+      "Dutch East Indies",
+      "Colonial History",
+      "Semaun",
+      "Tan Malaka"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress Categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/18/akar-gerakan-kiri-indonesia-dari-isdv-sarekat-islam-merah-hingga-lahirnya-pki/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/akar-gerakan-kiri-indonesia-dari-isdv.html",
+    "archive_record": "investigations/2026-11-18-akar-gerakan-kiri-indonesia-dari-isdv-sarekat-islam-merah-hingga-lahirnya-pki.md",
+    "summary": "Traces the early Indonesian left through colonial social and economic change, ISDV and Henk Sneevliet, VSTP and labor organizing, Sarekat Islam and its Semarang branch, Semaoen, the Sarekat Islam Merah current, the 1920 transformation of ISDV into the communist party in the Indies, the 1921 party-discipline split and Sarekat Rakyat, Tan Malaka's translation of Marxism, and the failed 1926–1927 revolt. Emphasizes that ISDV, Sarekat Islam, VSTP, Sarekat Islam Merah, Sarekat Rakyat, and PKI were connected historically but were not identical organizations.",
+    "open_questions": [
+      "The Blogger publication could not be retrieved directly during this archive update; its supplied URL is recorded but its full live text has not been independently checked.",
+      "Exact WordPress Categories and Blogger labels were not independently verified.",
+      "Some chronology and organizational details—especially the naming and formal relationship of Sarekat Islam Merah, Sarekat Rakyat, and the early PKI—would benefit from primary-source cross-checking in a deeper follow-up article.",
+      "The article is an introductory synthesis, not an exhaustive account of all regional branches, labor organizations, personalities, or debates in the early Indonesian left."
+    ],
+    "method_note": "The archive body follows the retrieved WordPress publication. Distinguish organizational identities, ideological currents, branch-level alignments, and historical succession. Do not describe all Sarekat Islam as communist or treat ISDV, VSTP, Sarekat Islam Merah, Sarekat Rakyat, and PKI as interchangeable. The WordPress page was retrieved and reviewed; Blogger retrieval was blocked. Exact platform categories/labels were not independently verified.",
+    "sources": [
+      "https://doi.org/10.1017/S0026749X20000104",
+      "https://doi.org/10.15294/paramita.v20i1.1056",
+      "https://doi.org/10.59672/nirwasita.v3i1.1818",
+      "https://doi.org/10.1017/S0022463408000027",
+      "https://eprints.uny.ac.id/21256/"
+    ]
   }
 ]
