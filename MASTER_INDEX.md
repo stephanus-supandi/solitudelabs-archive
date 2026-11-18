@@ -1,5 +1,11 @@
 ## 2026-11-18
 
+### Indonesian history · Left-wing movements · ISDV · Sarekat Islam · PKI · Communism · Marxism · Labor movement · Dutch East Indies
+
+- [Akar Gerakan Kiri Indonesia: Dari ISDV, Sarekat Islam Merah, hingga Lahirnya PKI](investigations/2026-11-18-akar-gerakan-kiri-indonesia-dari-isdv-sarekat-islam-merah-hingga-lahirnya-pki.md)  
+  Published historical overview tracing the early Indonesian left from colonial-era social change through ISDV, Henk Sneevliet, VSTP, Sarekat Islam and its Semarang branch, Semaoen, the Sarekat Islam Merah current, the 1920 formation of the communist party in the Indies, the 1921 party-discipline split, Sarekat Rakyat, Tan Malaka, and the failed 1926–1927 revolt. Distinguishes related but non-identical organizations and ideological currents. WordPress publication retrieved and reviewed; Blogger URL supplied by the author but direct retrieval was blocked. Exact platform labels/categories remain unverified.
+
+
 ### Indonesian politics · Indonesian history · Reformasi 1998 · PKI · Communism · Marxism · Socialism · PRD
 
 - [PKI Pasca-Reformasi: Antara Organisasi, Ideologi, dan Tuduhan](investigations/2026-11-18-pki-pasca-reformasi-antara-organisasi-ideologi-dan-tuduhan.md)  
