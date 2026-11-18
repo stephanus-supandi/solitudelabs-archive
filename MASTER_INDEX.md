@@ -1,9 +1,20 @@
 ## 2026-11-18
 
-### History of medicine · Ancient Egypt · Anglo-Saxon England · Ge Hong · Artemisinin · Tu Youyou · Malaria · Antimicrobial research
+### History · Empires · Imperialism · Colonialism · Europe · Japan · World War I
 
-- [Tiga Pengetahuan Kuno yang Diuji Ilmuwan Modern: Dari Tes Kehamilan Mesir Kuno, Ramuan Antibiotik Inggris Abad Pertengahan, hingga Artemisinin dari Tiongkok](investigations/2026-11-18-tiga-pengetahuan-kuno-diuji-ilmuwan-modern.md)  
-  Published article comparing the Egyptian urine-and-seed pregnancy test (including the limited 1963 experiment), the 10th-century Bald's Leechbook eyesalve and 2015 antimicrobial tests against *Staphylococcus aureus*/MRSA, and Ge Hong's Qinghao instructions as a clue in Tu Youyou's work leading to artemisinin. Separates laboratory and animal-model results from clinical proof; clarifies that the Egyptian experiment did not establish modern diagnostic accuracy or reliable fetal-sex prediction; and warns against homemade eye remedies and Artemisia annua tea as malaria treatment. WordPress publication retrieved and reviewed; Blogger URL supplied by the author but direct retrieval was blocked. Exact platform labels remain unverified.
+- [Dunia Para Kaisar: Imperium, Imperialisme, Kolonialisme, dan Perebutan Kekuasaan Sebelum Perang Dunia I](investigations/2026-11-18-dunia-para-kaisar-imperium-imperialisme.md)  
+  Published article distinguishing empire, emperor, imperialism, and colonialism; surveys European imperial rivalry, colonial motives, Japan's Meiji modernization and imperial expansion, and the multicausal tensions preceding World War I. WordPress article retrieved and reviewed; Blogger URL supplied by the author but direct retrieval was blocked. Exact platform labels remain unverified.
+
+### History · World War I · World War II · Nazi Germany · Japanese Empire · Indonesia
+
+- [Dua Perang Dunia, Satu Abad Krisis: Dari Perang Dunia I, Kebangkitan Nazi, hingga Ekspansi Kekaisaran Jepang](investigations/2026-11-18-dua-perang-dunia-satu-abad-krisis.md)  
+  Published article connecting World War I, the interwar crisis, and World War II while distinguishing the European 1939 outbreak from earlier Japanese wars in Asia. Covers Versailles, Nazi consolidation, Japanese expansion, the occupation of the Dutch East Indies, and Indonesia's 1945 proclamation. WordPress and Blogger articles retrieved and reviewed; exact platform labels remain unverified.
+
+### History · Nazi Germany · SS · Ahnenerbe · Lebensborn · Wewelsburg · Occultism · Eugenics
+
+- [Nazi, Mitos Ras Arya, dan Dunia Okultisme: Antara Sejarah yang Terdokumentasi, Propaganda, Keyakinan, dan Hipotesis Supernatural](investigations/2026-11-18-nazi-mitos-ras-arya-dunia-okultisme.md)  
+  Published article separating documented Nazi racial ideology, SS symbolism, Himmler's esoteric interests, Ahnenerbe, Lebensborn, and Wewelsburg from unsupported claims of Satanic blood contracts, supernatural offspring, or portals to hell. WordPress page retrieved only partially; archive body combines the visible publication with the editorial draft and is not claimed as a byte-for-byte transcription. Blogger URL supplied by the author but direct retrieval was blocked. Exact platform labels remain unverified.
+
 
 ## 2026-11-17
 
