@@ -1,3 +1,10 @@
+## 2026-11-19
+
+### Indonesian history · Indonesian political history · PKI · D.N. Aidit · Njoto · M.H. Lukman · 1955 elections · SOBSI · BTI · Gerwani · Lekra
+
+- [PKI 1948–1955: Kebangkitan Kembali Partai, D.N. Aidit, Njoto, M.H. Lukman, dan Pemilu 1955](investigations/2026-11-19-pki-1948-1955-kebangkitan-kembali-partai-d-n-aidit-njoto-m-h-lukman-dan-pemilu-1955.md)  
+  Published article tracing the PKI's reconstruction after the 1948 Madiun conflict, the new leadership announced on 7 January 1951, Aidit's organizational and political strategy, the party's relationships with labor, peasant, women's, youth, and cultural organizations, its press and 1954 congress, and its fourth-place results in the 1955 DPR and Constituent Assembly elections. Distinguishes party membership from affiliation, sympathy, mass-organization participation, and votes; does not infer that PKI voters were all communists or that the party won a majority. WordPress page retrieved and reviewed during this archive update; Blogger URL supplied by the author but not independently retrieved. Exact live Blogger text and platform labels remain unverified.
+
 ### Indonesian history · Indonesian politics · PKI · Amir Sjarifuddin · FDR · Musso · Madiun Affair · Indonesian National Revolution · Cold War
 
 - [PKI 1945–1948: Kelahiran Kembali Partai, Amir Sjarifuddin, FDR, Musso, dan Peristiwa Madiun](investigations/2026-11-18-pki-1945-1948-kelahiran-kembali-partai-amir-sjarifuddin-fdr-musso-dan-peristiwa-madiun.md)  
