@@ -1,3 +1,8 @@
+### Indonesian history · Indonesian politics · PKI · Amir Sjarifuddin · FDR · Musso · Madiun Affair · Indonesian National Revolution · Cold War
+
+- [PKI 1945–1948: Kelahiran Kembali Partai, Amir Sjarifuddin, FDR, Musso, dan Peristiwa Madiun](investigations/2026-11-18-pki-1945-1948-kelahiran-kembali-partai-amir-sjarifuddin-fdr-musso-dan-peristiwa-madiun.md)  
+  Published article tracing the post-Proclamation reorganization of the PKI, Amir Sjarifuddin’s premiership and fall after the Renville Agreement, the formation of the Front Demokrasi Rakyat (FDR), Musso’s return and “Jalan Baru,” the September 1948 Madiun conflict, and its later historiography. Explicitly distinguishes PKI from the wider FDR coalition and separates the established armed takeover and government response from disputed questions about prior centralized planning, local initiative, and individual responsibility. WordPress and Blogger URLs supplied by the author; live-page retrieval returned cache-miss errors during this archive update, so exact live text and platform labels were not independently verified.
+
 ## 2026-11-18
 
 ### Indonesian history · Left-wing movements · ISDV · Sarekat Islam · PKI · Communism · Marxism · Labor movement · Dutch East Indies
