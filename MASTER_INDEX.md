@@ -1,5 +1,12 @@
 ## 2026-11-19
 
+### Indonesian history · Indonesian political history · PKI · D.N. Aidit · M.H. Lukman · Njoto · 1955 elections · 1957 regional elections · BTI · SARBUPRI · agrarian reform · Guided Democracy
+
+- [PKI 1955–1959: Dari Kemenangan Elektoral ke Perubahan Arah Politik Indonesia](investigations/2026-11-19-pki-1955-1959-dari-kemenangan-elektoral-ke-perubahan-arah-politik-indonesia.md)  
+  Published article examining the PKI's position after the 1955 general election, its national-unity-front strategy, continued electoral activity in 1957, relationships with labor and peasant organizations including BTI and SARBUPRI, agrarian politics, the crisis of Parliamentary Democracy, and the 5 July 1959 Presidential Decree. Distinguishes electoral strength from control of government; party membership from mass-organization participation; and Soekarno's constitutional decision from claims that the decree was simply a PKI victory. Blogger and WordPress pages retrieved and reviewed on 2026-11-19; exact live platform labels/categories not independently verified.
+
+## 2026-11-19
+
 ### Indonesian history · Indonesian political history · PKI · D.N. Aidit · Njoto · M.H. Lukman · 1955 elections · SOBSI · BTI · Gerwani · Lekra
 
 - [PKI 1948–1955: Kebangkitan Kembali Partai, D.N. Aidit, Njoto, M.H. Lukman, dan Pemilu 1955](investigations/2026-11-19-pki-1948-1955-kebangkitan-kembali-partai-d-n-aidit-njoto-m-h-lukman-dan-pemilu-1955.md)  
