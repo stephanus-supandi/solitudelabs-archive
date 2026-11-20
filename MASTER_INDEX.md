@@ -1,3 +1,15 @@
+## 2026-11-20
+
+### Catholicism · Indonesia · eKatolik · Catholic media · Digital religion · Church institutions · Transparency · Funding
+
+- [eKatolik: Siapa di Balik Aplikasi Ini?](investigations/2026-11-20-ekatolik-siapa-di-balik-aplikasi-ini.md)  
+  Published investigation tracing eKatolik's reported 2013 origin, named early collaborators, an unnamed donor reported in 2017, current app-store developer metadata, public support channels, and references to LAI/KWI/Penerbit Obor. Separates content sourcing and permission from ownership, sponsorship, financial control, or formal Church status. WordPress publication retrieved and reviewed; Blogger URL supplied by author but not independently retrieved. Donor identity, current financial structure, and legal status of Infinitech Indonesia remain unresolved.
+
+### Catholicism · Indonesia · CRUSADER Network · Traditionalism · Apologetics · Vatican II · Magisterium · Religious media literacy
+
+- [Apa Itu CRUSADER Network? Mengenal Kanal Katolik, Tradisionalisme, dan Klaim Otoritas dalam Perdebatan Iman](investigations/2026-11-20-apa-itu-crusader-network-mengenal-kanal-katolik-tradisionalisme-dan-klaim-otoritas-dalam-perdebatan-iman.md)  
+  Published investigation examining the channel's stated orientation, public biography associating Agustinus Daniel with it, selected content themes, the distinction between lay commentary and Magisterial authority, and publicly advertised support channels. Uses primary Catholic documents for theological framing. Does not establish official diocesan status or allege misconduct. WordPress publication retrieved and reviewed; Blogger URL supplied by author but not independently retrieved. No direct interview or full-channel audit was performed.
+
 ## 2026-11-19
 
 ### Indonesian history · Indonesian political history · PKI · D.N. Aidit · M.H. Lukman · Njoto · 1955 elections · 1957 regional elections · BTI · SARBUPRI · agrarian reform · Guided Democracy
