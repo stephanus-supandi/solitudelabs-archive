@@ -2318,5 +2318,82 @@
       "Noer Fauzi Rachman, The Resurgence of Land Reform Policy and Agrarian Movements in Indonesia, University of California, Berkeley, 2011.",
       "Justus M. van der Kroef, Peasant and Land Reform in Indonesian Communism, Journal of Southeast Asian History."
     ]
+  },
+  {
+    "id": "2026-11-20-ekatolik-siapa-di-balik-aplikasi-ini",
+    "title": "eKatolik: Siapa di Balik Aplikasi Ini?",
+    "published": "2026-11-20",
+    "type": "published article",
+    "status": "WordPress publication retrieved and reviewed on 2026-11-20; Blogger URL supplied by author but not independently retrieved; exact live Blogger text and platform labels not verified.",
+    "category": [
+      "Catholicism",
+      "Indonesia",
+      "Digital Religion",
+      "eKatolik",
+      "Catholic Media",
+      "Church Institutions",
+      "Transparency",
+      "Funding",
+      "BLOON Investigation"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/20/ekatolik-siapa-di-balik-aplikasi-ini/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/ekatolik-siapa-di-balik-aplikasi-ini.html",
+    "archive_record": "investigations/2026-11-20-ekatolik-siapa-di-balik-aplikasi-ini.md",
+    "summary": "Traces eKatolik's origins to Bernardus Agus Cahyono and the 2013 launch described in a 2017 HIDUPKATOLIK profile; records collaborators named in that profile and an unnamed donor reported to have supported renewed development around October 2016. Compares current Google Play and Apple App Store developer metadata, records publicly displayed user-support information and historical mention of religious advertising, and distinguishes content sourcing or permission involving LAI, KWI's Commission for Liturgy, and Penerbit Obor from ownership, sponsorship, or formal Church control. Does not identify the donor or infer misconduct.",
+    "open_questions": [
+      "Legal and operational status of Infinitech Indonesia.",
+      "Current developers, maintainers, and content contributors.",
+      "Identity, amount, and terms of the 2016 donor support.",
+      "Current revenue sources, operating costs, and use of user contributions.",
+      "Precise scope of any written agreements or formal institutional endorsement."
+    ],
+    "method_note": "Distinguish secondary historical reporting, app-store metadata, content licensing, cooperation, financial support, and institutional authority. The WordPress post was retrieved; the Blogger URL was author-supplied and not independently retrieved. Unknown funding details remain unknown; absence of a located public financial statement is not evidence of misconduct.",
+    "sources": [
+      "https://www.hidupkatolik.com/2017/10/19/13807/membangun-katolik-dengan-sekali-klik.php",
+      "https://play.google.com/store/apps/details?id=id.infinitech.ekatolik",
+      "https://apps.apple.com/id/app/ekatolik/id1447472969"
+    ]
+  },
+  {
+    "id": "2026-11-20-apa-itu-crusader-network-mengenal-kanal-katolik-tradisionalisme-dan-klaim-otoritas-dalam-perdebatan-iman",
+    "title": "Apa Itu CRUSADER Network? Mengenal Kanal Katolik, Tradisionalisme, dan Klaim Otoritas dalam Perdebatan Iman",
+    "published": "2026-11-20",
+    "type": "published article",
+    "status": "WordPress publication retrieved and reviewed on 2026-11-20; Blogger URL supplied by author but not independently retrieved; exact live Blogger text and platform labels not verified.",
+    "category": [
+      "Catholicism",
+      "Indonesia",
+      "Catholic Media",
+      "Traditionalism",
+      "Apologetics",
+      "Magisterium",
+      "Vatican II",
+      "Religious Media Literacy",
+      "BLOON Investigation"
+    ],
+    "category_note": "Archive/editorial classifications only. Exact live WordPress categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/20/apa-itu-crusader-network-mengenal-kanal-katolik-tradisionalisme-dan-klaim-otoritas-dalam-perdebatan-iman/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/apa-itu-crusader-network-mengenal-kanal.html",
+    "archive_record": "investigations/2026-11-20-apa-itu-crusader-network-mengenal-kanal-katolik-tradisionalisme-dan-klaim-otoritas-dalam-perdebatan-iman.md",
+    "summary": "Examines CRUSADER Network's publicly stated orientation, the publisher biography associating Agustinus Daniel with the channel and LEGIO CHRISTI REGIS, examples of content about Islam, Vatican II, Protestant and Orthodox communities, and Catholic devotions, and the distinction between lay theological commentary and the Magisterium's authentic teaching authority. Uses Nostra Aetate, Lumen Gentium, Dei Verbum, the Catechism, and canon law as primary Church references. Records publicly advertised donation and sales channels without treating fundraising as evidence of wrongdoing. The channel's status as an official Archdiocese of Jakarta channel is not established by the reviewed sources.",
+    "open_questions": [
+      "Any formal or informal institutional relationships involving the channel and LEGIO CHRISTI REGIS.",
+      "Whether a diocese has issued an official clarification about channel status.",
+      "Current operating structure, contributors, and editorial responsibility.",
+      "Public accounting and stated uses of donation or sales proceeds.",
+      "Contextual evaluation of individual theological claims against primary Church documents."
+    ],
+    "method_note": "Distinguish channel self-description, publisher biography, public content, theological interpretation, and official ecclesial authority. Do not infer official status or misconduct from Catholic identity, traditionalist orientation, or fundraising. The WordPress post was retrieved; Blogger URL was author-supplied and not independently retrieved.",
+    "sources": [
+      "https://crusadernetwork.blogspot.com/2022/06/pedang-tajam-yang-akan-memukul-segala.html",
+      "https://crusadernetwork.blogspot.com/2023/03/benarkah-menjadi-ortodoks-atau.html",
+      "https://crusadernetwork.blogspot.com/2025/07/kesesatan-konsili-vatikan-ii-mitos-atau.html",
+      "https://crusadernetwork.blogspot.com/2025/08/menurut-konsili-vatikan-ii-protestan.html",
+      "https://books2read.com/b/bencana-kv2",
+      "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_decl_19651028_nostra-aetate_en.html",
+      "https://www.vatican.va/content/dam/wss/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
+      "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html"
+    ]
   }
 ]
