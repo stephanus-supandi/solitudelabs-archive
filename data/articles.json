@@ -2957,5 +2957,53 @@
       "https://www.bundesregierung.de/breg-en/service/germany-aid-for-ukraine-2192480",
       "https://www.bundeswehr.de/de/meldungen/bundeswehr-feiert-gruendungstag/2022-bis-heute-zeitenwende-bundeswehr"
     ]
+  },
+  {
+    "id": "2026-11-22-theodore-m-davis-kolektor-amerika-penggalian-makam-firaun-dan-perjalanan-benda-benda-mesir-ke-museum-barat",
+    "title": "Theodore M. Davis: Kolektor Amerika, Penggalian Makam Firaun, dan Perjalanan Benda-Benda Mesir ke Museum Barat",
+    "published": "2026-11-22",
+    "type": "published article",
+    "status": "WordPress post retrieved through the connected WordPress account and transcribed into the archive on 2026-11-22. Blogger URL supplied by the author, but its article body was not independently retrieved; exact cross-platform text identity is not asserted.",
+    "category": [
+      "Theodore M. Davis",
+      "Ancient Egypt",
+      "Egyptology",
+      "Valley of the Kings",
+      "Tutankhamun",
+      "KV 54",
+      "KV 62",
+      "Howard Carter",
+      "Edward R. Ayrton",
+      "Harry Burton",
+      "The Metropolitan Museum of Art",
+      "Museum Collections",
+      "Provenance",
+      "Archaeological Excavation",
+      "Partage",
+      "Colonialism",
+      "Cultural Heritage",
+      "Museum Ethics"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/22/theodore-m-davis-kolektor-amerika-penggalian-makam-firaun-dan-perjalanan-benda-benda-mesir-ke-museum-barat/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/theodore-m-davis-kolektor-amerika.html",
+    "archive_record": "investigations/2026-11-22-theodore-m-davis-kolektor-amerika-penggalian-makam-firaun-dan-perjalanan-benda-benda-mesir-ke-museum-barat.md",
+    "summary": "Examines Theodore M. Davis as an American collector and financier of excavations in Egypt's Valley of the Kings from 1902 to 1914; the work of Howard Carter, Edward R. Ayrton, E. Harold Jones, and Harry Burton; the 1907–1908 discovery of KV 54 and its mistaken identification as Tutankhamun's tomb; the transfer of KV 54 material to The Met in 1909; Davis's later bequest; the partage system; and the distinction between excavation, donation, ownership provenance, and museum acquisition. Clarifies that KV 54 was an embalming cache, while Tutankhamun's royal tomb was KV 62, discovered by Carter's team in 1922.",
+    "open_questions": [
+      "Object-level documentation is still required to establish the full prior ownership and transfer history of individual objects from Davis's private collection.",
+      "The specific excavation permits and partage records for individual objects should be checked before making legal conclusions about their transfer.",
+      "The precise contribution of KV 54 to the later search for KV 62 should be described as contextual evidence, not as proof that it directly determined the discovery location.",
+      "The Blogger article body was not independently retrieved; exact cross-platform text identity remains unverified."
+    ],
+    "method_note": "The WordPress post was retrieved through the connected WordPress account and transcribed into this archive. The Blogger URL was supplied by the author but its article body was not independently retrieved; exact cross-platform text identity is not asserted. Distinguish the financier, excavation director, field workers, and photographer; distinguish KV 54 from KV 62; and distinguish objects from excavations from objects inherited from Davis's private collection. Partage was a historically specific regulated arrangement, not a universal explanation for all Egyptian objects in foreign museums. Do not infer either looting or ethical legitimacy without object-specific documentation.",
+    "sources": [
+      "https://www.metmuseum.org/essays/the-history-of-the-department-of-egyptian-art",
+      "https://www.metmuseum.org/essays/tutankhamuns-funeral",
+      "https://www.metmuseum.org/art/collection/search/548837",
+      "https://www.metmuseum.org/art/collection/search/554330",
+      "https://www.metmuseum.org/essays/harry-burton-1879-1940-the-pharaohs-photographer",
+      "https://etheses.dur.ac.uk/958/",
+      "https://as.amphilsoc.org/repositories/2/resources/687"
+    ]
   }
 ]
