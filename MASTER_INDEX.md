@@ -1,5 +1,12 @@
 ## 2026-11-22
 
+### Theodore M. Davis · Ancient Egypt · Egyptology · Valley of the Kings · Tutankhamun · KV 54 · KV 62 · The Metropolitan Museum of Art · Provenance · Partage · Museum Ethics
+
+- [Theodore M. Davis: Kolektor Amerika, Penggalian Makam Firaun, dan Perjalanan Benda-Benda Mesir ke Museum Barat](investigations/2026-11-22-theodore-m-davis-kolektor-amerika-penggalian-makam-firaun-dan-perjalanan-benda-benda-mesir-ke-museum-barat.md)  
+  Examines Davis's role as a financier and collector in Valley of the Kings excavations; the 1907–1908 discovery of KV 54; the distinction between the embalming cache and Tutankhamun's actual tomb, KV 62; the transfer of excavated objects and Davis's private collection to The Met; and the historical limits and ethical questions surrounding partage. Separates excavation records, donor history, object provenance, and museum acquisition. WordPress post retrieved and transcribed; Blogger URL supplied by the author, but its body was not independently retrieved, so exact cross-platform text identity is not asserted.
+
+## 2026-11-22
+
 ### Art history · Museum collections · Provenance · The Metropolitan Museum of Art · Iran · Egypt · India · Japan · Greece · Germany · Tibet · Mongolia
 
 - [Tujuh Benda, Satu Museum: Menelusuri Jejak Sejarah dari Iran, Mesir, India, Jepang, Yunani, Jerman, hingga Tibet](investigations/2026-11-22-tujuh-benda-satu-museum-menelusuri-jejak-sejarah-dari-iran-mesir-india-jepang-yunani-jerman-hingga-tibet.md)  
