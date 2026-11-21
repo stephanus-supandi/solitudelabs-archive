@@ -1,5 +1,12 @@
 ## 2026-11-21
 
+### United States · Germany · Indonesia · B.J. Habibie · Reformasi 1998 · German Reunification · Telecommunications · AT&T · Deutsche Telekom · NATO · 9/11 · Russia · Ukraine · Geopolitics
+
+- [Amerika Serikat, Jerman, dan Indonesia: Habibie, Reformasi 1998, Telekomunikasi, NATO, dan Perubahan Tatanan Dunia](investigations/2026-11-21-amerika-serikat-jerman-dan-indonesia-habibie-reformasi-1998-telekomunikasi-nato-dan-perubahan-tatanan-dunia.md)  
+  Examines the United States, Germany, and Indonesia from the 1998 Reformasi transition and B.J. Habibie's professional ties to West Germany through transatlantic telecommunications, AT&T and Deutsche Telekom, the TAT-14 and Trans-Asia-Europe networks, German industry and reunification, NATO's response to 9/11, Germany's post-Cold War relations with Russia, energy dependence, and the war in Ukraine. Distinguishes national telecommunications backbones from customer access, NATO membership from participation in specific operations, and Habibie's personal education and career from claims about German control of Indonesian policy. WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from the published WordPress post. Blogger URL supplied by the author, but its article body was not independently retrieved during this update; exact cross-platform text identity is not asserted.
+
+## 2026-11-21
+
 ### United States · Japan · Indonesia · Reformasi 1998 · US–Japan Alliance · Japan–Indonesia Relations · US–Indonesia Relations · IJEPA · ODA · Indo-Pacific · ASEAN · JETP · Geopolitics
 
 - [Amerika Serikat, Jepang, dan Indonesia: Dari Krisis 1998 hingga Persaingan Indo-Pasifik 2026 — Politik, Ekonomi, Diplomasi, Pertahanan, dan Kepentingan Nasional](investigations/2026-11-21-amerika-serikat-jepang-dan-indonesia-dari-krisis-1998-hingga-persaingan-indo-pasifik-2026.md)  
