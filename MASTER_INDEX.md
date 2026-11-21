@@ -1,5 +1,10 @@
 ## 2026-11-22
 
+### Indonesian history · Reformasi · Abdurrahman Wahid · Megawati · TAP MPRS XXV/1966 · Political reconciliation · Human rights · Constitutional law
+
+- [Gus Dur, Megawati, dan TAP MPRS XXV/1966: Reformasi, Rekonsiliasi, dan Batas Kekuasaan Presiden](investigations/2026-11-22-gus-dur-megawati-tap-mprs-xxv-1966-reformasi-rekonsiliasi-batas-kekuasaan-presiden.md)  
+  Examines Gus Dur's 2000 proposal to revoke TAP MPRS XXV/MPRS/1966, the political and religious responses, the constitutional limits of presidential authority, and Megawati's succession in July 2001. Does not treat the TAP controversy as the sole cause of Gus Dur's departure. Author-supplied publication URLs are recorded; the archive currently contains metadata and an editorial summary, not a full transcription, because the publication pages were not independently retrieved.
+
 ### Theodore M. Davis · Ancient Egypt · Egyptology · Valley of the Kings · Tutankhamun · KV 54 · KV 62 · The Metropolitan Museum of Art · Provenance · Partage · Museum Ethics
 
 - [Theodore M. Davis: Kolektor Amerika, Penggalian Makam Firaun, dan Perjalanan Benda-Benda Mesir ke Museum Barat](investigations/2026-11-22-theodore-m-davis-kolektor-amerika-penggalian-makam-firaun-dan-perjalanan-benda-benda-mesir-ke-museum-barat.md)  
