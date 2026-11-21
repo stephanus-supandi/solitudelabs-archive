@@ -84,9 +84,9 @@ Sebaliknya, TAP MPRS XXV/MPRS/1966 dinyatakan tetap berlaku dengan ketentuan seb
 
 Dengan demikian, kita harus membedakan dua persoalan:
 
-## 1. Status hukum larangan terhadap PKI dan ajaran komunisme/Marxisme-Leninisme dalam TAP MPRS XXV/MPRS/1966.
+1. Status hukum larangan terhadap PKI dan ajaran komunisme/Marxisme-Leninisme dalam TAP MPRS XXV/MPRS/1966.
 
-## 2. Hak konstitusional individu yang pernah dituduh atau dikaitkan dengan PKI.
+2. Hak konstitusional individu yang pernah dituduh atau dikaitkan dengan PKI.
 
 Keduanya tidak otomatis merupakan persoalan hukum yang sama.
 
@@ -248,13 +248,13 @@ Karena itu, pemulihan hak politik merupakan satu langkah penting, bukan penyeles
 
 Dalam penelitian sejarah, kita harus membedakan setidaknya empat kategori:
 
-## 1. Orang yang terbukti melakukan tindak pidana melalui proses pengadilan.
+1. Orang yang terbukti melakukan tindak pidana melalui proses pengadilan.
 
-## 2. Orang yang pernah menjadi anggota organisasi tertentu.
+2. Orang yang pernah menjadi anggota organisasi tertentu.
 
-## 3. Orang yang pernah dituduh atau ditahan tanpa putusan bersalah.
+3. Orang yang pernah dituduh atau ditahan tanpa putusan bersalah.
 
-## 4. Keluarga dan keturunan orang-orang yang termasuk kategori sebelumnya.
+4. Keluarga dan keturunan orang-orang yang termasuk kategori sebelumnya.
 
 Keempat kategori tersebut tidak boleh disatukan.
 
@@ -302,17 +302,17 @@ Setiap individu dan peristiwa harus diperiksa berdasarkan bukti masing-masing.
 
 ## Sumber dan Dokumen Primer
 
-## 1. Mahkamah Konstitusi Republik Indonesia — Putusan Nomor 011-017/PUU-I/2003, 24 Februari 2004.
+1. Mahkamah Konstitusi Republik Indonesia — Putusan Nomor 011-017/PUU-I/2003, 24 Februari 2004.
 
-## 2. MPR RI — TAP MPR Nomor I/MPR/2003, 7 Agustus 2003.
+2. MPR RI — TAP MPR Nomor I/MPR/2003, 7 Agustus 2003.
 
-## 3. Undang-Undang Nomor 12 Tahun 2003 tentang Pemilihan Umum.
+3. Undang-Undang Nomor 12 Tahun 2003 tentang Pemilihan Umum.
 
-## 4. Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi.
+4. Undang-Undang Nomor 24 Tahun 2003 tentang Mahkamah Konstitusi.
 
-## 5. U.S. Department of State — Country Reports on Human Rights Practices: Indonesia 2002, diterbitkan 31 Maret 2003.
+5. U.S. Department of State — Country Reports on Human Rights Practices: Indonesia 2002, diterbitkan 31 Maret 2003.
 
-## 6. UUD Negara Republik Indonesia Tahun 1945, khususnya ketentuan mengenai persamaan di hadapan hukum dan hak bebas dari diskriminasi.
+6. UUD Negara Republik Indonesia Tahun 1945, khususnya ketentuan mengenai persamaan di hadapan hukum dan hak bebas dari diskriminasi.
 
 ---
 
