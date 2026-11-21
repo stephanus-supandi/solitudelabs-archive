@@ -1,5 +1,27 @@
 ## 2026-11-21
 
+### United States · Barack Obama · Donald Trump · American Politics · Foreign Policy · China · Russia
+
+- [Amerika Serikat: Dari Barack Obama ke Donald Trump — Perubahan Arah Politik, Ekonomi, dan Kebijakan Luar Negeri](investigations/2026-11-21-amerika-serikat-obama-trump-perubahan-arah-politik-ekonomi-kebijakan-luar-negeri.md)  
+  Reviews Barack Obama's and Donald Trump's domestic and foreign-policy approaches, including the 2008 financial crisis, ACA, Iraq and Afghanistan, Iran nuclear deal, Cuba, Pivot to Asia, Russia and Ukraine, Trump's America First agenda, the 2018 US–China trade war, and Trump's return to office in 2025. Distinguishes continuity in US strategic interests from differences in policy style and instruments. WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from WordPress. Blogger URL supplied by author; full Blogger article body and exact cross-platform text were not independently verified.
+
+### China · Russia · Communism · State Capitalism · Oligarchy · Xi Jinping · Vladimir Putin
+
+- [China dan Rusia: Dari Komunisme ke Kapitalisme Negara dan Oligarki — Perjalanan Menuju Persaingan Kekuatan Dunia](investigations/2026-11-21-china-rusia-komunisme-kapitalisme-negara-oligarki.md)  
+  Traces China's reform from Mao to Deng and Xi, its integration into global trade and party-state market economy, and Russia's post-Soviet transition, privatization and oligarchs, Putin's restoration of central state power, energy exports and Nord Stream, NATO enlargement, Georgia, Crimea and the full-scale invasion of Ukraine in 2022. Distinguishes the different political-economic systems and strategic interests of China and Russia. WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from WordPress. Blogger URL supplied by author; full Blogger article body and exact cross-platform text were not independently verified.
+
+### Indonesia · United States · China · Russia · Foreign Policy · Bebas Aktif · BRICS
+
+- [Indonesia di Tengah Persaingan Amerika Serikat, China, dan Rusia — Bebas Aktif, Ekonomi, Energi, dan Kepentingan Nasional](investigations/2026-11-21-indonesia-persaingan-amerika-china-rusia-bebas-aktif.md)  
+  Examines Indonesia's bebas aktif foreign policy amid US–China–Russia competition, covering relations with Washington, Beijing and Moscow; Chinese investment and the Jakarta–Bandung high-speed railway; nickel downstreaming; North Natuna Sea and UNCLOS; the Ukraine war's effects on energy and food; BRICS membership; and the need to strengthen domestic institutions and national capabilities. WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from WordPress. Blogger URL supplied by author; full Blogger article body and exact cross-platform text were not independently verified.
+
+### United States · Indonesia · North Korea · Japan · Kim Jong-nam · Kim Jong-un · Nuclear Weapons
+
+- [Amerika Serikat, Indonesia, Korea Utara, dan Jepang: Diplomasi, Senjata Nuklir, IAEA, dan Masa Depan Energi Asia](investigations/2026-11-21-amerika-indonesia-korut-jepang-nuklir-iaea-pltn.md)  
+  Explains North Korea's Kim dynasty, the 2017 killing of Kim Jong-nam in Malaysia and the Siti Aisyah case, North Korea's nuclear and missile programmes, IAEA safeguards and the NPT, Japan's non-nuclear principles and civilian nuclear power after Fukushima, Indonesia's historic DPRK ties and peaceful nuclear research, the PLTN debate, US extended deterrence, and regional diplomacy. WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from WordPress. Blogger URL supplied by author; full Blogger article body and exact cross-platform text were not independently verified.
+
+## 2026-11-21
+
 ### Science and technology · Global Consciousness Project · GCP · September 11 attacks · Random number generators · Collective consciousness · Statistics · Scientific method · Skepticism
 
 - [GCP dan 9/11: Apakah Mesin Angka Acak Bisa Merasakan Kesadaran Manusia?](investigations/2026-11-21-gcp-911-mesin-angka-acak-kesadaran-manusia.md)  
