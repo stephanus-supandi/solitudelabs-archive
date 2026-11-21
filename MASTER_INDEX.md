@@ -1,5 +1,12 @@
 ## 2026-11-21
 
+### United States · Japan · Indonesia · Reformasi 1998 · US–Japan Alliance · Japan–Indonesia Relations · US–Indonesia Relations · IJEPA · ODA · Indo-Pacific · ASEAN · JETP · Geopolitics
+
+- [Amerika Serikat, Jepang, dan Indonesia: Dari Krisis 1998 hingga Persaingan Indo-Pasifik 2026 — Politik, Ekonomi, Diplomasi, Pertahanan, dan Kepentingan Nasional](investigations/2026-11-21-amerika-serikat-jepang-dan-indonesia-dari-krisis-1998-hingga-persaingan-indo-pasifik-2026.md)  
+  Reviews the United States, Japan, and Indonesia from the 1998 Asian Financial Crisis and Reformasi through the Indo-Pacific policy environment of November 2026. Covers the US–Japan security alliance, Japan–Indonesia diplomacy, ODA and IJEPA, Japanese infrastructure cooperation and the Jakarta–Bandung high-speed rail decision, US–Indonesia relations after 1998, IMET restrictions and normalization, bilateral partnership upgrades, Japan’s defense and energy-policy changes, Fukushima, China and North Korea, JETP, Quad and ASEAN, defense cooperation, and trade-policy developments. Emphasizes the distinction between formal alliances, strategic partnerships, financial commitments, actual disbursements, and verified implementation. WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from WordPress. Blogger URL supplied by the author, but its article body could not be independently retrieved during this update; exact cross-platform text identity is not asserted.
+
+## 2026-11-21
+
 ### North Korea · Kim dynasty · Kim Il-sung · Kim Jong-il · Kim Jong-un · Kim Jong-nam · Political succession · Authoritarianism · East Asian politics
 
 - [Dinasti Kim: Tiga Generasi Kekuasaan Korea Utara — Dari Kim Il-sung hingga Kim Jong-un](investigations/2026-11-21-dinasti-kim-tiga-generasi-kekuasaan-korea-utara-dari-kim-il-sung-hingga-kim-jong-un.md)  
