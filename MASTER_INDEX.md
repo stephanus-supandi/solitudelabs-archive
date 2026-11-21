@@ -1,5 +1,12 @@
 ## 2026-11-21
 
+### North Korea · Kim dynasty · Kim Il-sung · Kim Jong-il · Kim Jong-un · Kim Jong-nam · Political succession · Authoritarianism · East Asian politics
+
+- [Dinasti Kim: Tiga Generasi Kekuasaan Korea Utara — Dari Kim Il-sung hingga Kim Jong-un](investigations/2026-11-21-dinasti-kim-tiga-generasi-kekuasaan-korea-utara-dari-kim-il-sung-hingga-kim-jong-un.md)  
+  Examines the hereditary succession from Kim Il-sung to Kim Jong-il and Kim Jong-un; Kim Jong-nam's exclusion and 2017 killing in Malaysia; Kim Yo-jong and Kim Ju-ae; and the roles of propaganda, party institutions, military, and security services in sustaining the regime. Distinguishes documented history from allegations and speculation about future succession. WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from WordPress. Blogger page returned HTTP 200 and its title/metadata were confirmed, but its article body was not returned; exact cross-platform text identity is not asserted. Personal responsibility for Kim Jong-nam's killing and Kim Ju-ae's succession status are not presented as established facts.
+
+## 2026-11-21
+
 ### United States · Barack Obama · Donald Trump · American Politics · Foreign Policy · China · Russia
 
 - [Amerika Serikat: Dari Barack Obama ke Donald Trump — Perubahan Arah Politik, Ekonomi, dan Kebijakan Luar Negeri](investigations/2026-11-21-amerika-serikat-obama-trump-perubahan-arah-politik-ekonomi-kebijakan-luar-negeri.md)  
