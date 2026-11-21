@@ -2690,5 +2690,45 @@
       "https://www.vatican.va/content/dam/wss/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19641121_lumen-gentium_en.html",
       "https://www.vatican.va/archive/hist_councils/ii_vatican_council/documents/vat-ii_const_19651118_dei-verbum_en.html"
     ]
+  },
+  {
+    "id": "2026-11-21-dinasti-kim-tiga-generasi-kekuasaan-korea-utara-dari-kim-il-sung-hingga-kim-jong-un",
+    "title": "Dinasti Kim: Tiga Generasi Kekuasaan Korea Utara — Dari Kim Il-sung hingga Kim Jong-un",
+    "published": "2026-11-21",
+    "type": "published article",
+    "status": "WordPress publication retrieved and reviewed on 2026-11-21; archive body transcribed from WordPress. Blogger page returned HTTP 200 and title/metadata were confirmed, but its article body was not returned; exact cross-platform text identity is not asserted.",
+    "category": [
+      "North Korea",
+      "Kim Dynasty",
+      "Kim Il-sung",
+      "Kim Jong-il",
+      "Kim Jong-un",
+      "Kim Jong-nam",
+      "Kim Yo-jong",
+      "Kim Ju-ae",
+      "Political Succession",
+      "Authoritarianism",
+      "East Asian Politics",
+      "Geopolitics"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live platform labels/categories were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/21/dinasti-kim-tiga-generasi-kekuasaan-korea-utara-dari-kim-il-sung-hingga-kim-jong-un/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/dinasti-kim-tiga-generasi-kekuasaan.html",
+    "archive_record": "investigations/2026-11-21-dinasti-kim-tiga-generasi-kekuasaan-korea-utara-dari-kim-il-sung-hingga-kim-jong-un.md",
+    "summary": "Examines the hereditary succession from Kim Il-sung to Kim Jong-il and Kim Jong-un; Kim Jong-nam's exclusion and 2017 killing in Malaysia; Kim Yo-jong and Kim Ju-ae; and the roles of propaganda, party institutions, military, and security services in sustaining the regime. Distinguishes documented history from allegations and speculation about future succession.",
+    "open_questions": [
+      "The internal decision-making process behind the 2017 killing of Kim Jong-nam and the extent of any senior-level authorization.",
+      "Kim Ju-ae's formal status, if any, in future succession planning.",
+      "How the balance among the Kim family, Workers' Party, military, and security institutions may evolve."
+    ],
+    "method_note": "The WordPress publication was retrieved and reviewed on 2026-11-21; the archive body is transcribed from the live WordPress article. The Blogger URL was retrieved successfully (HTTP 200) and its title/metadata confirmed, but the scraper returned no article body; exact cross-platform text identity is not asserted. Kim Jong-un's personal responsibility for Kim Jong-nam's killing is not stated as an established judicial finding. Kim Ju-ae's designation as successor remains unconfirmed.",
+    "sources": [
+      "https://www.cfr.org/backgrounders/north-koreas-power-structure",
+      "https://bti-project.org/en/reports/country-report/PRK",
+      "https://www.wilsoncenter.org/sites/default/files/media/documents/publication/ap_understandingthenorthkoreanregime.pdf",
+      "https://www.cambridge.org/core/elements/abs/authoritarian-survival-and-leadership-succession-in-north-korea-and-beyond/1D1C44767A9120DF883A297B771EDF08",
+      "https://www.bbc.com/news/world-asia-39349174",
+      "https://www.lowyinstitute.org/the-interpreter/north-korea-kim-s-daughter-chosen-successor"
+    ]
   }
 ]
