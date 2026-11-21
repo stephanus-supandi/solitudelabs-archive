@@ -263,7 +263,7 @@ Persoalannya adalah keadilan.
 ---
 
 **Publication URLs**
-- WordPress: https://solitudelabs.wordpress.com/2026/11/21/orde-baru-dan-politik-anti-komunisme-1966-1998-tapol-stigma-keturunan-sensor-sejarah-dan-pengawasan-politik/
+- WordPress: https://solitudelabs.wordpress.com/2026/11/21/orde-baru-dan-politik-anti-komunisme-1966-1998-tapol-stigma-keturunan-sensor-sejarah-dan-pengawasan-politik-2/
 - Blogger: https://solitudelabs.blogspot.com/2026/11/orde-baru-dan-politik-anti-komunisme.html
 
-**Archive provenance:** Transcribed from the live Blogger publication retrieved on 2026-11-21. The WordPress URL was supplied by the author but could not be independently retrieved during this archive update. Blogger labels observed on the live page: Antikomunisme; BLOON Investigation; G30S 1965; Hak Asasi Manusia; Orde Baru; PKI; Pulau Buru; Reformasi 1998; Sejarah Indonesia; Sejarah Politik Indonesia; Soeharto; SolitudeLabs; Tahanan Politik.
+**Archive provenance:** Transcribed from the live Blogger publication retrieved on 2026-11-21. The WordPress publication page was retrieved and reviewed on 2026-11-21; its current canonical URL is recorded above. Blogger labels observed on the live page: Antikomunisme; BLOON Investigation; G30S 1965; Hak Asasi Manusia; Orde Baru; PKI; Pulau Buru; Reformasi 1998; Sejarah Indonesia; Sejarah Politik Indonesia; Soeharto; SolitudeLabs; Tahanan Politik.
