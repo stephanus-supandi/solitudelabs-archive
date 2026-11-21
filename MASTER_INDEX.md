@@ -1,3 +1,10 @@
+## 2026-11-21
+
+### Indonesian history · Indonesian politics · Orde Baru · PKI · Anticommunism · Political prisoners · Buru Island · Human rights · Political surveillance · Historical memory
+
+- [Orde Baru dan Politik Anti-Komunisme (1966–1998): Tapol, Stigma Keturunan, Sensor Sejarah, dan Pengawasan Politik](investigations/2026-11-21-orde-baru-politik-anti-komunisme-tapol-stigma-keturunan-1966-1998.md)  
+  Published article examining the institutionalization of anticommunism under the New Order, political prisoners and Buru Island, post-release restrictions, “bersih diri/bersih lingkungan”, Kopkamtib, the official G30S film and historical memory, inherited stigma, and the incomplete transition after 1998. The live Blogger page was retrieved and reviewed on 2026-11-21; its 13 labels were visible. The WordPress URL was supplied by the author but could not be independently retrieved during this archive update. The archive record is transcribed from Blogger; no claim is made that the two platform versions are byte-identical.
+
 ## 2026-11-20
 
 ### Catholicism · Indonesia · eKatolik · Catholic media · Digital religion · Church institutions · Transparency · Funding
