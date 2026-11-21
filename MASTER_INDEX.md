@@ -1,5 +1,12 @@
 ## 2026-11-21
 
+### Indonesian history · Reformasi · Mahkamah Konstitusi · Political rights · PKI · G30S · TAP MPRS XXV/1966 · TAP MPR I/2003 · Human rights · Orde Baru
+
+- [Tahun 2002–2004: Mahkamah Konstitusi, Pemulihan Hak Politik, dan Warisan Hukum Orde Baru]( investigations/2026-11-21-tahun-2002-2004-mahkamah-konstitusi-pemulihan-hak-politik-warisan-hukum-orde-baru.md )  
+  Examines the 2002–2004 constitutional transition, TAP MPR I/MPR/2003, Article 60(g) of Law No. 12/2003, and Constitutional Court Decision No. 011-017/PUU-I/2003. Separates the continuing legal status of TAP MPRS XXV/MPRS/1966 from the restoration of individual political rights, and distinguishes organizational history, allegations, criminal responsibility, and inherited stigma. WordPress post retrieved and transcribed; Blogger URL supplied by the author but its body was not independently retrieved. The archive normalizes one omitted day number to 24 February 2004 and records that editorial correction.
+
+## 2026-11-21
+
 ### United States · Germany · Indonesia · B.J. Habibie · Reformasi 1998 · German Reunification · Telecommunications · AT&T · Deutsche Telekom · NATO · 9/11 · Russia · Ukraine · Geopolitics
 
 - [Amerika Serikat, Jerman, dan Indonesia: Habibie, Reformasi 1998, Telekomunikasi, NATO, dan Perubahan Tatanan Dunia](investigations/2026-11-21-amerika-serikat-jerman-dan-indonesia-habibie-reformasi-1998-telekomunikasi-nato-dan-perubahan-tatanan-dunia.md)  
