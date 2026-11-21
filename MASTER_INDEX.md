@@ -1,5 +1,10 @@
 ## 2026-11-21
 
+### Science and technology · Global Consciousness Project · GCP · September 11 attacks · Random number generators · Collective consciousness · Statistics · Scientific method · Skepticism
+
+- [GCP dan 9/11: Apakah Mesin Angka Acak Bisa Merasakan Kesadaran Manusia?](investigations/2026-11-21-gcp-911-mesin-angka-acak-kesadaran-manusia.md)  
+  Published investigation introducing the GCP's RNG/REG network and reviewing the 9/11 analysis, independent statistical critiques, and the project's own limitations. Separates observed data and reported statistical correlations from claims of precognition or causal influence by collective consciousness. WordPress page retrieved and reviewed; archive body transcribed from WordPress. Blogger page metadata was reachable, but its article body was not returned; exact cross-platform text identity is not asserted.
+
 ### World history · Indonesian history · Asian Financial Crisis · Reformasi 1998 · Gus Dur · PKI · Nazi Germany · Holocaust · Political memory · Human rights
 
 - [TAHUN 2000: Dunia Mengingat Nazi, Indonesia Memperdebatkan PKI](investigations/2026-11-21-tahun-2000-dunia-mengingat-nazi-indonesia-memperdebatkan-pki.md)  
