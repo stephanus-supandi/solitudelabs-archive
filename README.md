@@ -28,6 +28,8 @@ See [METHODOLOGY.md](METHODOLOGY.md).
 
 ## Recent archive additions
 
+- 2026-11-21 — [GCP dan 9/11: Apakah Mesin Angka Acak Bisa Merasakan Kesadaran Manusia?](investigations/2026-11-21-gcp-911-mesin-angka-acak-kesadaran-manusia.md): archives the published GCP/9/11 investigation, including the RNG/REG system, Nelson's analysis, independent criticism, and GCP's caveats. WordPress page retrieved and reviewed; Blogger page metadata reachable but article body not returned, so exact cross-platform text identity is not asserted.
+
 - 2026-11-21 — [TAHUN 2000: Dunia Mengingat Nazi, Indonesia Memperdebatkan PKI](investigations/2026-11-21-tahun-2000-dunia-mengingat-nazi-indonesia-memperdebatkan-pki.md): archives the published investigation linking the 1997 Asian Financial Crisis, Reformasi 1998, Gus Dur's 2000 initiative, Holocaust remembrance, Nazi persecution of German communists, and political memory. Blogger publication retrieved and reviewed; no WordPress URL supplied.
 - 2026-11-21 — [Orde Baru dan Politik Anti-Komunisme (1966–1998): Tapol, Stigma Keturunan, Sensor Sejarah, dan Pengawasan Politik](investigations/2026-11-21-orde-baru-politik-anti-komunisme-tapol-stigma-keturunan-1966-1998.md): archives the published PKI history series article on political prisoners, Buru Island, surveillance, inherited stigma, and New Order historical memory. Both Blogger and WordPress publication pages retrieved and reviewed; archive text transcribed from Blogger.
 
