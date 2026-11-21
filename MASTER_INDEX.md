@@ -1,3 +1,10 @@
+## 2026-11-22
+
+### Art history · Museum collections · Provenance · The Metropolitan Museum of Art · Iran · Egypt · India · Japan · Greece · Germany · Tibet · Mongolia
+
+- [Tujuh Benda, Satu Museum: Menelusuri Jejak Sejarah dari Iran, Mesir, India, Jepang, Yunani, Jerman, hingga Tibet](investigations/2026-11-22-tujuh-benda-satu-museum-menelusuri-jejak-sejarah-dari-iran-mesir-india-jepang-yunani-jerman-hingga-tibet.md)  
+  Investigates seven objects in The Met's collection and records the museum acquisition routes visible in its catalogues. Distinguishes cultural attribution, findspot, prior ownership, and museum acquisition; does not infer looting or legality from incomplete provenance. WordPress post retrieved and transcribed; Blogger URL supplied by the author but its body was not independently retrieved, so exact cross-platform text identity is not asserted.
+
 ## 2026-11-21
 
 ### Indonesian history · Reformasi · Mahkamah Konstitusi · Political rights · PKI · G30S · TAP MPRS XXV/1966 · TAP MPR I/2003 · Human rights · Orde Baru
