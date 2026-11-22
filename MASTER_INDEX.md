@@ -1,5 +1,11 @@
 ## 2026-11-23
 
+### Church history · Parish development · Land and fundraising · KAJ · Community relations
+
+- [Gereja, Umat, dan Perumahan: Siapa yang Membangun Santo Bartolomeus dan Gedung Karya Pastoral di Taman Galaksi](investigations/2026-11-23-gereja-umat-dan-perumahan-siapa-yang-membangun-santo-bartolomeus-dan-gedung-karya-pastoral-di-taman-galaksi.md)
+  Menelusuri sejarah pendirian Paroki Taman Galaxi, asal-usul dan alokasi lahan FASOS, peran umat, pengelola kawasan, pemerintah daerah, dan KAJ, serta sumber pendanaan gedung gereja utama. Angka sekitar Rp1,8 miliar merujuk pada biaya historis gedung gereja utama menurut buku peringatan paroki, bukan biaya GKP. Identitas penggagas, anggaran, sumber dana, kontraktor, perencana, dan kronologi GKP tetap menjadi pertanyaan terbuka. WordPress dan Blogger berhasil diambil dan ditinjau; ringkasan arsip bukan transkripsi. Dokumen tanah, notulen sezaman, laporan keuangan, dan arsip proyek asli belum diperiksa secara independen.
+
+
 ### Urban observation · Google Street View · POI pin audit · Evidence methodology · BLOON
 
 - [Ketika Tampilan Berulang Disangka Bukti Baru: Pelajaran dari Audit Google Street View B139–B140](investigations/2026-11-23-ketika-tampilan-berulang-disangka-bukti-baru-pelajaran-dari-audit-google-street-view-b139-b140.md)
