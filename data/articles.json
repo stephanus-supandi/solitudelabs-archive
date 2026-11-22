@@ -3197,5 +3197,42 @@
       "https://solitudelabs.wordpress.com/2026/11/22/ayu-rosario-dan-tamu-misterius-ketika-otak-bloon-menyusun-cerita-dari-informasi-yang-tidak-lengkap/",
       "https://solitudelabs.blogspot.com/2026/11/ayu-rosario-dan-tamu-misterius-ketika.html"
     ]
+  },
+  {
+    "id": "2026-11-22-sertifikat-tanah-ganda-ketika-dua-dokumen-resmi-mengklaim-tanah-yang-sama",
+    "title": "Sertifikat Tanah Ganda: Ketika Dua Dokumen Resmi Mengklaim Tanah yang Sama",
+    "published": "2026-11-22",
+    "type": "published article",
+    "status": "WordPress post retrieved and reviewed on 2026-11-22; archive summary prepared from the published WordPress article. Blogger URL supplied by the author, but its article body was not independently retrieved; exact cross-platform text identity is not asserted.",
+    "category": [
+      "Land Certificates",
+      "Duplicate Certificates",
+      "Land Disputes",
+      "PPAT",
+      "ATR/BPN",
+      "Indonesian Agrarian Law",
+      "Land Registration",
+      "Legal Certainty",
+      "Public Accountability"
+    ],
+    "category_note": "Archive/editorial classifications only; exact live WordPress categories and Blogger labels were not independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/22/sertifikat-tanah-ganda-ketika-dua-dokumen-resmi-mengklaim-tanah-yang-sama/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/sertifikat-tanah-ganda-ketika-dua.html",
+    "archive_record": "investigations/2026-11-22-sertifikat-tanah-ganda-ketika-dua-dokumen-resmi-mengklaim-tanah-yang-sama.md",
+    "summary": "Examines the legal and administrative problem of two land certificates claiming the same parcel. Explains the evidentiary role of land certificates under Indonesia's land-registration framework; distinguishes overlapping physical data, unclear chains of title, false documents, and abuse of authority as different possible issues; outlines PPAT's role and professional duties; and discusses the Supreme Court's reported jurisprudential position on competing authentic certificates. It emphasizes that the earlier-issued certificate may carry stronger evidentiary weight in the described circumstances, but the outcome cannot be reduced to comparing dates alone: parcel identity, legal basis, registration history, administrative process, and case facts must still be examined. It distinguishes administrative error, civil land disputes, and criminal conduct, and does not presume institutional or individual culpability merely because a dispute exists.",
+    "open_questions": [
+      "Direct primary-document URLs for PP No. 24/1997, PP No. 37/1998, and PP No. 24/2016 should be added after endpoint verification.",
+      "The precise Supreme Court jurisprudence and the factual scope of the reported earlier-certificate principle should be checked against the original decision or official MA publication before use in a specific dispute.",
+      "The cited ATR/BPN guidance dated 22 May 2026 and the 2026 Notarius journal article should be checked against their original publication pages and bibliographic records.",
+      "The Blogger article body was not independently retrieved; exact cross-platform text identity remains unverified."
+    ],
+    "method_note": "This is a general legal and policy discussion, not legal advice on a specific parcel. Do not infer that any named person, PPAT, notary, BPN office, village official, or institution committed wrongdoing merely because a land dispute exists. The reported earlier-certificate principle must be read in the context of the relevant jurisprudence and case facts, not generalized as an unconditional rule that the oldest certificate always wins. WordPress was retrieved and reviewed; Blogger URL supplied by the author, article body not independently retrieved.",
+    "sources": [
+      "https://solitudelabs.wordpress.com/2026/11/22/sertifikat-tanah-ganda-ketika-dua-dokumen-resmi-mengklaim-tanah-yang-sama/",
+      "https://solitudelabs.blogspot.com/2026/11/sertifikat-tanah-ganda-ketika-dua.html",
+      "https://peraturan.bpk.go.id/",
+      "https://putusan3.mahkamahagung.go.id/",
+      "https://www.atrbpn.go.id/"
+    ]
   }
 ]
