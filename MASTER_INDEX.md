@@ -1,5 +1,12 @@
 ## 2026-11-22
 
+### Indonesia · Jakarta Selatan · Kebayoran Baru · Blok M · Urban History · Urban Planning · Land Acquisition · Social History
+
+- [Kebayoran Baru 1948–2026: Dari Kota Satelit Menjadi Kawasan Hunian, Perdagangan, dan Bisnis Jakarta](investigations/2026-11-22-kebayoran-baru-1948-2026-sejarah-kota-satelit-blok-m.md)  
+  Menelusuri perencanaan Kebayoran Baru sejak 1948 sebagai kota satelit di selatan Jakarta, latar kekurangan perumahan pascaperang, peran H. Mohammad Soesilo dan pengaruh gagasan perencanaan Thomas Karsten, serta pembangunan oleh Centrale Stichting Wederopbouw (CSW). Artikel mencatat luas rencana sekitar 730 hektare, penyelesaian formal pada 1954 dengan target perumahan yang belum sepenuhnya tercapai, dan persoalan pembebasan tanah serta kampung-kampung yang terdampak. Bagian berikutnya membahas blok-blok kota, perubahan fungsi hunian dan perdagangan, serta perjalanan Blok M dari pusat komersial dan ruang pergaulan anak muda menuju fase penurunan dan revitalisasi. Pertanyaan tentang komunitas Tionghoa dan perubahan sosial ditempatkan sebagai agenda riset, bukan klaim komposisi etnis. Tidak menyimpulkan bahwa perubahan fungsi lahan, harga properti, atau lokasi usaha membuktikan penguasaan kawasan oleh kelompok tertentu. Publication URLs were supplied by the author; the page bodies were not independently retrieved during this update, so this archive record is an editorial summary rather than a transcription and does not assert exact cross-platform text identity.
+
+## 2026-11-22
+
 ### Indonesia · Jakarta Selatan · Urban History · Tionghoa Indonesia · Kebayoran Baru · Urban Development · Social History
 
 - [Jakarta Selatan: Peta Kota, Sejarah Permukiman, dan Komunitas Tionghoa yang Tidak Bisa Disamakan](investigations/2026-11-22-jakarta-selatan-peta-kota-sejarah-permukiman-dan-komunitas-tionghoa.md)  
