@@ -49,6 +49,21 @@
 - [Tujuh Benda, Satu Museum: Menelusuri Jejak Sejarah dari Iran, Mesir, India, Jepang, Yunani, Jerman, hingga Tibet](investigations/2026-11-22-tujuh-benda-satu-museum-menelusuri-jejak-sejarah-dari-iran-mesir-india-jepang-yunani-jerman-hingga-tibet.md)  
   Investigates seven objects in The Met's collection and records the museum acquisition routes visible in its catalogues. Distinguishes cultural attribution, findspot, prior ownership, and museum acquisition; does not infer looting or legality from incomplete provenance. WordPress post retrieved and transcribed; Blogger URL supplied by the author but its body was not independently retrieved, so exact cross-platform text identity is not asserted.
 
+### Indonesia · Reformasi 1998 · Yusril Ihza Mahendra · Partai Bulan Bintang · Legal Profession · Mining · Conflict of Interest
+
+- [Yusril Ihza Mahendra: Jabatan Negara, Profesi Hukum, dan Jejak Bisnis Tambang yang Perlu Diuji](investigations/2026-11-22-yusril-ihza-mahendra-jabatan-negara-profesi-hukum-dan-jejak-bisnis-tambang-yang-perlu-diuji.md)  
+  Records Yusril's political and public-office career, legal profession, and claims about possible links to mining companies reported by JATAM. Distinguishes documented offices and professional history from unverified corporate links; similarly named companies are not treated as the same legal entity without registry evidence. No wrongdoing or conflict of interest is presumed.
+
+### Indonesian Politics · Reformasi 1998 · Amien Rais · PAN · Partai Ummat · MPR · Presidential Election 2004
+
+- [Amien Rais: Reformasi, PAN, dan Perjalanan dari Oposisi ke Partai Ummat](investigations/2026-11-22-amien-rais-reformasi-pan-dan-perjalanan-dari-oposisi-ke-partai-ummat.md)  
+  Follows Amien Rais from the Reformasi movement and founding of PAN through his MPR leadership, 2004 presidential candidacy, departure from PAN, and founding of Partai Ummat. Distinguishes public political chronology and election results from unsupported assumptions about funding or business relationships.
+
+### Indonesian Politics · Susilo Bambang Yudhoyono · Partai Demokrat · AHY · Ibas · Political Regeneration
+
+- [SBY, AHY, dan Ibas: Kepemimpinan, Partai, dan Regenerasi Politik](investigations/2026-11-22-sby-ahy-dan-ibas-kepemimpinan-partai-dan-regenerasi-politik.md)  
+  Examines SBY's presidency and the political roles of SBY, AHY, and Ibas in Partai Demokrat and state institutions. Discusses family political regeneration while distinguishing party leadership and family relationships from evidence of abuse of public office or corruption.
+
 ## 2026-11-21
 
 ### Indonesian history · Reformasi · Mahkamah Konstitusi · Political rights · PKI · G30S · TAP MPRS XXV/1966 · TAP MPR I/2003 · Human rights · Orde Baru
