@@ -10,6 +10,12 @@
 
 ## 2026-11-22
 
+### Indonesia · Political History · Reformasi 1998 · PKI · Human Rights · Political Stigma · Historical Research
+
+- [Label PKI di Era Reformasi: Antara Sejarah, Tuduhan, Bukti, dan Stigma](investigations/2026-11-22-label-pki-di-era-reformasi-antara-sejarah-tuduhan-bukti-stigma.md)
+  Membahas penggunaan label PKI setelah Reformasi dan membedakan sejarah organisasi yang terdokumentasi, kesaksian, dugaan, tuduhan, serta penetapan hukum. Menolak kesimpulan bersalah berdasarkan hubungan keluarga, pertemanan, tempat tinggal, atau kegiatan penelitian sejarah. Merangkum relevansi TAP MPRS XXV/MPRS/1966, TAP MPR I/MPR/2003, serta UU 1/2023, termasuk pengecualian kajian ilmiah dan ketentuan terkait tuduhan terhadap orang yang masih hidup. URL diberikan penulis; halaman tidak berhasil diambil ulang, sehingga catatan ini merupakan ringkasan editorial berdasarkan draf percakapan, bukan transkripsi.
+
+
 ### Indonesia · DKI Jakarta · Local Government · DPRD · APBD · Bureaucracy · BUMD · Public Accountability
 
 - [Mesin Pemerintahan DKI Jakarta: DPRD, APBD, Birokrasi, dan BUMD — Siapa Mengendalikan Kota?](investigations/2026-11-22-mesin-pemerintahan-dki-jakarta-dprd-apbd-birokrasi-bumd.md)
