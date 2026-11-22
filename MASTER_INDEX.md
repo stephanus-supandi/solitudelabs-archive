@@ -3,7 +3,7 @@
 ### Urban observation · Google Street View · POI pin audit · Evidence methodology · BLOON
 
 - [GSV Audit — Handoff Spec & State](research/gsv-audit/HANDOFF.md)
-  Canonical working handoff consolidating the audit's generative evidence rule, tiers, E26–E44 catalogue, and B78–B93 log. Separates visual identity matching from coordinate verification, records longitudinal n=0 and VERIFIED=0 as reported state, keeps the B86 tenth-match candidate pending, and adds the B87–B93 observations: object-Y/object-X separation, repeated screenshot control, multi-POI location-token sharing, brand-core versus branch/tier matching, and the false “Indomaret Samanhudi” cross-batch recurrence. Post-B86 match/mismatch counters remain unreconciled and are not promoted to verified totals. Based on user-described results; screenshots and coordinates were not independently re-inspected during this archive update.
+  Canonical working handoff extended through B140. Adds B139–B140 and E45–E47; records three exact cross-batch rendered-record recurrences without asserting cache or independent observation; downgrades B137–B139 headline claims from independent breakthroughs to unverified rendered observations; distinguishes hidden-category truncation from a visible name-category inconsistency. B94–B138 are not yet represented in the compact handoff log, and cumulative counters remain unreconciled. Based on user-described results; screenshots and coordinates were not independently re-inspected during this archive update.
 
 
 ### Indonesia · Political Communication · Propaganda · Media Literacy · History Education · Historiography · Collective Memory
