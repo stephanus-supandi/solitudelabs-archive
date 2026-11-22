@@ -1,5 +1,10 @@
 ## 2026-11-22
 
+### Indonesia · Land Registration · Duplicate Certificates · PPAT · ATR/BPN · Agrarian Law · Legal Certainty
+
+- [Sertifikat Tanah Ganda: Ketika Dua Dokumen Resmi Mengklaim Tanah yang Sama](investigations/2026-11-22-sertifikat-tanah-ganda-ketika-dua-dokumen-resmi-mengklaim-tanah-yang-sama.md)  
+  Examines the legal and administrative problem of two land certificates claiming the same parcel. Explains the evidentiary role of land certificates under Indonesia's land-registration framework; distinguishes overlapping physical data, unclear chains of title, false documents, and abuse of authority as different possible issues; outlines PPAT's role and professional duties; and discusses the Supreme Court's reported jurisprudential position on competing authentic certificates. It emphasizes that the earlier-issued certificate may carry stronger evidentiary weight in the described circumstances, but the outcome cannot be reduced to comparing dates alone: parcel identity, legal basis, registration history, administrative process, and case facts must still be examined. It distinguishes administrative error, civil land disputes, and criminal conduct, and does not presume institutional or individual culpability merely because a dispute exists. The article also distinguishes administrative error, civil land disputes, and criminal conduct. WordPress post retrieved and reviewed; Blogger URL supplied by author, but its article body was not independently retrieved, so exact cross-platform text identity is not asserted.
+
 ### BLOON Universe · Critical thinking · Digital literacy · AI · Everyday life
 
 - [Ayu, Rosario, dan Tamu Misterius: Ketika Otak BLOON Menyusun Cerita dari Informasi yang Tidak Lengkap](investigations/2026-11-22-ayu-rosario-dan-tamu-misterius-ketika-otak-bloon-menyusun-cerita-dari-informasi-yang-tidak-lengkap.md)  
