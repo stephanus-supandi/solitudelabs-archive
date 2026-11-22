@@ -1,3 +1,10 @@
+## 2026-11-23
+
+### Indonesia · Political Communication · Propaganda · Media Literacy · History Education · Historiography · Collective Memory
+
+- [Propaganda Politik: Bagaimana Media, Pendidikan, Film, dan Buku Sejarah Membentuk Ingatan Publik](investigations/2026-11-23-propaganda-politik-media-pendidikan-film-buku-sejarah-ingatan-publik.md)
+  Membahas bagaimana seleksi fakta, penghilangan konteks, framing, pengulangan, simbol, dan pesan emosional membentuk persepsi publik. Menggunakan contoh film sejarah, historiografi buku teks, media massa, dan media sosial di Indonesia; membedakan fakta, interpretasi, dan propaganda serta menolak anggapan bahwa narasi tandingan otomatis benar. Hubungan sosial atau politik tidak diperlakukan sebagai bukti konspirasi. URL diberikan penulis; halaman WordPress dan Blogger tidak berhasil diambil ulang pada sesi pembaruan ini, sehingga catatan merupakan ringkasan editorial berdasarkan draf percakapan, bukan transkripsi.
+
 ### Indonesia · Semarang · Bukit Gombel · Hotel History · Property · Urban Exploration · Urban Legends · Historical Verification
 
 - [HOTEL SKY GARDEN SEMARANG: SEJARAH HOTEL MEWAH, SENGKETA LAHAN, RUMOR PEMAKAMAN, DAN LAHIRNYA LEGENDA MISTIS BUKIT GOMBEL](investigations/2026-11-22-hotel-sky-garden-semarang-sejarah-hotel-mewah-sengketa-lahan-rumor-pemakaman-dan-lahirnya-legenda-mistis-bukit-gombel.md)
