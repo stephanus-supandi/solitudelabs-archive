@@ -1,3 +1,8 @@
+### Indonesia · Political History · Constitutional Law · MPR · TAP MPRS XXV/1966 · KUHP Nasional · Human Rights
+
+- [TAP MPR I/MPR/2003: Mengapa TAP MPRS XXV/1966 Tetap Berlaku?](investigations/2026-11-22-tap-mpr-i-mpr-2003-mengapa-tap-mprs-xxv-1966-tetap-berlaku.md)
+  Menjelaskan status TAP MPRS XXV/MPRS/1966 setelah TAP MPR I/MPR/2003, termasuk syarat pelaksanaan yang menghormati keadilan, hukum, demokrasi, dan HAM. Memperluas artikel terkait yang lebih dahulu diarsipkan dengan pembahasan KUHP Nasional yang berlaku sejak 2 Januari 2026, pengecualian kajian ilmiah dalam Pasal 188 ayat (6), Pasal 189, serta Putusan MK Nomor 66/PUU-XXI/2023. Membedakan penelitian akademis dari kegiatan organisasi dan tindak pidana; menolak kesimpulan bersalah berdasarkan hubungan keluarga. URL diberikan penulis; halaman tidak berhasil diambil ulang, sehingga catatan ini merupakan ringkasan editorial berdasarkan draf percakapan, bukan transkripsi.
+
 ### Indonesia · Law · Polri · TNI · Intelligence · Civilian Rights · Human Rights · Arrest · Use of Force · Immigration · Foreign Nationals
 
 - [APARAT BERPAKAIAN SIPIL: BATAS KEWENANGAN POLISI, MILITER, INTELIJEN, DAN HAK MASYARAKAT SIPIL — TERMASUK WNA](investigations/2026-11-22-aparat-berpakaian-sipil-batas-kewenangan-polisi-militer-intelijen-hak-masyarakat-sipil-termasuk-wna.md)
