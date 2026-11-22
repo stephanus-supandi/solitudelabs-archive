@@ -2,9 +2,9 @@
 title: "GSV Audit — Handoff Spec & State"
 project: "SolitudeLabs"
 document_type: "audit-handoff"
-version: "1.1"
+version: "1.2"
 status: "working"
-last_batch: "B93"
+last_batch: "B140"
 last_updated: "2026-11-23"
 language: "id"
 canonical_source: true
@@ -14,7 +14,7 @@ canonical_source: true
 
 > Dokumen handoff ringkas untuk model penerus dan peneliti. Isinya satu definisi aturan, tier pembuktian, state, katalog eskalasi, log batch, dan jebakan yang sudah dilewati. Laporan batch lengkap tetap menjadi jejak kerja terpisah. Prinsip utamanya: jangan menghakimi benar/salahnya koordinat hanya dari tampilan Street View.
 
-**Status sumber:** Dokumen ini merangkum deskripsi dan hasil audit yang disampaikan pengguna sampai B93. Screenshot asli, koordinat, data listing mentah, dan catatan lapangan tidak diperiksa ulang dalam proses pengarsipan ini. Angka kumulatif di bawah adalah state yang dilaporkan, bukan hasil hitung ulang independen dari seluruh arsip mentah.
+**Status sumber:** Dokumen ini memuat state lama sampai B93 serta tambahan B139–B140 berdasarkan deskripsi audit pengguna. Batch B94–B138 belum dimasukkan ke log handoff ini; jangan menganggap rentang itu telah direkonstruksi atau diaudit ulang di sini. Screenshot asli, koordinat, data listing mentah, dan catatan lapangan B139–B140 tidak diperiksa ulang dalam proses pengarsipan ini. Angka kumulatif yang belum direkonsiliasi tetap berstatus laporan, bukan hasil hitung ulang independen.
 
 ## 0. Tugas dan batas ruang lingkup
 
@@ -55,18 +55,18 @@ Syarat record-hilang tidak terpenuhi hanya karena pin tidak tampak dalam screens
 
 Tier berlaku pada klaim yang spesifik, bukan otomatis pada seluruh POI atau seluruh batch. Dari SV saja, plafon praktis adalah observasi visual dan gejala; koordinat tetap belum terverifikasi.
 
-## 3. State terkini — per B93 (sementara; counter belum direkonsiliasi)
+## 3. State terkini — per B140 (sementara; counter belum direkonsiliasi)
 
-- **Slot longitudinal (entitas/listing sama dengan koordinat yang dapat dibandingkan pada pass berbeda): n = 0**, dilaporkan kosong **38 batch/uji**. Ini adalah hitungan laporan pengguna, bukan hitung ulang independen. B90↔B93 “Indomaret Samanhudi” tidak memenuhi identitas cabang/koordinat yang sama; kemiripan nama bukan re-appearance.
-- **Slot uji proyeksi terverifikasi:** kosong. Tidak ada kasus `VERIFIED` yang dilaporkan (TASK 116A).
-- **Counter match-fisik-eksternal-kebaca-penuh:** **belum direkonsiliasi setelah B86**. Baseline terakhir yang dapat dipertahankan dari handoff lama adalah 9 sampai B84; B86-Img4 tetap pending karena deskripsi “match penuh” bertentangan dengan “fasad-live parsial”. B87–B93 menambah kandidat yang perlu dihitung dengan definisi seragam; angka 18× yang dilaporkan pengguna **tidak diadopsi sebagai total terverifikasi** dalam handoff ini.
-- **Counter mismatch:** baseline 11× sampai B86 adalah angka yang dilaporkan dan belum direkonsiliasi per kasus. Angka 27× yang dilaporkan untuk B93 **belum diadopsi**: adjacent-NPC (mis. signage tenant lain) dan status UNRESOLVED-tipis-cabang tidak otomatis dihitung sebagai mismatch dalam counter kumulatif. Catat sebagai observasi/kategori terpisah sampai definisi counter dipastikan.
-- **Counter anomali name-vs-kategori:** 3× menurut laporan pengguna; B93 tidak menambah kasus. Angka tetap berstatus reported, belum dihitung ulang dari seluruh batch.
-- **Re-appearance listing-aktif intra-batch:** 2× menurut laporan pengguna (B83 Mie Ayam A3; B89 BNI KLN Krekot); B93 tidak menambah. Ini bukan uji longitudinal.
-- **Duplikat-frame lintas-batch:** pola 3 batch berturut (B89/B90/B91 Img1 = RPTRA Pintu Air) berhenti pada B92; B93 juga tidak mengulang frame tersebut.
-- **Kontras bulan dalam satu batch:** 3× menurut laporan pengguna (B86–B88); B89–B93 dilaporkan homogen Apr-25.
-- **Zona/era yang dilaporkan:** B87 industrial corridor (Aug 2024 + May 2025); B88 May/Apr 2025; B89–B93 koridor Samanhudi/Pasar Baru/Krekot, mayoritas/homogen Apr 2025 sesuai laporan batch.
-- **Batas sumber:** seluruh rincian B87–B93 berasal dari deskripsi pengguna. Screenshot asli, koordinat, data listing mentah, dan catatan lapangan tidak diperiksa ulang dalam proses pembaruan ini. Counter yang belum direkonsiliasi sengaja tidak dipromosikan menjadi state terverifikasi.
+- **Lensa spasial terverifikasi:** 0 pada B139–B140 menurut laporan pengguna; tidak ada koordinat pembanding atau bukti lapangan baru yang disampaikan. Ini bukan audit ulang seluruh rentang B94–B138.
+- **Slot longitudinal:** baseline terakhir dalam handoff lama adalah n=0 sampai B93 (38× dilaporkan). B139–B140 tidak menambah uji yang memenuhi syarat: tidak ada identitas listing dan koordinat yang dapat dibandingkan pada pass independen. Rentang B94–B138 belum direkonsiliasi dalam dokumen ini; jangan mengubah angka kumulatif tanpa meninjau batch tersebut.
+- **VERIFIED:** tidak ada klaim baru. B139–B140 tetap pada plafon observasi tampilan/metadata dan hipotesis.
+- **Counter match fisik dan mismatch:** tetap belum direkonsiliasi setelah B86/B93. Tidak ada angka total baru yang diadopsi dari B139–B140.
+- **B139:** koridor Jakarta Pusat/Samanhudi–Krekot Bunder–Pasar Baru dilaporkan homogen Apr 2025. Label jalan yang lebih lengkap pada beberapa frame dibanding B138 tidak membuktikan resolusi database atau koordinat; sudut pandang/crop merupakan penjelasan yang mungkin. Suffix Romawi dicatat sebagai bagian label ruas yang tampil, bukan designator blok yang telah diverifikasi.
+- **B140:** tiga pasangan record lintas-batch dilaporkan berulang dengan teks/angka panel identik: B137 f3 ↔ B140 f4; B138 f5 ↔ B140 f2; B139 f2 ↔ B140 f5. Catat sebagai exact rendered-record recurrence menurut laporan pengguna. Pengulangan tidak membuktikan observasi independen, tetapi juga belum cukup untuk memastikan mekanisme cache atau satu sesi yang sama.
+- **Koreksi status klaim lama:** headline B137–B139 tidak boleh diperlakukan sebagai breakthrough independen hanya berdasarkan tampilan yang dilaporkan. B137 tetap inkonsistensi nama/kategori pada panel yang tampil; B138 tetap metadata usia citra relatif yang referensi waktunya belum diverifikasi; B139 tetap perbedaan keterbacaan label jalan. B140 menurunkan keyakinan pada independensi pengulangan, bukan membuktikan mekanisme teknis tertentu.
+- **Aturan mismatch diperjelas:** nama dan kategori harus sama-sama terlihat dan saling bertentangan untuk dicatat sebagai inkonsistensi semantik internal pada listing yang dirender. Jika kategori terpotong/tidak terlihat (B140 f1 “Gs Astra”), statusnya unresolvable, bukan mismatch. Inkonsistensi nama-kategori (B140 f4 “Nasi Uduk…” vs “Motorcycle repair shop”) tetap bukan bukti salah koordinat.
+- **Batas sumber:** semua rincian B139–B140 berasal dari deskripsi pengguna. Screenshot asli, koordinat, metadata listing mentah, dan catatan lapangan tidak diperiksa ulang. Log B94–B138 belum diperbarui di handoff ini.
+
 ## 4. Katalog eskalasi dan perluasan
 
 | ID | Batch | Isi ringkas | Batas/verdict |
@@ -110,6 +110,8 @@ Tier berlaku pada klaim yang spesifik, bukan otomatis pada seluruh POI atau selu
 | B91 | Apr 2025, Samanhudi/Krekot | RPTRA Pintu Air Img1 dilaporkan sama dengan B89/B90; duplikasi satu frame lintas tiga batch, bukan tiga pass; “Samanhudi” bertambah sebagai token lintas POI | 0 uji |
 | B92 | Apr 2025, Samanhudi/Pasar Baru/Krekot | GKI Samanhudi dilaporkan sebagai match identitas melalui padanan nama; Scuto/Indomaret/Yamaha memperjelas aturan pembeda cabang/tier dua-arah (B92-#14); Domino’s dan Baru Toko memerlukan pemisahan sumber teks/field | 0 uji |
 | B93 | Apr 2025, Samanhudi/Pasar Baru/Krekot | Motor Mahkota satu match identitas (banner + thumbnail); Scuto Platinum dan Indomaret Samanhudi unresolved-tipis-cabang; kemiripan nama penuh Indomaret B90↔B93 bukan re-appearance; Img4/5 ko-lokasi dua POI | 0 uji |
+| B139 | Apr 2025, Jakarta Pusat: Samanhudi/Krekot Bunder/Pasar Baru | Label “Jl. Krekot Bunder IV” terbaca lebih lengkap dibanding potongan label B138; Bank Sinarmas tampil dalam dua pose dengan cluster sekitar berbeda; banner Laba-Laba terlihat lintas-tile; token “Sinar” muncul pada kategori berbeda; nama POI memuat beberapa toponym | Tidak ada lensa spasial baru; keterbacaan, rekurensi token, multi-tenant, dan metadata tetap belum memverifikasi koordinat |
+| B140 | Apr 2025, Jakarta Pusat: Samanhudi/Pecenongan | Tiga record panel dilaporkan berulang persis dari B137–B139; satu fasad memuat banyak signage/tenant; kategori Muay Thai gym; “Gs Astra” panel kategori tersembunyi; “Nasi Uduk” vs “Motorcycle repair shop” tampak inkonsisten | Exact recurrence bukan observasi independen atau bukti cache; hidden category bukan mismatch; inkonsistensi listing bukan salah koordinat |
 
 ## 6. Jebakan yang sudah dilewati
 
@@ -127,6 +129,10 @@ Tier berlaku pada klaim yang spesifik, bukan otomatis pada seluruh POI atau selu
 12. **B93-#17 — konflik tier/lokasi dua-arah.** Kecocokan brand-core tidak menghapus konflik pada nama pembeda cabang atau tier. Jangan menaikkan ke match penuh hanya karena fasad kaya signage.
 13. **B93-type — ko-lokasi satu scene dua POI.** Img4/Img5 dilaporkan berbagi scene tetapi mewakili Indomaret dan hotel yang berbeda; objek pengikat menunjukkan konteks scene, bukan penyatuan entitas.
 14. **Adjacent-NPC tetap kategori tersendiri.** Signage tenant lain pada frame pin POI (termasuk motor, minimarket, bank, atau nama kompleks) tidak otomatis menjadi mismatch listing; klasifikasikan sebagai signage sekitar sampai ada bukti pembanding yang memenuhi definisi mismatch.
+15. **B139-type — label jalan lebih terbaca bukan resolusi spasial.** Perubahan parsial menjadi lengkap dapat disebabkan pose, sudut pandang, atau crop. Suffix ruas/angka Romawi yang tampil bukan koordinat dan tidak otomatis membuktikan designator blok.
+16. **B140-type — exact recurrence lintas-batch bukan observasi independen.** Teks, rating, kategori, status, dan angka yang identik dapat berasal dari record/listing atau tampilan yang sama. Catat recurrence; jangan menyimpulkan cache, satu sesi, atau korroborasi independen tanpa bukti teknis/sumber independen.
+17. **B140-type — kategori tersembunyi bukan mismatch.** Mismatch semantik internal mensyaratkan nama dan kategori sama-sama terbaca dan saling bertentangan. Jika salah satu field terpotong/tidak tampil, gunakan unresolved/unresolvable.
+18. **Inkonsistensi listing ≠ salah koordinat.** Konflik nama-kategori yang tampak pada panel hanya mendukung catatan kualitas/semantik data yang dirender; penempatan pin memerlukan bukti spasial terpisah.
 
 ## 7. Prosedur melanjutkan audit
 
@@ -138,12 +144,15 @@ Tier berlaku pada klaim yang spesifik, bukan otomatis pada seluruh POI atau selu
 6. Perbarui counter hanya jika definisi counter terpenuhi. Simpan kandidat yang belum jelas sebagai pending, bukan dipaksakan masuk hitungan.
 7. Jangan menambah klaim `VERIFIED` tanpa bukti independen yang relevan. Jangan memakai watermark © sebagai tanggal capture. Jangan menghitung frame homogen sebagai sampel bebas.
 8. Simpan laporan batch mentah sebagai jejak audit terpisah; handoff ini hanya memuat aturan stabil, state kumulatif, katalog eskalasi, dan log satu baris.
+9. Saat record berulang lintas-batch, bandingkan seluruh teks/angka panel dan chrome, lalu catat tingkat kemiripannya. Jangan menyebut cache atau sesi yang sama tanpa bukti teknis; jangan menghitung recurrence sebagai sampel independen.
+10. Bedakan field yang tidak terlihat karena truncation dari field yang terlihat dan bertentangan. Catat inkonsistensi semantik listing secara terpisah dari penilaian posisi pin.
 
 ## 8. Riwayat perubahan
 
 - **2026-11-23 — v1.0:** Handoff pertama disusun dari state yang dilaporkan sampai B86. Kandidat match ke-10 B86 ditahan untuk review; counter mismatch 11× dipertahankan sebagai angka yang dilaporkan dan belum direkonsiliasi.
 - **2026-11-23 — v1.1:** Diperluas sampai B93: log B87–B93, E41–E44, duplikasi frame B89–B91, token lokasi multi-POI, aturan brand-core vs pembeda cabang/tier, dan jebakan nama entitas penuh mirip lintas-batch. Counter 18× match dan 27× mismatch yang dilaporkan pengguna tidak diadopsi karena baseline dan definisi counter belum direkonsiliasi. Semua batch baru diringkas dari deskripsi pengguna; screenshot/koordinat tidak diperiksa ulang.
+- **2026-11-23 — v1.2:** Menambahkan B139–B140 dan E45–E47; menegaskan label jalan yang lebih terbaca bukan resolusi koordinat, exact recurrence lintas-batch bukan observasi independen atau bukti cache, serta kategori tersembunyi bukan mismatch. Status breakthrough B137–B139 diturunkan dari klaim independen menjadi observasi/metadata yang belum diverifikasi. Rentang B94–B138 tetap belum dimasukkan ke handoff ini; counter kumulatif tidak direkonstruksi. Semua tambahan berbasis deskripsi pengguna; screenshot/koordinat tidak diperiksa ulang.
 
 ---
 
-**State ringkas:** B93; longitudinal n=0 (38× dilaporkan); VERIFIED=0; baseline match terkonfirmasi terakhir=9 sampai B84, B86 pending, B87–B93 belum direkonsiliasi; mismatch baseline 11× sampai B86, angka 27× yang dilaporkan belum diadopsi; seluruh angka bersifat sementara dan berbasis laporan pengguna.
+**State ringkas:** B140 (dengan log yang tersedia sampai B93 lalu tambahan B139–B140; B94–B138 belum dimasukkan); tidak ada lensa spasial baru pada B139–B140; VERIFIED baru=0; slot longitudinal terakhir yang tercatat n=0 sampai B93 dan tidak bertambah dari B139–B140; counter match/mismatch tetap belum direkonsiliasi; seluruh angka bersifat sementara dan berbasis laporan pengguna.
