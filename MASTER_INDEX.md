@@ -1,5 +1,11 @@
 ## 2026-11-22
 
+### Indonesia · Jakarta Selatan · Kebayoran Baru · Petogogan · Kampung Leuser · Urban History · Informal Settlements · Land Disputes
+
+- [Petogogan dan Kampung Leuser: Dua Kampung di Kebayoran Baru, Dua Sejarah yang Berbeda](investigations/2026-11-22-petogogan-kampung-leuser-dua-sejarah-kebayoran-baru.md)
+  Membandingkan riwayat Petogogan sebagai permukiman yang berkembang dari bedeng pekerja dan riwayat Kampung Leuser sebagai permukiman informal di kawasan sabuk hijau timur. Merangkum klaim penghunian, hubungan awal dengan fasilitas PAM Jaya, dan sengketa HGB berdasarkan penelitian akademik. Membedakan kesaksian warga, penghunian fisik, dokumen pertanahan, dan hak kepemilikan; tidak menyimpulkan status hukum terkini. URL publikasi diberikan penulis; halaman tidak diambil ulang saat pembaruan arsip, sehingga catatan ini merupakan ringkasan editorial, bukan transkripsi.
+
+
 ### Indonesia · Jakarta Selatan · Kebayoran Baru · Blok M · Urban History · Urban Planning · Land Acquisition · Social History
 
 - [Kebayoran Baru 1948–2026: Dari Kota Satelit Menjadi Kawasan Hunian, Perdagangan, dan Bisnis Jakarta](investigations/2026-11-22-kebayoran-baru-1948-2026-sejarah-kota-satelit-blok-m.md)  
