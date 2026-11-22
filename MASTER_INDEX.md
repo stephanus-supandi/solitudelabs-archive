@@ -1,3 +1,8 @@
+### Indonesia · Law · Polri · TNI · Intelligence · Civilian Rights · Human Rights · Arrest · Use of Force · Immigration · Foreign Nationals
+
+- [APARAT BERPAKAIAN SIPIL: BATAS KEWENANGAN POLISI, MILITER, INTELIJEN, DAN HAK MASYARAKAT SIPIL — TERMASUK WNA](investigations/2026-11-22-aparat-berpakaian-sipil-batas-kewenangan-polisi-militer-intelijen-hak-masyarakat-sipil-termasuk-wna.md)
+  Mengkaji batas kewenangan polisi, TNI, intelijen, dan petugas imigrasi ketika bertugas dengan pakaian sipil; membedakan penyelidikan, penangkapan, penahanan, dan tindakan administratif keimigrasian; serta membahas penggunaan kekuatan, hak dasar WNA, dan hak konsuler. Menegaskan bahwa pakaian sipil tidak otomatis membuat tindakan ilegal, sementara klaim sebagai aparat tidak memberikan kewenangan tanpa batas. URL publikasi diberikan penulis; halaman tidak berhasil diambil ulang pada sesi pembaruan ini, sehingga catatan merupakan ringkasan editorial berdasarkan draf artikel, bukan transkripsi. Rujukan hukum dan status peraturan pelaksana perlu diperiksa kembali sebelum digunakan untuk menilai kasus konkret.
+
 ## 2026-11-22
 
 ### Indonesia · DKI Jakarta · Local Government · DPRD · APBD · Bureaucracy · BUMD · Public Accountability
