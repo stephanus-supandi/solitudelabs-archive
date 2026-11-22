@@ -4,7 +4,7 @@
     "title": "Propaganda Politik: Bagaimana Media, Pendidikan, Film, dan Buku Sejarah Membentuk Ingatan Publik",
     "published": "2026-11-23",
     "type": "published article",
-    "status": "Publication URLs supplied by the author. Direct retrieval of the WordPress and Blogger page bodies was unsuccessful during this archive update; this is an editorial summary based on the article draft in the conversation, not a verbatim transcription. Exact cross-platform text identity is not asserted.",
+    "status": "WordPress page retrieved and reviewed on 2026-11-23. Blogger URL supplied by the author, but automated retrieval failed during this update; exact cross-platform text identity is not asserted. This is an editorial summary, not a verbatim transcription.",
     "category": [
       "Indonesia",
       "Political Communication",
@@ -28,7 +28,7 @@
       "Bagaimana pengaruh pengulangan pesan di media sosial dapat diukur tanpa menganggap jumlah unggahan sebagai jumlah sumber independen?",
       "Arsip, dokumen produksi, dan catatan kebijakan apa yang dapat menguji hubungan antara pembuat media, pendanaan, dan institusi negara?"
     ],
-    "method_note": "Ringkasan editorial berdasarkan draf artikel dalam percakapan dan URL yang diberikan penulis, bukan transkripsi penuh. Pengambilan langsung kedua halaman publikasi tidak berhasil pada sesi pembaruan arsip ini; kesamaan teks Blogger dan WordPress tidak diklaim telah diverifikasi. Artikel bukan audit menyeluruh atas seluruh media, kurikulum, film, atau buku sejarah Indonesia. Contoh yang dibahas bukan bukti bahwa seluruh institusi media atau pendidikan merupakan alat propaganda. Jangan menyimpulkan pengendalian narasi atau konspirasi hanya dari relasi sosial, politik, bisnis, keluarga, atau organisasi. Pisahkan fakta, interpretasi, klaim, dan hal yang belum diketahui.",
+    "method_note": "Ringkasan editorial berdasarkan draf artikel dan isi halaman WordPress yang berhasil diambil pada 2026-11-23, bukan transkripsi penuh. Halaman Blogger diberikan oleh penulis, tetapi pengambilan otomatisnya tidak berhasil; kesamaan teks Blogger dan WordPress tidak diklaim telah diverifikasi. Artikel bukan audit menyeluruh atas seluruh media, kurikulum, film, atau buku sejarah Indonesia. Contoh yang dibahas bukan bukti bahwa seluruh institusi media atau pendidikan merupakan alat propaganda. Jangan menyimpulkan pengendalian narasi atau konspirasi hanya dari relasi sosial, politik, bisnis, keluarga, atau organisasi. Pisahkan fakta, interpretasi, klaim, dan hal yang belum diketahui.",
     "sources": [
       "Gloria Truly Estrelita (2024), “Beyond Leftist-Phobia: Political Prejudice and Stigma in Indonesia.”",
       "Heru Budiono and Alfian Fahmi Awaludin (2017), “Perkembangan Historiografi Buku Teks Sejarah di Indonesia Masa Orde Baru Hingga Reformasi.”",
@@ -3744,6 +3744,39 @@
       "Arina Zulfa Ul Haq (2025-09-30), Misteri 'Makam' di Tanjakan Gombel Semarang, Ternyata..., detikJateng. https://www.detik.com/jateng/berita/d-8138461/misteri-makam-di-tanjakan-gombel-semarang-ternyata",
       "IDN Times, PM.AM Season 2 Episode 3: Eks Hotel Sky Garden, Semarang. https://www.idntimes.com/hype/entertainment/pmam-s02e03-hotel-sky-garden-semarang-00-w3qsy-kk6t85",
       "Halo Semarang (2019-07-23), Warga di Kedungmundu dan Sendangguwo, Nyaman Hidup Berdampingan dengan Makam China Kuno. https://halosemarang.id/warga-di-kedungmundu-dan-sendangguwo-nyaman-hidup-berdampingan-dengan-makam-china-kuno/"
+    ]
+  },
+  {
+    "id": "2026-11-23-ketika-tampilan-berulang-disangka-bukti-baru-pelajaran-dari-audit-google-street-view-b139-b140",
+    "title": "Ketika Tampilan Berulang Disangka Bukti Baru: Pelajaran dari Audit Google Street View B139–B140",
+    "published": "2026-11-23",
+    "type": "published article",
+    "status": "WordPress page retrieved and reviewed on 2026-11-23. Blogger URL supplied by the author, but automated retrieval failed during this update; exact cross-platform text identity is not asserted. This is an editorial summary based on the WordPress page and reported batch notes, not a verbatim transcription.",
+    "category": [
+      "Google Street View",
+      "Urban Observation",
+      "POI Audit",
+      "Digital Mapping",
+      "Evidence Methodology",
+      "Data Literacy",
+      "Indonesia",
+      "Jakarta Pusat"
+    ],
+    "category_note": "Archive/editorial classifications; no POI coordinate is represented as independently verified.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/23/ketika-tampilan-berulang-disangka-bukti-baru-pelajaran-dari-audit-google-street-view-b139-b140-2/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/ketika-tampilan-berulang-disangka-bukti.html",
+    "archive_record": "investigations/2026-11-23-ketika-tampilan-berulang-disangka-bukti-baru-pelajaran-dari-audit-google-street-view-b139-b140.md",
+    "summary": "Menggunakan audit Google Street View B139–B140 untuk membedakan pengamatan visual, pengulangan record POI, dan verifikasi spasial. B139 memperlihatkan nama jalan yang terbaca lebih lengkap, tetapi keterbacaan tidak memverifikasi koordinat. B140 melaporkan tiga panel POI yang berulang identik lintas batch; ini dicatat sebagai exact cross-batch rendered-record recurrence, bukan bukti cache atau observasi independen. Artikel membedakan inkonsistensi semantik nama-kategori pada panel Nasi Uduk Srirostika dari kesalahan spasial, serta menegaskan bahwa kategori tersembunyi bukan mismatch dan banyak signage dalam satu scene tidak membuktikan pin tepat. Identitas visual, record aplikasi, dan koordinat aktual harus diperiksa secara terpisah.",
+    "open_questions": [
+      "Dapatkah identitas record dan koordinat POI dibandingkan pada pass yang benar-benar berbeda?",
+      "Bukti apa yang dapat membedakan pengulangan record dari pengamatan independen?",
+      "Apakah data listing mentah atau dokumentasi teknis dapat menguji dugaan mekanisme cache?",
+      "Bagaimana anomali nama-kategori dapat diverifikasi melalui registri usaha, operator, atau survei lapangan?"
+    ],
+    "method_note": "Halaman WordPress berhasil diambil dan ditinjau pada 2026-11-23. Halaman Blogger diberikan oleh penulis, tetapi pengambilan otomatisnya tidak berhasil; kesamaan teks Blogger dan WordPress tidak diklaim telah diverifikasi. Ringkasan mencatat isi artikel WordPress dan deskripsi batch pengguna. Screenshot asli, koordinat, data listing mentah, dan catatan lapangan tidak diperiksa ulang secara independen dalam pembaruan arsip ini. Tidak ada klaim koordinat POI terverifikasi atau mekanisme cache terbukti.",
+    "sources": [
+      "https://solitudelabs.wordpress.com/2026/11/23/ketika-tampilan-berulang-disangka-bukti-baru-pelajaran-dari-audit-google-street-view-b139-b140-2/",
+      "https://solitudelabs.blogspot.com/2026/11/ketika-tampilan-berulang-disangka-bukti.html"
     ]
   }
 ]
