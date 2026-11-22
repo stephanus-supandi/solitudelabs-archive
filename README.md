@@ -21,9 +21,9 @@ SolitudeLabs articles are published on [WordPress](https://solitudelabs.wordpres
 
 ## Current coverage
 
-The archive also maintains working Street View observation dossiers. The GSV audit handoff consolidates the pin/listing evidence rules and reported state through B93; it explicitly keeps visual identity matches separate from coordinate verification and records unresolved counters as pending where the supplied descriptions conflict.
+The archive also maintains working Street View observation dossiers. The GSV audit handoff consolidates the pin/listing evidence rules and reported observations through B140 (with B94–B138 not yet added to the compact handoff log); it separates visual identity, rendered-listing inconsistencies, record recurrence, and coordinate verification.
 
-**Temporary B93 state:** Longitudinal n=0 (38× reported), VERIFIED=0. Cumulative match and mismatch counters after B86 remain unreconciled; the user-reported 18×/27× totals are intentionally not treated as verified archive totals.
+**Temporary B140 state:** B139–B140 add no verified spatial lens. Three exact cross-batch rendered-record recurrences are reported in B140, but they do not establish independent observations or prove a cache mechanism. Hidden/truncated category text is not a mismatch. Longitudinal baseline n=0 through B93 remains unchanged by B139–B140; B94–B138 and cumulative match/mismatch counters remain unreconciled.
 
 ## Method
 
