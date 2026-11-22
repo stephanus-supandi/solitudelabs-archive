@@ -26,7 +26,7 @@ Artikel membedakan fakta yang dapat diperiksa, interpretasi yang harus didukung 
 
 ## Batas dan catatan metodologis
 
-Ini adalah ringkasan editorial berdasarkan draf artikel dalam percakapan dan URL publikasi yang diberikan penulis, bukan transkripsi penuh halaman. Pengambilan langsung kedua halaman publikasi tidak berhasil pada sesi pembaruan arsip ini; karena itu kesamaan teks Blogger dan WordPress tidak diklaim telah diverifikasi.
+Ini adalah ringkasan editorial berdasarkan draf artikel dalam percakapan dan URL publikasi yang diberikan penulis, bukan transkripsi penuh halaman. Halaman WordPress berhasil diambil dan ditinjau pada 2026-11-23. Halaman Blogger diberikan oleh penulis, tetapi pengambilan otomatisnya tidak berhasil pada sesi ini; karena itu kesamaan teks Blogger dan WordPress tidak diklaim telah diverifikasi.
 
 Artikel bukan audit menyeluruh atas seluruh media, kurikulum, film, atau buku sejarah Indonesia. Contoh film dan historiografi digunakan sebagai kasus pembahasan, bukan bukti bahwa seluruh institusi media atau pendidikan merupakan alat propaganda. Jangan menyimpulkan adanya pengendalian narasi atau konspirasi hanya dari relasi sosial, politik, bisnis, keluarga, atau organisasi. Pisahkan fakta, interpretasi, klaim, dan hal yang belum diketahui.
 
