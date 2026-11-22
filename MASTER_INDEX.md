@@ -1,5 +1,11 @@
 ## 2026-11-23
 
+### Urban observation · Google Street View · POI pin audit · Evidence methodology · BLOON
+
+- [GSV Audit — Handoff Spec & State](research/gsv-audit/HANDOFF.md)
+  Canonical working handoff consolidating the audit's generative evidence rule, tiers, E26–E40 catalogue, and B78–B86 log. Separates visual identity matching from coordinate verification, records longitudinal n=0 and VERIFIED=0 as reported state, and leaves the B86 tenth-match candidate pending review because the supplied description calls it both a full match and a partial live-facade match. Based on user-described results; screenshots and coordinates were not independently re-inspected during this archive update.
+
+
 ### Indonesia · Political Communication · Propaganda · Media Literacy · History Education · Historiography · Collective Memory
 
 - [Propaganda Politik: Bagaimana Media, Pendidikan, Film, dan Buku Sejarah Membentuk Ingatan Publik](investigations/2026-11-23-propaganda-politik-media-pendidikan-film-buku-sejarah-ingatan-publik.md)
