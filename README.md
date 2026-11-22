@@ -17,16 +17,19 @@ SolitudeLabs articles are published on [WordPress](https://solitudelabs.wordpres
 - [MASTER_INDEX.md](MASTER_INDEX.md) — chronological archive index.
 - [data/articles.json](data/articles.json) — structured metadata for published articles.
 - [investigations/](investigations/) — individual archive records and research notes.
+- [research/gsv-audit/HANDOFF.md](research/gsv-audit/HANDOFF.md) — canonical GSV audit rules, evidence tiers, cumulative state, batch log, and handoff safeguards.
 
 ## Current coverage
 
-The November 6, 2026 records document neighborhood-level urban observation in Taman Galaxy, Bekasi, and a location-history inquiry concerning Samsung after-sales service at Mega Bekasi Hypermall.
+The archive also maintains working Street View observation dossiers. The GSV audit handoff consolidates the pin/listing evidence rules and reported state through B86; it explicitly keeps visual identity matches separate from coordinate verification and records unresolved counters as pending where the supplied descriptions conflict.
 
 ## Method
 
 See [METHODOLOGY.md](METHODOLOGY.md).
 
 ## Recent archive additions
+
+- 2026-11-23 — [GSV Audit — Handoff Spec & State](research/gsv-audit/HANDOFF.md): Canonical working handoff for the SolitudeLabs Google Street View pin/POI audit through B86. Consolidates the generative evidence rule, tier ceilings, E26–E40 escalation catalogue, compact B78–B86 log, and recurring inference traps. Clarifies that visual identity pairing is allowed but does not verify coordinates; keeps longitudinal n=0 and VERIFIED=0 as reported state; holds the B86 tenth-match candidate pending review because “full match” conflicts with “partial live facade” in the supplied description. Based on user-described audit results; source screenshots and coordinates were not independently re-inspected during this archive update.
 
 - 2026-11-23 — [Propaganda Politik: Bagaimana Media, Pendidikan, Film, dan Buku Sejarah Membentuk Ingatan Publik](investigations/2026-11-23-propaganda-politik-media-pendidikan-film-buku-sejarah-ingatan-publik.md): Membahas bagaimana seleksi fakta, penghilangan konteks, framing, pengulangan, simbol, dan pesan emosional membentuk persepsi publik. Menggunakan contoh film sejarah, historiografi buku teks, media massa, dan media sosial di Indonesia; membedakan fakta, interpretasi, dan propaganda serta menolak anggapan bahwa narasi tandingan otomatis benar. Hubungan sosial atau politik tidak diperlakukan sebagai bukti konspirasi. URL diberikan penulis; halaman WordPress dan Blogger tidak berhasil diambil ulang pada sesi pembaruan ini, sehingga catatan merupakan ringkasan editorial berdasarkan draf percakapan, bukan transkripsi.
 
