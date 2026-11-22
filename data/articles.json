@@ -3332,5 +3332,47 @@
     ],
     "method_note": "Metadata and editorial summary are archived from the article topic and the research context used to prepare the publication; publication URLs were supplied by the author and were not independently fetched during this GitHub update. This is not a verbatim transcription. Distinguish family political participation, leadership positions within a political party, public office, and demonstrable misuse of state authority. Family relationships and concurrent positions alone do not prove corruption, nepotism in a legally actionable sense, or abuse of office.",
     "sources": []
+  },
+  {
+    "id": "2026-11-22-jakarta-selatan-peta-kota-sejarah-permukiman-dan-komunitas-tionghoa",
+    "title": "Jakarta Selatan: Peta Kota, Sejarah Permukiman, dan Komunitas Tionghoa yang Tidak Bisa Disamakan",
+    "published": "2026-11-22",
+    "type": "published article",
+    "status": "WordPress and Blogger publication pages were both retrieved and reviewed on 2026-11-22. The article's substantive content is aligned across both pages; this archive record is an editorial summary, not a verbatim transcription.",
+    "category": [
+      "Indonesia",
+      "Jakarta",
+      "Jakarta Selatan",
+      "Urban History",
+      "Urban Development",
+      "Tionghoa Indonesia",
+      "Chinese Indonesian History",
+      "Kebayoran Baru",
+      "Kebayoran Lama",
+      "Pondok Indah",
+      "Mampang Prapatan",
+      "Cilandak",
+      "Social History",
+      "Urban Research"
+    ],
+    "category_note": "Archive/editorial classifications; not a claim about ethnic composition of any neighborhood.",
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/22/jakarta-selatan-peta-kota-sejarah-permukiman-dan-komunitas-tionghoa-yang-tidak-bisa-disamakan/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/jakarta-selatan-peta-kota-sejarah.html",
+    "archive_record": "investigations/2026-11-22-jakarta-selatan-peta-kota-sejarah-permukiman-dan-komunitas-tionghoa.md",
+    "summary": "Artikel pembuka untuk penelitian sosial-historis Jabodetabek. Memetakan 10 kecamatan dan 65 kelurahan Jakarta Selatan menurut rujukan BPS 2025, lalu membahas secara ringkas perkembangan Kebayoran Baru sebagai kota satelit, Kebayoran Lama dan Pondok Indah, Mampang/Kemang/Cilandak, serta Tebet, Pancoran, Pasar Minggu, Setiabudi, Pesanggrahan, dan Jagakarsa. Artikel mengajukan agenda penelitian tentang sejarah komunitas Tionghoa, migrasi, organisasi sosial, pendidikan, agama, perdagangan, properti, dan perubahan sosial. Artikel secara eksplisit menegaskan bahwa data administratif, nama kawasan, tempat ibadah, atau usaha tidak cukup untuk menyimpulkan komposisi etnis maupun jaringan bisnis-politik. Ini adalah kerangka wilayah dan agenda penelitian, bukan peta persebaran etnis atau klaim tentang penguasaan kota.",
+    "open_questions": [
+      "What primary planning documents and historical maps can establish the precise chronology and design of Kebayoran Baru as a satellite town?",
+      "What local archives and academic studies document Chinese Indonesian communities in each South Jakarta district without inferring ethnicity from addresses or businesses?",
+      "What evidence can distinguish long-established residents from later migration and suburbanization in different neighborhoods?",
+      "Does any official statistical source provide ethnicity data at a geographic scale suitable for this study? Do not infer such data from aggregate population statistics."
+    ],
+    "method_note": "Both publication pages were opened and reviewed. This archive entry summarizes the published article and is not a verbatim mirror. The 10-district/65-urban-village count is attributed to the cited 2025 BPS publication. Administrative boundaries and urban-history references do not establish ethnic distribution. Keep observed facts, documented history, hypotheses, and unknowns separate.",
+    "sources": [
+      "BPS Kota Jakarta Selatan — Kota Jakarta Selatan Dalam Angka 2025: https://jakselkota.bps.go.id/id/publication/2025/02/28/c51f32498dcf950a81b7b394/jakarta-selatan-municipality-in-figures-2025.html",
+      "BPS Kota Jakarta Selatan — Jumlah Kelurahan Menurut Kecamatan: https://jakselkota.bps.go.id/id/statistics-table/3/YkVWWFUyNTJTVTloVGpCeFdFVTNaMk5wUzFaUFFUMDkjMw%3D%3D/jumlah-desa-kelurahan-menurut-kecamatan-di-kota-jakarta-selatan--2022.html",
+      "Pemerintah Provinsi DKI Jakarta — Kota Administrasi Jakarta Selatan: https://www.jakarta.go.id/kota-administrasi-jakarta-selatan",
+      "Universitas Indonesia — Kajian perkembangan Kecamatan Kebayoran Baru: https://lib.ui.ac.id/file?file=digital%2F2016-9%2F20181748-S34047-Ade+Panca+Z.pdf",
+      "Djauhari Sumintardja — Research to Build a New Satellite Town for Jakarta: https://jurnal.umj.ac.id/index.php/nalars/article/download/617/577"
+    ]
   }
 ]
