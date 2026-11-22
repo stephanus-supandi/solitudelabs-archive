@@ -1,5 +1,11 @@
 ## 2026-11-22
 
+### BLOON Universe · Critical thinking · Digital literacy · AI · Everyday life
+
+- [Ayu, Rosario, dan Tamu Misterius: Ketika Otak BLOON Menyusun Cerita dari Informasi yang Tidak Lengkap](investigations/2026-11-22-ayu-rosario-dan-tamu-misterius-ketika-otak-bloon-menyusun-cerita-dari-informasi-yang-tidak-lengkap.md)  
+  A humorous reflection on an ambiguous doorstep encounter, memory, incomplete information, and an AI assistant's repeated misreadings. Separates observation, reported words, personal memory, and inference; does not identify the visitor or assert church affiliation or motive. WordPress post retrieved and reviewed; Blogger URL supplied by author, but its article body was not independently retrieved, so exact cross-platform text identity is not asserted.
+
+
 ### Indonesia · Reformasi 1998 · PKI · TAP MPRS XXV/MPRS/1966 · TAP MPR I/MPR/2003 · UU No. 27 Tahun 1999 · Constitutional Law · Political Rights
 
 - [2003: MPR Tidak Mencabut TAP Pembubaran PKI — Mengapa Aturan 1966 Tetap Dipertahankan Setelah Reformasi?](investigations/2026-11-22-2003-mpr-tidak-mencabut-tap-pembubaran-pki-mengapa-aturan-1966-tetap-dipertahankan-setelah-reformasi.md)  
