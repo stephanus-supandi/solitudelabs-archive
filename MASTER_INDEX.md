@@ -1,5 +1,26 @@
 ## 2026-11-22
 
+### Indonesia · Reformasi 1998 · PKI · TAP MPRS XXV/MPRS/1966 · TAP MPR I/MPR/2003 · UU No. 27 Tahun 1999 · Constitutional Law · Political Rights
+
+- [2003: MPR Tidak Mencabut TAP Pembubaran PKI — Mengapa Aturan 1966 Tetap Dipertahankan Setelah Reformasi?](investigations/2026-11-22-2003-mpr-tidak-mencabut-tap-pembubaran-pki-mengapa-aturan-1966-tetap-dipertahankan-setelah-reformasi.md)  
+  Examines the legal and institutional sequence from the 1999 amendment to the Criminal Code through TAP MPR I/MPR/2003 and the 2024 MPR recommendations. It records that Article 2 of TAP MPR I/MPR/2003 retained TAP MPRS XXV/MPRS/1966 subject to the requirement that its provisions be implemented justly and with respect for law, democracy, and human rights. It distinguishes the continuing status of the 1966 decree from individual political rights, criminal-law provisions, historical research, and a recommendation to evaluate a decree from an actual repeal. WordPress post retrieved and reviewed; Blogger URL supplied by author, but its body was not independently retrieved, so exact cross-platform text identity is not asserted.
+
+## 2026-11-22
+
+### Catholic Church · Canon Law · Exorcism · Demonology · Digital Media · YouTube · Religious Authority · Medical and Mental Health Safeguards
+
+- [THE EXORCIST INDUSTRY – Imam Katolik, Otoritas Gereja, Klaim Kerasukan, dan Popularitas YouTube](investigations/2026-11-22-the-exorcist-industry-imam-katolik-otoritas-gereja-klaim-kerasukan-dan-popularitas-youtube.md)  
+  Investigates the visibility of Catholic exorcism content on YouTube and the distinction between priestly status, public commentary on demonology, past or present pastoral experience, and a specific authorization to perform a major exorcism. Reviews Canon 1172, USCCB guidance, and five media-visible figures: Chad Ripperger, Carlos Martins, Dan Reehil, Stephen Rossetti, and Gabriele Amorth. It also considers the media debate over exorcists in the spotlight, an Indonesian press report referring to an anonymized priest as Father Budi, and the need for medical and mental-health assessment. It does not diagnose people from videos or certify supernatural claims. WordPress post retrieved and reviewed; Blogger URL supplied by author, but its body was not independently retrieved, so exact cross-platform text identity is not asserted.
+
+## 2026-11-22
+
+### Christianity · Church History · Catholic Church · Assyrian Christianity · Papal Authority · Tradition · Theology · Mar Mari Emmanuel
+
+- [Lima Tokoh, Satu Persoalan Besar: Otoritas Gereja, Tradisi Kristen, dan Kritik terhadap Paus Leo XIV](investigations/2026-11-22-lima-tokoh-satu-persoalan-besar-otoritas-gereja-tradisi-kristen-dan-kritik-terhadap-paus-leo-xiv.md)  
+  Compares five public figures whose different institutional and theological positions intersect with debates over Christian tradition and criticism of Pope Leo XIV: Mar Mari Emmanuel, Carlo Maria Viganò, Davide Pagliarani, Isaac Mary Relyea, and John-Henry Westen. The article distinguishes an Assyrian Christian bishop from Catholic hierarchy; records the Vatican Dicastery for the Doctrine of the Faith's 2024 statement on the canonical process involving Viganò; describes SSPX's traditionalist position and the 2026 dispute over episcopal consecrations; and examines the roles of a traditionalist priest and a Catholic media commentator. It treats public statements as statements by their speakers, not as official teaching or independent proof, and separates institutional decisions from theological arguments. WordPress post retrieved and reviewed; Blogger URL supplied by author, but its body was not independently retrieved, so exact cross-platform text identity is not asserted.
+
+## 2026-11-22
+
 ### Indonesian history · Reformasi · Abdurrahman Wahid · Megawati · TAP MPRS XXV/1966 · Political reconciliation · Human rights · Constitutional law
 
 - [Gus Dur, Megawati, dan TAP MPRS XXV/1966: Reformasi, Rekonsiliasi, dan Batas Kekuasaan Presiden](investigations/2026-11-22-gus-dur-megawati-tap-mprs-xxv-1966-reformasi-rekonsiliasi-batas-kekuasaan-presiden.md)  
