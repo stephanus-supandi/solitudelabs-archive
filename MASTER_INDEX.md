@@ -1,3 +1,8 @@
+### Indonesia · Semarang · Bukit Gombel · Hotel History · Property · Urban Exploration · Urban Legends · Historical Verification
+
+- [HOTEL SKY GARDEN SEMARANG: SEJARAH HOTEL MEWAH, SENGKETA LAHAN, RUMOR PEMAKAMAN, DAN LAHIRNYA LEGENDA MISTIS BUKIT GOMBEL](investigations/2026-11-22-hotel-sky-garden-semarang-sejarah-hotel-mewah-sengketa-lahan-rumor-pemakaman-dan-lahirnya-legenda-mistis-bukit-gombel.md)
+  Menelusuri Hotel Sky Garden sejak pembangunan pada dekade 1970-an, peresmian yang diberitakan pada 1976, PT Gombel Internasional Hotel, fasilitas kompleks, dan penutupan pada 1982 setelah sengketa dengan pihak perbankan. Memisahkan informasi tentang luas dan jumlah kamar yang berbeda antar-sumber, struktur perusahaan yang belum diverifikasi, klaim bekas pemakaman Tionghoa, koreksi narasumber sejarah mengenai altar Gombel, serta urban legend pembunuhan/mutilasi yang belum dibuktikan melalui arsip kriminal atau putusan pengadilan. Menyusun daftar dokumen perusahaan, pertanahan, hukum, sejarah lokal, dan kriminal yang masih diperlukan. Kedua halaman publikasi WordPress dan Blogger berhasil diambil dan ditinjau; arsip ini merupakan transkripsi editorial yang disusun dari isi publikasi, bukan klaim bahwa seluruh metadata platform telah diverifikasi.
+
 ### Indonesia · Political History · Constitutional Law · MPR · TAP MPRS XXV/1966 · KUHP Nasional · Human Rights
 
 - [TAP MPR I/MPR/2003: Mengapa TAP MPRS XXV/1966 Tetap Berlaku?](investigations/2026-11-22-tap-mpr-i-mpr-2003-mengapa-tap-mprs-xxv-1966-tetap-berlaku.md)
