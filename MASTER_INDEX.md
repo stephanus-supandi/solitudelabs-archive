@@ -1,5 +1,11 @@
 ## 2026-11-22
 
+### Indonesia · Jakarta Selatan · Urban History · Tionghoa Indonesia · Kebayoran Baru · Urban Development · Social History
+
+- [Jakarta Selatan: Peta Kota, Sejarah Permukiman, dan Komunitas Tionghoa yang Tidak Bisa Disamakan](investigations/2026-11-22-jakarta-selatan-peta-kota-sejarah-permukiman-dan-komunitas-tionghoa.md)  
+  Artikel pembuka untuk penelitian sosial-historis Jabodetabek. Memetakan 10 kecamatan dan 65 kelurahan Jakarta Selatan menurut rujukan BPS 2025, lalu membahas secara ringkas perkembangan Kebayoran Baru sebagai kota satelit, Kebayoran Lama dan Pondok Indah, Mampang/Kemang/Cilandak, serta Tebet, Pancoran, Pasar Minggu, Setiabudi, Pesanggrahan, dan Jagakarsa. Artikel mengajukan agenda penelitian tentang sejarah komunitas Tionghoa, migrasi, organisasi sosial, pendidikan, agama, perdagangan, properti, dan perubahan sosial. Artikel secara eksplisit menegaskan bahwa data administratif, nama kawasan, tempat ibadah, atau usaha tidak cukup untuk menyimpulkan komposisi etnis maupun jaringan bisnis-politik. Ini adalah kerangka wilayah dan agenda penelitian, bukan peta persebaran etnis atau klaim tentang penguasaan kota. Both WordPress and Blogger publication pages were retrieved and reviewed; this archive record is a summary, not a verbatim transcription.
+
+
 ### Indonesia · Land Registration · Duplicate Certificates · PPAT · ATR/BPN · Agrarian Law · Legal Certainty
 
 - [Sertifikat Tanah Ganda: Ketika Dua Dokumen Resmi Mengklaim Tanah yang Sama](investigations/2026-11-22-sertifikat-tanah-ganda-ketika-dua-dokumen-resmi-mengklaim-tanah-yang-sama.md)  
