@@ -2,6 +2,11 @@
 
 ### Urban observation · Google Street View · POI pin audit · Evidence methodology · BLOON
 
+- [Ketika Tampilan Berulang Disangka Bukti Baru: Pelajaran dari Audit Google Street View B139–B140](investigations/2026-11-23-ketika-tampilan-berulang-disangka-bukti-baru-pelajaran-dari-audit-google-street-view-b139-b140.md)
+  Mengulas keterbacaan nama jalan, tiga pengulangan panel POI lintas batch, dan inkonsistensi nama-kategori. Membedakan rendered-record recurrence dari observasi independen/cache, serta anomali semantik dari kesalahan spasial. WordPress berhasil diambil dan ditinjau; Blogger URL diberikan penulis tetapi pengambilan otomatis gagal. Ringkasan editorial, bukan transkripsi; screenshot dan koordinat tidak diperiksa ulang.
+
+### Urban observation · Google Street View · POI pin audit · Evidence methodology · BLOON
+
 - [GSV Audit — Handoff Spec & State](research/gsv-audit/HANDOFF.md)
   Canonical working handoff extended through B140. Adds B139–B140 and E45–E47; records three exact cross-batch rendered-record recurrences without asserting cache or independent observation; downgrades B137–B139 headline claims from independent breakthroughs to unverified rendered observations; distinguishes hidden-category truncation from a visible name-category inconsistency. B94–B138 are not yet represented in the compact handoff log, and cumulative counters remain unreconciled. Based on user-described results; screenshots and coordinates were not independently re-inspected during this archive update.
 
@@ -9,7 +14,7 @@
 ### Indonesia · Political Communication · Propaganda · Media Literacy · History Education · Historiography · Collective Memory
 
 - [Propaganda Politik: Bagaimana Media, Pendidikan, Film, dan Buku Sejarah Membentuk Ingatan Publik](investigations/2026-11-23-propaganda-politik-media-pendidikan-film-buku-sejarah-ingatan-publik.md)
-  Membahas bagaimana seleksi fakta, penghilangan konteks, framing, pengulangan, simbol, dan pesan emosional membentuk persepsi publik. Menggunakan contoh film sejarah, historiografi buku teks, media massa, dan media sosial di Indonesia; membedakan fakta, interpretasi, dan propaganda serta menolak anggapan bahwa narasi tandingan otomatis benar. Hubungan sosial atau politik tidak diperlakukan sebagai bukti konspirasi. URL diberikan penulis; halaman WordPress dan Blogger tidak berhasil diambil ulang pada sesi pembaruan ini, sehingga catatan merupakan ringkasan editorial berdasarkan draf percakapan, bukan transkripsi.
+  Membahas bagaimana seleksi fakta, penghilangan konteks, framing, pengulangan, simbol, dan pesan emosional membentuk persepsi publik. Menggunakan contoh film sejarah, historiografi buku teks, media massa, dan media sosial di Indonesia; membedakan fakta, interpretasi, dan propaganda serta menolak anggapan bahwa narasi tandingan otomatis benar. Hubungan sosial atau politik tidak diperlakukan sebagai bukti konspirasi. WordPress berhasil diambil dan ditinjau pada 2026-11-23; Blogger URL diberikan penulis tetapi pengambilan otomatis gagal. Catatan merupakan ringkasan editorial, bukan transkripsi penuh; kesamaan teks lintas platform tidak diklaim.
 
 ### Indonesia · Semarang · Bukit Gombel · Hotel History · Property · Urban Exploration · Urban Legends · Historical Verification
 
