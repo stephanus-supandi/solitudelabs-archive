@@ -1,5 +1,15 @@
 ## 2026-11-22
 
+### Indonesia · DKI Jakarta · Local Government · DPRD · APBD · Bureaucracy · BUMD · Public Accountability
+
+- [Mesin Pemerintahan DKI Jakarta: DPRD, APBD, Birokrasi, dan BUMD — Siapa Mengendalikan Kota?](investigations/2026-11-22-mesin-pemerintahan-dki-jakarta-dprd-apbd-birokrasi-bumd.md)
+  Memetakan struktur pemerintahan provinsi, fungsi DPRD, APBD, birokrasi, kota administrasi, BUMD, dan pengawasan. Membedakan kerangka hukum 2012–2022 berdasarkan UU 29/2007 dari perkembangan hukum setelahnya melalui UU 2/2024. Ringkasan editorial; URL publikasi diberikan penulis dan halaman tidak berhasil diambil ulang pada sesi ini.
+
+### Indonesia · DKI Jakarta · Political History · Local Government · Public Policy · Jakarta 2017 Election
+
+- [Jokowi–Ahok, Ahok–Djarot, dan Anies–Sandiaga: Pergantian Kekuasaan dan Wajah Pemerintahan DKI Jakarta 2012–2022](investigations/2026-11-22-jokowi-ahok-ahok-djarot-anies-sandiaga-pemerintahan-dki-jakarta-2012-2022.md)
+  Menelusuri kronologi pergantian gubernur dan wakil gubernur serta perubahan kebijakan pada 2012–2022. Memisahkan peluncuran program, kesinambungan kebijakan, pelaksanaan, dan hasil; bukan pemeringkatan partisan. Ringkasan editorial; URL publikasi diberikan penulis dan halaman tidak berhasil diambil ulang pada sesi ini.
+
 ### Indonesia · Jakarta Selatan · Kebayoran Baru · Petogogan · Kampung Leuser · Urban History · Informal Settlements · Land Disputes
 
 - [Petogogan dan Kampung Leuser: Dua Kampung di Kebayoran Baru, Dua Sejarah yang Berbeda](investigations/2026-11-22-petogogan-kampung-leuser-dua-sejarah-kebayoran-baru.md)
