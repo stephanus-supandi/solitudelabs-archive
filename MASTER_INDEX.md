@@ -1,5 +1,11 @@
 ## 2026-11-23
 
+### History · Political economy · Business and politics · Bureaucracy · Regulation · Nazi Germany · Cold War
+
+- [Dari Bisnis ke Birokrasi: Bagaimana Kepentingan Ekonomi Bisa Memengaruhi Kekuasaan Politik?](investigations/2026-11-23-dari-bisnis-ke-birokrasi-pengaruh-ekonomi-kekuasaan-politik.md)
+  Mengkaji hubungan aktivitas bisnis, investasi, jaringan profesional, lobi, akses politik, dan regulasi melalui contoh historis industrialis di sekitar kebangkitan Hitler, jaringan intelijen pascaperang, Reinhard Gehlen, dan Operation Paperclip. Membedakan kasus-kasus tersebut dan tidak menyimpulkan adanya infiltrasi Nazi terkoordinasi ke negara modern. Menekankan bahwa keuntungan perusahaan dari suatu regulasi bukan bukti bahwa perusahaan merancang atau mengendalikan aturan tersebut. URL WordPress dan Blogger diberikan penulis; pengambilan otomatis kedua halaman gagal. Ringkasan editorial berdasarkan draf percakapan, bukan transkripsi.
+
+
 ### Church history · Parish development · Land and fundraising · KAJ · Community relations
 
 - [Gereja, Umat, dan Perumahan: Siapa yang Membangun Santo Bartolomeus dan Gedung Karya Pastoral di Taman Galaksi](investigations/2026-11-23-gereja-umat-dan-perumahan-siapa-yang-membangun-santo-bartolomeus-dan-gedung-karya-pastoral-di-taman-galaksi.md)
