@@ -1,5 +1,11 @@
 ## 2026-11-23
 
+### Pacific history · Nan Madol · German and Japanese colonial research · League of Nations · Indonesian political history
+
+- [Nan Madol, Peta 1921, Jerman, Jepang, PKI, dan Nazi: Ada Hubungannya atau Kita Sedang Mencari Gula?](investigations/2026-11-23-nan-madol-peta-1921-jerman-jepang-pki-nazi.md)
+  Menyelidiki Nan Madol di Pohnpei sebagai kompleks arkeologi pra-kolonial, lalu menempatkan penelitian Jerman (Viktor Berg pada 1907 dan ekspedisi Paul Hambruch 1908–1910), administrasi mandat Jepang setelah Perang Dunia I, serta penelitian Jepang pada 1930-an dalam kronologi yang tepat. Artikel membedakan fakta penelitian kolonial dan catatan bahwa sebagian hasil penelitian Jepang tidak dipublikasikan dari hipotesis operasi rahasia atau rekonstruksi sejarah yang belum didukung bukti. Ia juga memisahkan kronologi awal DAP/NSDAP dari ekspedisi 1910, serta perkembangan ISDV/PKI dari dugaan hubungan organisasi dengan Pohnpei. Kesimpulan: Nan Madol nyata dan jauh mendahului kolonialisme; peta 1921 menunjukkan perubahan geopolitik Pasifik, tetapi tidak membuktikan hubungan rahasia PKI–Nazi–Jepang atau pembangunan ulang situs. WordPress and Blogger pages independently retrieved and reviewed on 2026-11-23; substantive content is consistent. Editorial summary, not verbatim transcription. Japanese-period research documentation remains an archival question; no secret PKI–Nazi–Japan network or reconstruction claim is treated as established.
+
+
 ### Education · Higher education · Harvard · Stanford · MIT · Gita Wirjawan · Academic credentials · Personal branding
 
 - [Harvard, Stanford, MIT: Ketika Nama Kampus Elite Menjadi Ukuran Kecerdasan](investigations/2026-11-23-harvard-stanford-mit-kampus-elite-kecerdasan.md)
