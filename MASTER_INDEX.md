@@ -1,6 +1,9 @@
 ## 2026-11-23
 
-### History · Political economy · Business and politics · Bureaucracy · Regulation · Nazi Germany · Cold War
+### Education · Higher education · Harvard · Stanford · MIT · Gita Wirjawan · Academic credentials · Personal branding
+
+- [Harvard, Stanford, MIT: Ketika Nama Kampus Elite Menjadi Ukuran Kecerdasan](investigations/2026-11-23-harvard-stanford-mit-kampus-elite-kecerdasan.md)
+  Mengulas gelar MPA Gita Wirjawan dari Harvard Kennedy School, afiliasi visiting scholar di Stanford, dan kolaborasi podcast dengan MIT Sloan. Membedakan gelar akademis, afiliasi kunjungan, dan kolaborasi; tidak menyebutnya lulusan MIT atau alumni Stanford. Membahas personal branding sebagai interpretasi, bukan motif pribadi yang terbukti, serta membedakan kredensial, kompetensi, dan kualitas argumentasi. Kedua halaman WordPress dan Blogger berhasil diambil dan ditinjau; isi substantif konsisten, dengan perbedaan format platform. Ringkasan editorial, bukan transkripsi.
 
 - [Dari Bisnis ke Birokrasi: Bagaimana Kepentingan Ekonomi Bisa Memengaruhi Kekuasaan Politik?](investigations/2026-11-23-dari-bisnis-ke-birokrasi-pengaruh-ekonomi-kekuasaan-politik.md)
   Mengkaji hubungan aktivitas bisnis, investasi, jaringan profesional, lobi, akses politik, dan regulasi melalui contoh historis industrialis di sekitar kebangkitan Hitler, jaringan intelijen pascaperang, Reinhard Gehlen, dan Operation Paperclip. Membedakan kasus-kasus tersebut dan tidak menyimpulkan adanya infiltrasi Nazi terkoordinasi ke negara modern. Menekankan bahwa keuntungan perusahaan dari suatu regulasi bukan bukti bahwa perusahaan merancang atau mengendalikan aturan tersebut. URL WordPress dan Blogger diberikan penulis; pengambilan otomatis kedua halaman gagal. Ringkasan editorial berdasarkan draf percakapan, bukan transkripsi.
