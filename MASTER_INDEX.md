@@ -1,5 +1,10 @@
 ## 2026-11-24
 
+### Church facilities · Interfaith dialogue · Sanbarto · GKP · Religious tolerance · Community relations
+
+- [GKP SANBARTO: Bukan Sekadar Gedung Gereja — Dialog Lintas Agama, Pejabat Publik, dan Pertanyaan tentang Siapa yang Mengelolanya](investigations/2026-11-24-gkp-sanbarto-dialog-lintas-agama-pejabat-publik.md)
+  Menelusuri fungsi GKP sebagai fasilitas pastoral dan sosial, penggunaan sejak 2006, serta dialog Hari Toleransi Internasional pada 9 November 2024 di lantai tiga GKP. Memisahkan dialog tersebut dari acara doa lintas agama 2018 di halaman parkir gereja dan kegiatan kerukunan sehari-hari yang diberitakan pada 2019. Kehadiran pejabat dalam acara 2025–2026 dicatat sebagai peristiwa terpisah. Struktur staf/pengelola dan komposisi etnis tidak dianggap terbukti: nama dalam publikasi tidak membuktikan etnisitas, status pegawai, fungsi, atau kewenangan. URL publikasi diberikan penulis; pengambilan otomatis kedua halaman tidak tersedia dalam pembaruan arsip ini. Ringkasan editorial, bukan transkripsi.
+
 ### Indonesia · Polri · Alleged treason case · Criminal justice · Evidence literacy · Google Street View
 
 - [JANGAN ASAL TUDUH TETANGGA! Dugaan Makar, Enam Tersangka, dan Bahaya Mengarang Hubungan dari Sebuah Alamat](investigations/2026-11-24-jangan-asal-tuduh-tetangga-dugaan-makar-enam-tersangka.md)
