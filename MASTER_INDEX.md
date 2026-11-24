@@ -1,5 +1,11 @@
 ## 2026-11-24
 
+### Bekasi · Jakasetia · Urban history · Housing development · Neighborhood archaeology
+
+- [Dari Masnaga sampai Grand Galaxy City: Sejarah Komplek, Perumahan, Jalan, dan Perubahan Wajah Jakasetia](investigations/2026-11-24-dari-masnaga-sampai-grand-galaxy-city-sejarah-komplek-perumahan-jalan-perubahan-wajah-jakasetia.md)  
+  Mengantar penelitian sejarah permukiman dan perubahan ruang dari Masnaga, Taman Galaxy/Taman Galaksi, Grand Galaxy City, hingga Grand Galaxy Park serta lingkungan sekitarnya. Memisahkan petunjuk alamat Masnaga pada 1993, perubahan identitas/pengembangan kawasan sekitar 2011–2012, peluncuran GGP pada 2013, berita banjir 2014, dan dokumentasi fasilitas warga 2017. Tidak menyatukan kawasan hanya karena nama atau lokasinya berdekatan; kronologi dan batas tiap kompleks masih memerlukan peta, dokumen pertanahan, site plan, arsip pengembang, serta verifikasi lapangan. URL publikasi diberikan penulis; halaman tidak berhasil diambil otomatis dalam pembaruan ini. Ringkasan editorial, bukan transkripsi.
+
+
 ### Church facilities · Interfaith dialogue · Sanbarto · GKP · Religious tolerance · Community relations
 
 - [GKP SANBARTO: Bukan Sekadar Gedung Gereja — Dialog Lintas Agama, Pejabat Publik, dan Pertanyaan tentang Siapa yang Mengelolanya](investigations/2026-11-24-gkp-sanbarto-dialog-lintas-agama-pejabat-publik.md)
