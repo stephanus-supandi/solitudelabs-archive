@@ -5,6 +5,16 @@
 - [The Residuals of Matahari Raya: The Premise](creative/2026-11-25-the-residuals-of-matahari-raya-premise.md)  
   A fictional mystery / literary science-fiction premise featuring Raka, a structural analyst and experimental coder in Bekasi. The plot connects unexplained structural displacement, an implausible GPS trace, an acoustic signal, a forgotten pre-war site, and a childhood memory. Archived explicitly as fiction: the described anomalies, engineering failure, concealment, and historical site are not presented as verified real-world events. Canonical WordPress publication: https://solitudelabs.wordpress.com/2026/11/25/the-residuals-of-matahari-rayathe-premise/.
 
+## 2026-11-25
+
+### BLOON INVESTIGATION · Media history · Music underground · Indonesia
+
+- [Demo Pornografi Goblok: Jakarta 2003 — Inul, Rhoma, Televisi, dan Perang Argumen RUU Anti-Pornografi](investigations/2026-11-25-demo-pornografi-goblok-jakarta-2003-inul-rhoma-televisi-ruu-app.md)  
+  Arsip editorial tentang demonstrasi FKMAPP di SCTV dan Trans TV pada 13 Mei 2003, aksi pendukung Inul di Bundaran HI pada 2 Mei 2003, kontroversi Inul–Rhoma, perdebatan pro-kontra RUU APP pada 2006, dan pengesahan UU 44/2008. Memisahkan laporan peristiwa, penilaian demonstran, argumen kedua kubu, dan kasus video 2010. URL WordPress dan Blogger diberikan penulis; halaman tidak berhasil diambil otomatis, sehingga catatan ini bukan transkripsi verbatim.
+
+- [Demo Musik Goblok: Kaset BASF, Rest in Peace, dan Jejak Underground Indonesia](investigations/2026-11-25-demo-musik-goblok-kaset-basf-rest-in-peace-underground-indonesia.md)  
+  Arsip editorial yang berawal dari video Shorts tentang Rest in Peace — Demo 2003, kaset BASF C-30, Trueside Records, dan keterangan Jakarta City HC Scene. Memperluas konteks ke sejumlah demo dan kompilasi independen 2000–2003, sambil membedakan format rilisan dan mempertahankan ketidakpastian atas identitas personel, track kelima, jumlah cetakan, dan distribusi. URL WordPress dan Blogger diberikan penulis; halaman tidak berhasil diambil otomatis, sehingga catatan ini bukan transkripsi verbatim.
+
 ## 2026-11-24
 
 ### Bekasi · Jakasetia · Urban history · Housing development · Neighborhood archaeology
