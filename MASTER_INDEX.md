@@ -1,3 +1,10 @@
+## 2026-11-24
+
+### Indonesia · Polri · Alleged treason case · Criminal justice · Evidence literacy · Google Street View
+
+- [JANGAN ASAL TUDUH TETANGGA! Dugaan Makar, Enam Tersangka, dan Bahaya Mengarang Hubungan dari Sebuah Alamat](investigations/2026-11-24-jangan-asal-tuduh-tetangga-dugaan-makar-enam-tersangka.md)
+  Merangkum pengumuman Polri tentang enam tersangka dan konstruksi dugaan perkara sebagaimana diberitakan media. Membedakan keterangan penyidik dari temuan pengadilan, status tersangka dari vonis, serta lokasi yang disebut dari keterlibatan warga sekitar. Menegaskan bahwa belum ditemukan dasar publik untuk menghubungkan Jalan Matahari, Jalan Bintang, Jalan Bulan, atau Jalan Bumi dengan perkara tersebut. Menjelaskan batas Google Street View dan menolak inferensi pidana dari kemiripan visual, nama jalan, kendaraan, atau kedekatan geografis. Halaman WordPress diambil dan ditinjau; URL Blogger diberikan penulis tetapi pengambilan otomatis diblokir. Ringkasan arsip, bukan transkripsi atau pemeriksaan independen atas bukti penyidikan.
+
 ## 2026-11-23
 
 ### Pacific history · Nan Madol · German and Japanese colonial research · League of Nations · Indonesian political history
