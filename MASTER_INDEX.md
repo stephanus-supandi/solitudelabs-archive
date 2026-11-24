@@ -1,3 +1,10 @@
+## 2026-11-25
+
+### Creative writing · Urban mystery · Bekasi · Structural forensics · Spatial memory
+
+- [The Residuals of Matahari Raya: The Premise](creative/2026-11-25-the-residuals-of-matahari-raya-premise.md)  
+  A fictional mystery / literary science-fiction premise featuring Raka, a structural analyst and experimental coder in Bekasi. The plot connects unexplained structural displacement, an implausible GPS trace, an acoustic signal, a forgotten pre-war site, and a childhood memory. Archived explicitly as fiction: the described anomalies, engineering failure, concealment, and historical site are not presented as verified real-world events. Canonical WordPress publication: https://solitudelabs.wordpress.com/2026/11/25/the-residuals-of-matahari-rayathe-premise/.
+
 ## 2026-11-24
 
 ### Bekasi · Jakasetia · Urban history · Housing development · Neighborhood archaeology
