@@ -1,5 +1,12 @@
 ## 2026-11-26
 
+### Indonesian criminal history · Cold cases · Forensic investigation · Setiabudi 13
+
+- [Setiabudi 13: Satu Korban, Dua Kardus, Ratusan Potongan, dan Misteri yang Belum Terpecahkan](investigations/2026-11-26-setiabudi-13-satu-korban-dua-kardus-ratusan-potongan.md)  
+  Arsip editorial BLOON Investigation tentang penemuan satu jasad dalam dua kardus di Setiabudi pada 23 November 1981. Membedakan angka 13 bagian tubuh dari angka 181 fragmen yang muncul dalam pemberitaan, merangkum keterangan forensik yang dikutip media, profil korban, petunjuk kemasan dan koran, serta pertanyaan tentang identitas, motif, kronologi, dan penyidikan. WordPress berhasil diambil dan ditinjau pada 2026-11-26; Blogger URL diberikan penulis tetapi pengambilan otomatis diblokir, sehingga kesamaan teks lintas platform tidak diverifikasi. Catatan arsip ini bukan transkripsi verbatim atau pemeriksaan independen atas berkas perkara.
+
+## 2026-11-26
+
 ### Indonesian history · New Order security institutions · Petrus · Tim Mawar · Reformasi 1998 · Military and political history
 
 - [Petrus, Tim Mawar, Prabowo, Luhut: Membaca Jejak Kekuasaan dan Militer Indonesia](investigations/2026-11-26-petrus-tim-mawar-prabowo-luhut-jejak-kekuasaan-militer.md)  
