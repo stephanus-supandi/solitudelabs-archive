@@ -31,6 +31,8 @@ See [METHODOLOGY.md](METHODOLOGY.md).
 
 ## Recent archive additions
 
+- 2026-11-26 — [Setiabudi 13: Satu Korban, Dua Kardus, Ratusan Potongan, dan Misteri yang Belum Terpecahkan](investigations/2026-11-26-setiabudi-13-satu-korban-dua-kardus-ratusan-potongan.md): Arsip editorial tentang penemuan satu jasad dalam dua kardus di Setiabudi pada 23 November 1981. Membedakan angka 13 bagian tubuh dan 181 fragmen dalam pemberitaan, serta mencatat keterangan forensik, profil korban, petunjuk kemasan/koran, dugaan motif yang belum terbukti, dan kebutuhan memeriksa dokumen primer. WordPress berhasil diambil dan ditinjau; Blogger URL diberikan penulis tetapi pengambilan otomatis diblokir. Bukan transkripsi verbatim atau verifikasi independen.
+
 - 2026-11-26 — [Petrus, Tim Mawar, Prabowo, Luhut: Membaca Jejak Kekuasaan dan Militer Indonesia](investigations/2026-11-26-petrus-tim-mawar-prabowo-luhut-jejak-kekuasaan-militer.md): Arsip editorial yang membedakan Petrus 1982–1985 dari penculikan aktivis 1997–1998, serta ABRI, Polri, Kopkamtib, dan Kopassus. Mencatat pembahasan Tim Mawar, proses DKP terhadap Prabowo, dan karier militer Luhut tanpa menyimpulkan keterlibatan operasional dari riwayat dinas. Kedua halaman publikasi berhasil diambil dan ditinjau; isi substantif konsisten. Artikel terbit tidak menyertakan bibliografi atau sitasi inline, sehingga catatan ini merupakan ringkasan editorial dan daftar verifikasi lanjutan, bukan transkripsi atau verifikasi independen.
 
 
