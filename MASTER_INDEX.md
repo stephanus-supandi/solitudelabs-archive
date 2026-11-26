@@ -1,3 +1,8 @@
+### Podcast · Education · Satire · Media literacy · Gita Wirjawan · Endgame
+
+- [Gita Wirjawan: Polos, Banyak Bertanya, dan Masih Belum Selesai Mencari Tahu](investigations/2026-11-26-gita-wirjawan-polos-banyak-bertanya-dan-masih-belum-selesai-mencari-tahu.md)
+  Satire tentang peran host dalam percakapan *Endgame* bersama Antarina SF Amir. Membedakan lelucon “polos” dari klaim faktual bahwa seseorang tidak tahu apa-apa; menekankan bahwa pernyataan narasumber tetap perlu diuji dengan data, riset, bukti lapangan, dan dokumen kebijakan. WordPress berhasil diambil dan ditinjau; pengambilan Blogger hanya menghasilkan tautan navigasi sehingga kesamaan lintas platform belum diverifikasi. Kategori WordPress yang tampil memuat banyak label tak relevan dan perlu ditinjau sebagai masalah metadata.
+
 ### Technology · Corporate history · Google Indonesia · Business operations · Digital infrastructure
 
 - [Google Indonesia: Siapa Orang-Orang di Balik Kantor Perwakilan, dan Bagaimana Jejak Operasionalnya?](investigations/2026-11-26-google-indonesia-kantor-perwakilan-jejak-operasional.md)  
