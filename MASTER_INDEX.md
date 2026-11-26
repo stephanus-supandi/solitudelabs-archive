@@ -1,3 +1,10 @@
+## 2026-11-26
+
+### Indonesian history · New Order security institutions · Petrus · Tim Mawar · Reformasi 1998 · Military and political history
+
+- [Petrus, Tim Mawar, Prabowo, Luhut: Membaca Jejak Kekuasaan dan Militer Indonesia](investigations/2026-11-26-petrus-tim-mawar-prabowo-luhut-jejak-kekuasaan-militer.md)  
+  Arsip editorial atas artikel BLOON Investigation yang membedakan Petrus 1982–1985 dari penculikan aktivis 1997–1998, serta menjelaskan perbedaan ABRI, Polri, Kopkamtib, dan Kopassus. Mencatat pembahasan Tim Mawar, proses DKP terhadap Prabowo, dan karier militer Luhut tanpa menyamakan riwayat dinas dengan keterlibatan operasional. Kedua halaman WordPress dan Blogger berhasil diambil dan ditinjau pada 2026-11-26; isi substantif konsisten. Artikel terbit tidak menyertakan bibliografi atau sitasi inline, sehingga catatan arsip ini adalah ringkasan editorial, bukan verifikasi independen. Klaim tentang laporan Komnas HAM, angka korban, putusan pengadilan militer, dokumen DKP, dan riwayat jabatan tetap memerlukan pemeriksaan sumber primer.
+
 ## 2026-11-25
 
 ### Creative writing · Urban mystery · Bekasi · Structural forensics · Spatial memory
