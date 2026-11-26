@@ -1,5 +1,11 @@
 ## 2026-11-26
 
+### Music · Guitar education · Personal memory · Bekasi · Jaka Mulya
+
+- [Dari Batu Mulia II ke Musicians Institute: Paul Gilbert, Bernard B2n, dan Seorang Guru Gitar dari Jaka Mulya](music/2026-11-26-batu-mulia-ii-musicians-institute-paul-gilbert-bernard-b2n.md)  
+  Arsip editorial nostalgia musik tentang teman gitar di Jalan Batu Mulia II, Jaka Mulya, Bekasi Selatan, yang memperkenalkan penulis pada gitar instrumental. Menelusuri Paul Gilbert dan GIT/Musicians Institute, Bernard B2n melalui katalog Gramedia dan wawancara 2011, serta sejarah Institut Musisi Indonesia hingga perubahan status pada 2013. Memisahkan informasi biografis dan institusional yang memiliki sumber publik dari ingatan pribadi tentang teman, pendidikan IKJ, dan kaset yang pernah didengar. Kedua halaman WordPress dan Blogger diambil dan ditinjau pada 2026-11-26; isi substantif konsisten. Ringkasan editorial, bukan transkripsi verbatim atau verifikasi independen atas memori pribadi.
+
+
 ### Indonesian criminal history · Cold cases · Forensic investigation · Setiabudi 13
 
 - [Setiabudi 13: Siapa Orangnya, di Mana Mereka Belajar, dan dari Mana Standar Forensik Indonesia Berasal?](investigations/2026-11-26-setiabudi-13-tokoh-pendidikan-standar-forensik-indonesia.md)  
