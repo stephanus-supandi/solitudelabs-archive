@@ -1,3 +1,8 @@
+### Technology · Corporate history · Google Indonesia · Business operations · Digital infrastructure
+
+- [Google Indonesia: Siapa Orang-Orang di Balik Kantor Perwakilan, dan Bagaimana Jejak Operasionalnya?](investigations/2026-11-26-google-indonesia-kantor-perwakilan-jejak-operasional.md)  
+  Arsip editorial sejarah korporasi yang menelusuri rencana pembukaan kantor pada 2012, tokoh-tokoh yang muncul dalam pemberitaan awal (Krishna Zulkarnain, Rudy Ramawy, Henky Prihatna, Julian Persaud), fungsi representatif yang berfokus pada pemasaran/penjualan dan kemitraan, kantor baru pada 2013, penunjukan Tony Keusgen pada 2016, serta perpindahan ke Pacific Century Place pada 2018. Membedakan lokasi acara peresmian dari alamat kantor, tamu acara dari personel perusahaan, dan kantor perwakilan dari badan hukum lokal, BUT, pusat data, atau laboratorium riset. Kedua halaman WordPress dan Blogger berhasil diambil dan ditinjau pada 2026-11-26; isi substantif konsisten. Ringkasan editorial, bukan transkripsi verbatim atau pemeriksaan independen atas seluruh dokumen korporasi.
+
 ## 2026-11-26
 
 ### Music · Guitar education · Personal memory · Bekasi · Jaka Mulya
