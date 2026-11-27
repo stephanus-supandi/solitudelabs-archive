@@ -1,12 +1,12 @@
 edge_id,from,to,relationship,source_id,status,confidence_note
-E01,Joshua Oppenheimer,IUF,Dissertation describes project emerging from contact by an IUF labour educator,S01,VERIFIED,Specific female contact is unnamed; do not infer her identity
-E02,IUF,SERBUK,IUF Indonesia recommended making the film with SERBUK,S01,VERIFIED,As described by Oppenheimer
-E03,SERBUK,The Globalisation Tapes,Collaborative filmmaking and production participation,S01,VERIFIED,Dissertation describes SERBUK workers as principal filmmakers
-E04,Hemasari Dharmabumi,Labour Education Centre,Coordinator role in 2000,S02,REPORTED,Contemporaneous secondary report
-E05,Hemasari Dharmabumi,IUF,Indonesia representative role in 2000,S03,VERIFIED,ILO case record
-E06,Hemasari Dharmabumi,Unnamed female IUF labour educator,Possible identity match,S01;S02;S03,UNKNOWN,No direct evidence; retain as unresolved hypothesis, not an asserted edge
-E07,Hemasari Dharmabumi,Joshua Oppenheimer,Direct contact / initial approach, S01;S02;S03,NOT VERIFIED,No direct evidence that Hemasari was the person who contacted Oppenheimer
-E08,APHEDA,Labour Education Centre,Reported funding support,S02,REPORTED,This edge concerns the centre, not the film
-E09,APHEDA,The Globalisation Tapes,Film production funding,S02,NOT VERIFIED,Do not transfer the centre-funding claim to the film
-E10,IUF,The Globalisation Tapes,Project / educational collaboration,S01,VERIFIED,Funding amount, contract, and payment not established
-E11,The Globalisation Tapes,The Act of Killing,Shared funding or production structure,S01,NOT VERIFIED,Research/creative trajectory is not proof of a shared production or financing stream
+E01,Joshua Oppenheimer,IUF,"Dissertation describes project emerging from contact by an IUF labour educator",S01,VERIFIED,"Specific female contact is unnamed; do not infer her identity"
+E02,IUF,SERBUK,"IUF Indonesia recommended making the film with SERBUK",S01,VERIFIED,"As described by Oppenheimer"
+E03,SERBUK,The Globalisation Tapes,"Collaborative filmmaking and production participation",S01,VERIFIED,"Dissertation describes SERBUK workers as principal filmmakers"
+E04,Hemasari Dharmabumi,Labour Education Centre,"Coordinator role in 2000",S02,REPORTED,"Contemporaneous secondary report"
+E05,Hemasari Dharmabumi,IUF,"Indonesia representative role in 2000",S03,VERIFIED,"ILO case record"
+E06,Hemasari Dharmabumi,Unnamed female IUF labour educator,"Possible identity match","S01;S02;S03",UNKNOWN,"No direct evidence; retain as unresolved hypothesis, not an asserted edge"
+E07,Hemasari Dharmabumi,Joshua Oppenheimer,"Direct contact / initial approach","S01;S02;S03",NOT VERIFIED,"No direct evidence that Hemasari was the person who contacted Oppenheimer"
+E08,APHEDA,Labour Education Centre,"Reported funding support",S02,REPORTED,"This edge concerns the centre, not the film"
+E09,APHEDA,The Globalisation Tapes,"Film production funding",S02,NOT VERIFIED,"Do not transfer the centre-funding claim to the film"
+E10,IUF,The Globalisation Tapes,"Project / educational collaboration",S01,VERIFIED,"Funding amount, contract, and payment not established"
+E11,The Globalisation Tapes,The Act of Killing,"Shared funding or production structure",S01,NOT VERIFIED,"Research/creative trajectory is not proof of a shared production or financing stream"
