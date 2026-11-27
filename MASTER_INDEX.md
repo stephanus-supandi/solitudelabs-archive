@@ -1,3 +1,10 @@
+## 2026-11-28
+
+### Indonesian history · Labour history · Documentary film · IUF · SERBUK · OSINT
+
+- [The Globalisation Tapes: Serikat Buruh, Pembuat Film, dan Jejak Menuju The Act of Killing](investigations/2026-11-28-the-globalisation-tapes-serikat-buruh-pembuat-film-dan-jejak-menuju-the-act-of-killing.md)  
+  Arsip audit dokumenter mengenai kolaborasi Joshua Oppenheimer, IUF, dan SERBUK dalam *The Globalisation Tapes* (2003). Mencatat lima tokoh utama dalam *Dramatis Personae* dan daftar dua belas pembuat film pada catatan kaki 52, sambil mempertahankan perbedaan ejaan G Siahaan / R. Siahaan. Memisahkan dua jabatan Hemasari Dharmabumi yang terdokumentasi pada 2000 dari identitas perempuan IUF yang menghubungi Oppenheimer, yang belum terkonfirmasi. Pendanaan film oleh IUF atau APHEDA tidak dibuktikan; dukungan APHEDA terhadap Labour Education Centre tidak dipindahkan menjadi klaim pendanaan film. Hubungan dengan *The Act of Killing* diperlakukan sebagai kesinambungan riset/kreatif, bukan bukti struktur produksi atau pendanaan bersama. Artikel WordPress diterbitkan pada 2026-11-28; audit awal dan register sumber disimpan terpisah di `research/the-globalisation-tapes-audit/`.
+
 ### Podcast · Education · Satire · Media literacy · Gita Wirjawan · Endgame
 
 - [Gita Wirjawan: Polos, Banyak Bertanya, dan Masih Belum Selesai Mencari Tahu](investigations/2026-11-26-gita-wirjawan-polos-banyak-bertanya-dan-masih-belum-selesai-mencari-tahu.md)
