@@ -1,0 +1,30 @@
+flowchart LR
+    OPP["Joshua Oppenheimer"]
+    IUF["IUF"]
+    SERBUK["SERBUK"]
+    GT["The Globalisation Tapes (2003)"]
+    H["Hemasari Dharmabumi"]
+    LEC["Labour Education Centre"]
+    APH["APHEDA"]
+    WOMAN["Unnamed female IUF labour educator"]
+    TAOK["The Act of Killing (2012)"]
+
+    WOMAN -. "contact described; identity unnamed" .-> OPP
+    IUF -->|"Indonesia branch recommended collaboration"| SERBUK
+    SERBUK -->|"worker-filmmaker collaboration"| GT
+    OPP -->|"filmmaking / dissertation account"| GT
+    H -->|"coordinator, 2000 [REPORTED]"| LEC
+    H -->|"IUF Indonesia representative, 2000 [VERIFIED]"| IUF
+    APH -->|"reported support for centre only"| LEC
+
+    H -. "identity match NOT ESTABLISHED" .- WOMAN
+    H -. "no direct contact evidence" .- OPP
+    APH -. "film funding NOT VERIFIED" .- GT
+    IUF -. "film financing NOT VERIFIED" .- GT
+    GT -. "research/creative trajectory; not shared funding proof" .- TAOK
+
+    classDef verified fill:#d8f3dc,stroke:#2d6a4f,color:#102a1d;
+    classDef unknown fill:#fff3cd,stroke:#9a6700,color:#3d2e00;
+    classDef entity fill:#e7eef8,stroke:#52677d,color:#172b4d;
+    class OPP,IUF,SERBUK,GT,TAOK,LEC,APH entity;
+    class H,WOMAN unknown;
