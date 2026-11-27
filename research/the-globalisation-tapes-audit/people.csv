@@ -1,0 +1,17 @@
+person_id,name,documented_role,source_id,status,notes
+P01,Joshua Oppenheimer,Filmmaker and dissertation author,S01,VERIFIED,Describes the project and its participants in Show of Force (2004)
+P02,Sukirman,SERBUK president; narrator; key filmmaker,S01,VERIFIED,Named in Dramatis Personae and footnote 52
+P03,Eddraman,Key filmmaker; early research contributor,S01,VERIFIED,Named in Dramatis Personae and footnote 52
+P04,G Siahaan,Key filmmaker; early research contributor,S01,VERIFIED,Spelling as given in Dramatis Personae; footnote 52 instead says R. Siahaan
+P05,R. Siahaan,Name in footnote 52 filmmaker list,S01,VERIFIED,Do not assume same person as G Siahaan without further evidence
+P06,Astaman,Principal cameraman; key filmmaker,S01,VERIFIED,Named in Dramatis Personae and footnote 52
+P07,Ibu Ati / Ati,Key filmmaker; self-narration experiment,S01,VERIFIED,Dramatis Personae uses Ibu Ati; footnote 52 uses Ati
+P08,Rachmadi,Filmmaker in footnote 52,S01,VERIFIED,Listed among principal filmmakers who shot and edited
+P09,Basir,Filmmaker in footnote 52,S01,VERIFIED,Listed among principal filmmakers who shot and edited
+P10,Boinem,Filmmaker in footnote 52,S01,VERIFIED,Listed among principal filmmakers who shot and edited
+P11,Mirza,Filmmaker in footnote 52,S01,VERIFIED,Listed among principal filmmakers who shot and edited
+P12,Sugiman,Filmmaker in footnote 52,S01,VERIFIED,Listed among principal filmmakers who shot and edited
+P13,Jumniati,Filmmaker in footnote 52,S01,VERIFIED,Listed among principal filmmakers who shot and edited
+P14,Hayati,Filmmaker in footnote 52,S01,VERIFIED,Listed among principal filmmakers who shot and edited
+P15,Hemasari Dharmabumi,Labour Education Centre coordinator; IUF Indonesia representative,S02;S03,CORROBORATED,Documented institutional roles in 2000; identity as unnamed contact remains UNKNOWN
+P16,Unnamed female IUF labour educator,Contact who approached filmmakers about a possible IUF educational film,S01,VERIFIED,Identity not named in cited dissertation passage
