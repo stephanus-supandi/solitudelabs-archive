@@ -31,6 +31,9 @@ See [METHODOLOGY.md](METHODOLOGY.md).
 
 ## Recent archive additions
 
+- 2026-11-28 — [Jokowi–Ahok: Ketika Politik Identitas Bertemu Citra Perubahan](investigations/2026-11-28-jokowi-ahok-pilkada-dki-2012-politik-identitas-citra-perubahan.md): Arsip editorial Pilkada DKI 2012 tentang citra perubahan, kampanye bernuansa etnis dan agama, dukungan PDI-P dan Gerindra, relawan, media sosial, dan perjalanan politik Jokowi–Ahok. Membedakan dokumentasi kampanye identitas dari dugaan koordinasi yang belum dibuktikan. WordPress dan Blogger diambil dan ditinjau; isi substantif konsisten.
+- 2026-11-28 — [Anies Baswedan–Sandiaga Uno: Pilkada 2017 dan Politik Polarisasi](investigations/2026-11-28-anies-baswedan-sandiaga-uno-pilkada-dki-2017-politik-polarisasi.md): Arsip editorial Pilkada DKI 2017 tentang kontroversi Al-Maidah 51, demonstrasi anti-Ahok, mobilisasi organisasi, media sosial, strategi kampanye, hasil pemilihan, dan evaluasi pemerintahan. Memisahkan peristiwa, interpretasi, dan dugaan koordinasi; tidak menganggap kehadiran organisasi sebagai bukti satu komando. WordPress dan Blogger diambil dan ditinjau; isi substantif konsisten.
+
 - 2026-11-26 — [Gita Wirjawan: Polos, Banyak Bertanya, dan Masih Belum Selesai Mencari Tahu](investigations/2026-11-26-gita-wirjawan-polos-banyak-bertanya-dan-masih-belum-selesai-mencari-tahu.md): Satire tentang peran host dalam percakapan *Endgame* bersama Antarina SF Amir. Membedakan lelucon “polos” dari klaim faktual bahwa seseorang tidak tahu apa-apa; menegaskan bahwa pernyataan narasumber tetap perlu diuji dengan data dan dokumen. WordPress berhasil diambil dan ditinjau; pengambilan Blogger hanya menghasilkan tautan navigasi sehingga kesamaan lintas platform belum diverifikasi. Kategori WordPress yang tampil memuat banyak label tak relevan dan perlu ditinjau sebagai masalah metadata.
 
 
