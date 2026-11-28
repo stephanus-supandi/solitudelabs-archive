@@ -1,5 +1,12 @@
 ## 2026-11-28
 
+### Population administration · e-KTP · Civil registration · Identity verification · BLOON INVESTIGATION
+
+- [E-KTP Beda dengan Akta Kelahiran: Salah Ketik, Salah Data, atau Manipulasi Identitas?](investigations/2026-11-28-e-ktp-beda-akta-kelahiran-verifikasi-identitas.md)  
+  Arsip editorial tentang perbedaan data e-KTP dan akta kelahiran. Membedakan kesalahan pencatatan, perubahan nama yang sah, ketidaksinkronan administrasi, dan dugaan manipulasi identitas. Menjelaskan perlunya dasar hukum serta jejak pencatatan perubahan nama, fungsi NIK, dan langkah verifikasi melalui Disdukcapil. Perbedaan dokumen saja tidak dianggap bukti tindak pidana. WordPress diambil dan ditinjau pada 2026-11-28; URL Blogger diberikan penulis tetapi pengambilan otomatis diblokir redirect Google, sehingga konsistensi lintas platform belum diverifikasi. Halaman WordPress juga menampilkan daftar kategori yang tampak tidak relevan dengan isi artikel; klasifikasi arsip dibuat berdasarkan pokok bahasan, bukan menyalin daftar kategori tersebut. Ringkasan editorial, bukan transkripsi verbatim atau pendapat hukum independen.
+
+## 2026-11-28
+
 ### Technology · Python · Termux · Pygame · Software testing · Digital sovereignty
 
 - [😂 BLOON TECH REPORT™: Pygame Sudah Di-install, Game-nya Sudah Jalan Belum?](investigations/2026-11-28-bloon-tech-report-pygame-termux-python-sdl2-kemandirian-teknologi.md)  
