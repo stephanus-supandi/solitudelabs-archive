@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026-11-28-bloon-tech-report-pygame-termux-python-sdl2-kemandirian-teknologi",
+    "title": "😂 BLOON TECH REPORT™: Pygame Sudah Di-install, Game-nya Sudah Jalan Belum? Duitnya Udah Keluar Belum? Rumahnya Udah Jadi Belum? Mobilnya Udah Aman Belum?",
+    "published": "2026-11-28",
+    "type": "published technology article and editorial archive record",
+    "status": "WordPress page retrieved and reviewed on 2026-11-28. Blogger URL supplied by the author, but automated retrieval was blocked by a Google redirect; exact cross-platform text identity is not verified. The article reports package installation only; import, runtime, display, and application testing remain NOT YET VERIFIED. Archive record is an editorial summary, not a verbatim mirror or independent device test.",
+    "category": [
+      "Technology",
+      "Python",
+      "Termux",
+      "Pygame",
+      "SDL2",
+      "Android",
+      "Software Testing",
+      "Dependency Management",
+      "Digital Sovereignty",
+      "BLOON",
+      "2026"
+    ],
+    "wordpress": "https://solitudelabs.wordpress.com/2026/11/28/%F0%9F%98%82-bloon-tech-report-pygame-sudah-di-install-game-nya-sudah-jalan-belum-duitnya-udah-keluar-belum-rumahnya-udah-jadi-belum-mobilnya-udah-aman-belum-2/",
+    "blogger": "https://solitudelabs.blogspot.com/2026/11/bloon-tech-report-pygame-sudah-di.html",
+    "archive_record": "investigations/2026-11-28-bloon-tech-report-pygame-termux-python-sdl2-kemandirian-teknologi.md",
+    "summary": "Mengarsipkan eksperimen pemasangan Pygame melalui Termux pada Android. Artikel mengutip paket python-pygame 2.6.1-5 berstatus install ok installed, perintah python dan python3 yang mengarah ke Python 3.13, serta jejak pygame-2.6.1.dist-info pada python3.14/site-packages. Memisahkan package installed, module importable, runtime working, display working, dan application tested. Keberhasilan import, runtime, tampilan grafis, dan aplikasi belum dibuktikan; status pengujian artikel adalah NOT YET VERIFIED. Menghubungkan disiplin pengujian dengan kemandirian teknologi tanpa menyamakan penggunaan komponen dengan penguasaan seluruh rantai teknologi.",
+    "open_questions": [
+      "Apakah import pygame berhasil pada interpreter Python 3.13 yang aktif?",
+      "Apakah dependensi SDL dan pustaka pendukung cocok dengan lingkungan Termux yang digunakan?",
+      "Apakah tampilan grafis dapat muncul pada perangkat Android tersebut?",
+      "Apakah contoh aplikasi Pygame berhasil dijalankan dan diuji, termasuk input dan suara bila digunakan?"
+    ],
+    "method_note": "WordPress page retrieved and reviewed on 2026-11-28. Blogger URL supplied by the author, but automated retrieval was blocked by a Google redirect; cross-platform text identity is not verified. Package metadata reported in the article establishes installation status only. Import, runtime, display, and application testing are not demonstrated and remain NOT YET VERIFIED. This is an editorial summary, not a verbatim transcription or independent device test.",
+    "sources": [
+      "https://solitudelabs.wordpress.com/2026/11/28/%F0%9F%98%82-bloon-tech-report-pygame-sudah-di-install-game-nya-sudah-jalan-belum-duitnya-udah-keluar-belum-rumahnya-udah-jadi-belum-mobilnya-udah-aman-belum-2/",
+      "https://solitudelabs.blogspot.com/2026/11/bloon-tech-report-pygame-sudah-di.html"
+    ]
+  },
+  {
     "id": "2026-11-28-anies-baswedan-sandiaga-uno-pilkada-dki-2017-politik-polarisasi",
     "title": "Anies Baswedan–Sandiaga Uno: Pilkada 2017 dan Politik Polarisasi",
     "published": "2026-11-28",
