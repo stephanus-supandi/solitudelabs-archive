@@ -1,5 +1,13 @@
 ## 2026-11-28
 
+### Indonesian political history · Jakarta elections · Political identity · Political communication
+
+- [Jokowi–Ahok: Ketika Politik Identitas Bertemu Citra Perubahan](investigations/2026-11-28-jokowi-ahok-pilkada-dki-2012-politik-identitas-citra-perubahan.md)  
+  Arsip editorial Pilkada DKI 2012 tentang citra perubahan, kampanye bernuansa etnis dan agama, dukungan PDI-P dan Gerindra, relawan, media sosial, serta perjalanan Jokowi dari Balai Kota menuju kepresidenan. Mencatat kemenangan putaran kedua 53,82% berbanding 46,18% dan membedakan bukti kampanye identitas dari dugaan koordinasi atau komando yang belum dibuktikan. WordPress dan Blogger diambil dan ditinjau pada 2026-11-28; isi substantif konsisten. Ringkasan editorial, bukan transkripsi verbatim atau verifikasi independen atas semua klaim.
+
+- [Anies Baswedan–Sandiaga Uno: Pilkada 2017 dan Politik Polarisasi](investigations/2026-11-28-anies-baswedan-sandiaga-uno-pilkada-dki-2017-politik-polarisasi.md)  
+  Arsip editorial Pilkada DKI 2017 tentang kontroversi pidato Al-Maidah 51, demonstrasi anti-Ahok, mobilisasi organisasi dan kelompok keagamaan, media sosial, strategi kampanye Anies–Sandi, hasil pemilihan, serta tanggung jawab pemerintahan. Memisahkan pidato dan proses hukum, mobilisasi massa, penggunaan isu identitas dalam kompetisi elektoral, serta faktor kebijakan dan jaringan politik. Tidak menyimpulkan satu komando tersembunyi tanpa bukti. WordPress dan Blogger diambil dan ditinjau pada 2026-11-28; isi substantif konsisten. Ringkasan editorial, bukan transkripsi verbatim atau verifikasi independen atas semua klaim.
+
 ### Indonesian history · Labour history · Documentary film · IUF · SERBUK · OSINT
 
 - [The Globalisation Tapes: Serikat Buruh, Pembuat Film, dan Jejak Menuju The Act of Killing](investigations/2026-11-28-the-globalisation-tapes-serikat-buruh-pembuat-film-dan-jejak-menuju-the-act-of-killing.md)  
