@@ -1,5 +1,12 @@
 ## 2026-11-28
 
+### Technology · Python · Termux · Pygame · Software testing · Digital sovereignty
+
+- [😂 BLOON TECH REPORT™: Pygame Sudah Di-install, Game-nya Sudah Jalan Belum?](investigations/2026-11-28-bloon-tech-report-pygame-termux-python-sdl2-kemandirian-teknologi.md)  
+  Arsip editorial eksperimen Pygame di Termux pada Android. Mencatat paket `python-pygame` 2.6.1-5 berstatus terpasang, perintah `python`/`python3` mengarah ke Python 3.13, dan jejak metadata Pygame pada direktori Python 3.14. Memisahkan lima tahap: paket terpasang, modul dapat diimpor, runtime berjalan, tampilan grafis muncul, dan aplikasi diuji. Keberhasilan impor, runtime, display, serta aplikasi belum dibuktikan; status artikel tetap NOT YET VERIFIED. WordPress diambil dan dibaca pada 2026-11-28; URL Blogger diberikan penulis tetapi pengambilan otomatis terhalang redirect Google, sehingga kesamaan isi lintas platform belum diverifikasi. Ringkasan editorial, bukan transkripsi verbatim atau pengujian ulang perangkat.
+
+## 2026-11-28
+
 ### Indonesian political history · Jakarta elections · Political identity · Political communication
 
 - [Jokowi–Ahok: Ketika Politik Identitas Bertemu Citra Perubahan](investigations/2026-11-28-jokowi-ahok-pilkada-dki-2012-politik-identitas-citra-perubahan.md)  
