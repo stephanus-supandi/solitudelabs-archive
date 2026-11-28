@@ -1,5 +1,12 @@
 ## 2026-11-28
 
+### Indonesian criminal case · Kaliurang · Digital media literacy · BLOON INVESTIGATION
+
+- [Ayu Indraswari: Tragedi Mutilasi di KM 18 Kaliurang — Fakta Kasus, Jejak Digital, dan Batas Spekulasi](investigations/2026-11-28-ayu-indraswari-km-18-kaliurang.md)  
+  Mengarsipkan artikel tentang pembunuhan Ayu Indraswari di sebuah wisma di Jalan Kaliurang KM 18, Pakem, Sleman pada Maret 2023. Merangkum kronologi dasar, identifikasi pelaku Heru Prastiyo dalam proses perkara, motif sebagaimana disampaikan polisi, serta vonis Pengadilan Negeri Sleman pada 30 Agustus 2023. Menyoroti pemberitaan 3 April 2023 tentang keterangan polisi bahwa pelaku pernah menonton video YouTube terkait cara melumpuhkan orang. Membandingkan tema tersebut dengan cerita fiksi Kanal Terakhir tentang penjaga warnet, tetapi menegaskan tidak ada bukti yang ditemukan bahwa video fiksi mengambil referensi dari kasus Ayu. Memisahkan perkara pidana, cerita mistis/legenda urban Kaliurang, dan dugaan yang belum diverifikasi. Tidak menghubungkan individu, villa, atau tempat lain dengan kejahatan tanpa bukti. Kedua halaman WordPress dan Blogger diambil dan ditinjau pada 2026-11-28; isi substantif konsisten. Daftar kategori WordPress tampak memuat banyak kategori yang tidak relevan, sedangkan Blogger menampilkan label tematik; klasifikasi arsip mengikuti isi artikel. Ringkasan editorial, bukan transkripsi verbatim atau pemeriksaan independen atas berkas perkara.
+
+## 2026-11-28
+
 ### Population administration · e-KTP · Civil registration · Identity verification · BLOON INVESTIGATION
 
 - [E-KTP Beda dengan Akta Kelahiran: Salah Ketik, Salah Data, atau Manipulasi Identitas?](investigations/2026-11-28-e-ktp-beda-akta-kelahiran-verifikasi-identitas.md)  
